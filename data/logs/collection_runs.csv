@@ -1,0 +1,2 @@
+﻿started_at_utc,finished_at_utc,snapshot_date,api_requests,raw_records,unique_jobs,new_jobs,failed_requests,jobs_requiring_role_review,daily_file
+2026-09-03T11:27:21.693860+00:00,2026-09-03T11:28:20.973018+00:00,2026-09-03,20,5,5,5,0,0,data/daily/adzuna_jobs_2026-09-03.csv
