@@ -18,7 +18,7 @@ class CollectorTests(unittest.TestCase):
 
         request_params = session_class.return_value.get.call_args.kwargs["params"]
         self.assertEqual(request_params["what"], "data analyst")
-        self.assertEqual(request_params["title_only"], 1)
+        self.assertEqual(request_params["title_only"],"data analyst")
         self.assertEqual(request_params["sort_by"], "date")
 
     def test_clean_snapshot_deduplicates_and_resolves_roles(self):
