@@ -80,7 +80,7 @@ class AdzunaClient:
             "app_key": self.app_key,
             "results_per_page": RESULTS_PER_PAGE,
             "what": search_term,
-            "title_only": 1,
+            "title_only": search_term,
             "sort_by": "date",
             "content-type": "application/json",
         }
