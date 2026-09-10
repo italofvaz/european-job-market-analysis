@@ -18,6 +18,18 @@ Generated files:
 - `data/history/job_search_matches.csv`: search-term lineage;
 - `data/logs/collection_runs.csv`: execution and quality metrics.
 
+After collection, `src/transform_powerbi.py` creates the reporting layer in
+`data/processed`:
+
+- `fact_job_snapshots.csv`: one job observed on one snapshot date;
+- `dim_jobs.csv`: one row per unique job advertisement;
+- `dim_date.csv`, `dim_country.csv`, `dim_role.csv`, `dim_company.csv`, and
+  `dim_location.csv`: Power BI dimensions;
+- `dim_skill.csv` and `bridge_job_skills.csv`: skill mentions extracted from
+  the available title and description snippet;
+- `fact_search_matches.csv`: search-term coverage and lineage;
+- `fact_collection_runs.csv` and `etl_quality_report.csv`: pipeline monitoring.
+
 The collector keeps salaries in their original currencies: GBP, EUR, and CHF.
 It does not treat the absence of remote-work keywords as proof that a job is
 on-site.
@@ -46,7 +58,12 @@ pip install -r requirements.txt
 export ADZUNA_APP_ID="your_app_id"
 export ADZUNA_APP_KEY="your_app_key"
 python src/collect_jobs.py
+python src/transform_powerbi.py
 ```
+
+The audit notebook is available at
+`notebooks/01_etl_data_validation.ipynb`. It can also be opened in Google
+Colab and loads the latest public repository data automatically.
 
 ## Methodological scope
 
@@ -54,6 +71,12 @@ The daily output is a repeated snapshot of advertisements accessible through
 the Adzuna Search API. It should not be described as a census of every vacancy
 published in each country. Search coverage, language, selected terms, API page
 limits, and listing availability all affect the results.
+
+Salary records remain in their source currency. Values below 10,000 or above
+300,000 are retained but flagged and excluded from annual salary comparisons,
+because the API may contain non-annual rates or source parsing issues. Skill
+frequencies may be understated because the API supplies a description snippet
+rather than the complete job description.
 
 ## Data source and permitted use
 

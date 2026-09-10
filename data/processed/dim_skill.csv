@@ -1,0 +1,24 @@
+﻿skill_key,skill_name,skill_category
+sql,SQL,Technical
+python,Python,Technical
+power-bi,Power BI,Technical
+tableau,Tableau,Technical
+excel,Excel,Technical
+r,R,Technical
+aws,AWS,Cloud
+azure,Azure,Cloud
+gcp,Google Cloud,Cloud
+snowflake,Snowflake,Data platform
+databricks,Databricks,Data platform
+spark,Spark,Data platform
+etl,ETL,Data engineering
+data-modeling,Data Modeling,Data engineering
+dax,DAX,Technical
+machine-learning,Machine Learning,Analytics
+statistics,Statistics,Analytics
+data-visualization,Data Visualization,Analytics
+git,Git,Development
+agile,Agile,Methodology
+stakeholder-management,Stakeholder Management,Business
+communication,Communication,Business
+problem-solving,Problem Solving,Business

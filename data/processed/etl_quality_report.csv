@@ -1,0 +1,13 @@
+﻿check,value,status
+Duplicate job_snapshot_key,0,PASS
+Duplicate job_key in DimJobs,0,PASS
+Orphan job_key against dim_jobs,0,PASS
+Orphan snapshot_date_key against dim_date,0,PASS
+Orphan country_key against dim_country,0,PASS
+Orphan role_key against dim_role,0,PASS
+Orphan company_key against dim_company,0,PASS
+Orphan location_key against dim_location,0,PASS
+Salary records excluded from annual comparison,178,WARNING
+Jobs requiring role review,2,WARNING
+Jobs without city,696,WARNING
+Jobs without disclosed company,16,WARNING
