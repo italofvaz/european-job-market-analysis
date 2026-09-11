@@ -38,7 +38,10 @@ jobs:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python src/collect_jobs.py
-
+        
+      - name: Transform data for Power BI
+        run: python src/transform_powerbi.py
+        
       - name: Commit updated datasets
         run: |
           git config user.name "github-actions[bot]"
