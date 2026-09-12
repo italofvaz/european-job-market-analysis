@@ -7,7 +7,7 @@ Orphan country_key against dim_country,0,PASS
 Orphan role_key against dim_role,0,PASS
 Orphan company_key against dim_company,0,PASS
 Orphan location_key against dim_location,0,PASS
-Salary records excluded from annual comparison,221,WARNING
-Jobs requiring role review,3,WARNING
-Jobs without city,796,WARNING
-Jobs without disclosed company,17,WARNING
+Salary records excluded from annual comparison,244,WARNING
+Jobs requiring role review,2,WARNING
+Jobs without city,832,WARNING
+Jobs without disclosed company,18,WARNING
