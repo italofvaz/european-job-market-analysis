@@ -32,6 +32,7 @@ loc-41e993236e836746,"Kanton Neuenburg, Schweiz",Kanton Neuenburg,Kanton Neuenbu
 loc-e2ca39ff2492d154,"La Sagne, Neuenburg",La Sagne,Kanton Neuenburg,47.049328,6.788867,ch
 loc-80cc19bf4372287c,Schaffhausen,Schaffhausen,Kanton Schaffhausen,47.703581,8.635858,ch
 loc-cd296ea7e6a54710,"Freienbach, Höfe",Freienbach,Kanton Schwyz,47.20146,8.779103,ch
+loc-06dd891927e4cfe5,"Härkingen, Gau",Härkingen,Kanton Solothurn,47.309362,7.818373,ch
 loc-f54e39b19aad539b,Solothurn,Solothurn,Kanton Solothurn,47.209499,7.532975,ch
 loc-5dac5e1dad1d7ec4,"Sankt Gallen, St. Gallen",Sankt Gallen,Kanton St.Gallen,,,ch
 loc-f7cfe1f749b412e4,"Bioggio, Lugano",Bioggio,Kanton Tessin,46.015093,8.907052,ch
@@ -245,6 +246,7 @@ loc-7edee55ece00984e,"Bayenthal, Köln",Bayenthal,Nordrhein-Westfalen,50.91237,6
 loc-5f6c04c9332e2816,"Bedingrade, Essen",Bedingrade,Nordrhein-Westfalen,51.47071,6.92077,de
 loc-21594cbe3b7a0ac4,"Bergheim, Duisburg",Bergheim,Nordrhein-Westfalen,51.41007,6.68511,de
 loc-cef581651fb7f7ee,"Bergheim, Troisdorf",Bergheim,Nordrhein-Westfalen,50.77497,7.09231,de
+loc-49b64bef6800df69,"Bickendorf, Köln",Bickendorf,Nordrhein-Westfalen,50.95778,6.90002,de
 loc-f7daf1cc9fa57b54,"Bochum, Nordrhein-Westfalen",Bochum,Nordrhein-Westfalen,51.476986,7.211571,de
 loc-6e53d3411ff17ab5,"Bocklemünd/Mengenich, Köln",Bocklemünd/Mengenich,Nordrhein-Westfalen,50.9756,6.85907,de
 loc-c474ea8db1b575b5,"Bonn, Nordrhein-Westfalen",Bonn,Nordrhein-Westfalen,50.71942,7.112412,de
@@ -299,6 +301,7 @@ loc-f43d2fc1238234ee,"Mainz, Rheinland-Pfalz",Mainz,Rheinland-Pfalz,49.979007,8.
 loc-2ed4a06677b44ad4,"Mayen, Mayen-Koblenz (Kreis)",Mayen,Rheinland-Pfalz,50.3271,7.22469,de
 loc-da27c285a7dffe92,"Speyer, Speyer (Kreis)",Speyer,Rheinland-Pfalz,49.31728,8.43101,de
 loc-ad4315313ff438f2,"Saarbrücken, Regionalverband Saarbrücken (Kreis)",Saarbrücken,Saarland,49.232146,7.013165,de
+loc-c830d98a79eaf843,"Saarlouis, Saarlouis (Kreis)",Saarlouis,Saarland,49.31568,6.75035,de
 loc-90042766d265c6ee,"Adelsdorf, Meißen (Kreis)",Adelsdorf,Sachsen,51.3194,13.58212,de
 loc-91672b475b17dd0a,"Dresden, Sachsen",Dresden,Sachsen,51.052725,13.756452,de
 loc-1757a69c66a75093,"Dresdener Heide, Dresden",Dresdener Heide,Sachsen,51.09459,13.84187,de
@@ -450,7 +453,7 @@ loc-f577a323ae876739,"Bankside, South East London",Bankside,London,51.506744,-0.
 loc-bf7409043cc58cf6,"Barbican, Central London",Barbican,London,51.517741,-0.090445,gb
 loc-92d9f7774241a35f,"Bishopsgate, Central London",Bishopsgate,London,51.521065,-0.080864,gb
 loc-93c38e09bab89456,"Blackfriars, Central London",Blackfriars,London,51.511737,-0.105064,gb
-loc-7d58338fd7fae5bc,"Borough, South East London",Borough,London,51.49984,-0.124663,gb
+loc-7d58338fd7fae5bc,"Borough, South East London",Borough,London,51.501286,-0.127508,gb
 loc-538c3c5d0012085f,"Broadgate, Central London",Broadgate,London,51.521626,-0.081634,gb
 loc-27c74af7f2e9f1d4,"Bromley, South East London",Bromley,London,,,gb
 loc-537ff2f8a38eefff,"Canary Wharf, East London",Canary Wharf,London,51.508092,-0.022997,gb
@@ -471,6 +474,7 @@ loc-bb857bf796c9fd51,"Fenchurch St, Central London",Fenchurch St,London,51.51314
 loc-7683e7b678c3d672,"Fleet Street, Central London",Fleet Street,London,51.518494,-0.111962,gb
 loc-e929722ead205d87,"Furzedown, South West London",Furzedown,London,51.4103,-0.162653,gb
 loc-60c525fb2a8bc0a7,"Hackney, East London",Hackney,London,51.5439,-0.066098,gb
+loc-1b0817519226c6dc,"Holborn, Central London",Holborn,London,51.519738,-0.118858,gb
 loc-b9759cc8b44112e8,"Hounslow, London",Hounslow,London,51.467602,-0.361799,gb
 loc-852931cc3884b8ec,"Hyde Park, West London",Hyde Park,London,51.516979,-0.156331,gb
 loc-a24ef74f559dfe36,"Isleworth, West London",Isleworth,London,,,gb
@@ -500,7 +504,9 @@ loc-8da949b5881bb1f2,"South East London, London",South East London,London,51.451
 loc-408acfc44ddd322e,"South West London, London",South West London,London,51.448229,-0.195605,gb
 loc-5ca07b75e0911779,"Southwark, South East London",Southwark,London,51.501712,-0.089083,gb
 loc-0cb97658329bc401,"Spitalfields, East London",Spitalfields,London,51.52019,-0.077975,gb
+loc-ca8ba0418cc5f90e,"St Paul's, Central London",St Paul's,London,51.512701,-0.097919,gb
 loc-8d41d81b5f7da722,"Stoke Newington, North London",Stoke Newington,London,51.560101,-0.073739,gb
+loc-cd66864d3f49c8b0,"Strand, Central London",Strand,London,51.510706,-0.121464,gb
 loc-ada7de66e1b34917,"The City, Central London",The City,London,51.511751,-0.089831,gb
 loc-17f87593da093542,"Tower Bridge, East London",Tower Bridge,London,51.504176,-0.079744,gb
 loc-9b677fe62d26e2d1,"Uxbridge, London",Uxbridge,London,,,gb
@@ -704,6 +710,7 @@ loc-a0cff922be0fc4d2,"Yeovil, Somerset",Yeovil,South West England,50.943802,-2.6
 loc-d4823c65f7fb3440,"Bodelwyddan, Rhyl",Bodelwyddan,Wales,53.255919,-3.475601,gb
 loc-6b1fb1ab1790aea0,"Brackla, Bridgend",Brackla,Wales,51.509146,-3.540993,gb
 loc-a6fc0a9a728a0868,"Bridgend, Bridgend County",Bridgend,Wales,51.507301,-3.58104,gb
+loc-d5858621a00c7b78,"Briton Ferry, Neath",Briton Ferry,Wales,51.618977,-3.822974,gb
 loc-71830656f078ed82,"Cardiff, Cardiff County",Cardiff,Wales,51.4813,-3.1805,gb
 loc-b7fe6e1b29ec9c0f,"Cardiff County, Wales",Cardiff County,Wales,51.5078,-3.210445,gb
 loc-7cfd04503a4fadc1,"Cwmoody, Pontypool",Cwmoody,Wales,51.718431,-2.997468,gb
