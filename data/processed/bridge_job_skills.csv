@@ -68,6 +68,8 @@ ch-5890633531,communication,False,True
 ch-5890635502,power-bi,False,True
 ch-5890636023,agile,False,True
 ch-5890636023,stakeholder-management,False,True
+ch-5892144286,r,False,True
+ch-5892674996,r,False,True
 de-5330215394,power-bi,True,False
 de-5479764604,r,False,True
 de-5751150763,sql,False,True
@@ -297,6 +299,14 @@ de-5891400049,r,False,True
 de-5891400049,databricks,False,True
 de-5891400049,machine-learning,False,True
 de-5891422884,agile,False,True
+de-5891495190,machine-learning,False,True
+de-5891495211,machine-learning,False,True
+de-5891846591,agile,False,True
+de-5891853453,power-bi,True,False
+de-5891909418,power-bi,False,True
+de-5891909418,tableau,False,True
+de-5892312071,power-bi,True,False
+de-5892604454,agile,False,True
 es-3913351514,excel,False,True
 es-4338872287,python,True,True
 es-4338872287,communication,False,True
@@ -1629,6 +1639,8 @@ gb-5890531024,power-bi,False,True
 gb-5890531024,dax,False,True
 gb-5890531024,statistics,False,True
 gb-5890784357,stakeholder-management,False,True
+gb-5891073212,power-bi,False,True
+gb-5891073212,excel,False,True
 gb-5891452432,stakeholder-management,False,True
 gb-5891552789,r,False,True
 gb-5891553326,stakeholder-management,False,True
@@ -1638,6 +1650,7 @@ gb-5891555246,stakeholder-management,False,True
 gb-5891558614,data-modeling,False,True
 gb-5891558614,data-visualization,False,True
 gb-5891559895,stakeholder-management,False,True
+gb-5891560643,stakeholder-management,False,True
 gb-5891562240,stakeholder-management,False,True
 gb-5891622684,communication,False,True
 gb-5891622684,problem-solving,False,True
@@ -1650,3 +1663,11 @@ gb-5891624267,data-visualization,False,True
 gb-5891624267,communication,False,True
 gb-5891624267,problem-solving,False,True
 gb-5891624317,communication,False,True
+gb-5891920459,stakeholder-management,False,True
+gb-5892049038,stakeholder-management,False,True
+gb-5892271980,stakeholder-management,False,True
+gb-5892660162,agile,False,True
+gb-5892678247,power-bi,False,True
+gb-5892744449,power-bi,False,True
+gb-5892807444,stakeholder-management,False,True
+gb-5892836096,stakeholder-management,False,True
