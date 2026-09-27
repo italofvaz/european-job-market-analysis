@@ -288,6 +288,7 @@ loc-bbd40ae5ae366a6e,"Linden-Süd, Hannover",Linden-Süd,Niedersachsen,52.36232,
 loc-35cd28b954bdc50a,"Mühlenberg, Hannover",Mühlenberg,Niedersachsen,52.34589,9.68893,de
 loc-4bcca900ef6dd364,"Osnabrück, Osnabrück (Kreis)",Osnabrück,Niedersachsen,52.274227,8.055137,de
 loc-1e432c95f81ecc8f,"Region Hannover (Kreis), Niedersachsen",Region Hannover (Kreis),Niedersachsen,,,de
+loc-d450a384a9dc54f4,"Soltau, Soltau-Fallingbostel (Kreis)",Soltau,Niedersachsen,52.98667,9.83994,de
 loc-314d5f9d60ef25a7,"Stiddien, Braunschweig",Stiddien,Niedersachsen,52.22806,10.45588,de
 loc-cafcbe287f436a9b,"Wolfsburg, Niedersachsen",Wolfsburg,Niedersachsen,52.41453,10.786696,de
 loc-91b11aa5daa7cc03,"Aachen, Aachen (Kreis)",Aachen,Nordrhein-Westfalen,50.773914,6.089788,de
@@ -394,6 +395,7 @@ loc-f19a864a31397245,"Freiberg, Mittelsachsen (Kreis)",Freiberg,Sachsen,50.91404
 loc-1dfcaac84639aecf,"Friedrichstadt, Dresden",Friedrichstadt,Sachsen,51.05811,13.71006,de
 loc-09d5a83ff3cea826,"Großerkmannsdorf, Bautzen (Kreis)",Großerkmannsdorf,Sachsen,51.0874,13.9238,de
 loc-f62736a4a41845b4,"Gruna, Dresden",Gruna,Sachsen,51.03697,13.78552,de
+loc-2530b767ab8fc3ee,"Kaditz, Dresden",Kaditz,Sachsen,51.08584,13.68319,de
 loc-75ed3be113c6480e,"Leipzig, Leipzig (Kreis)",Leipzig,Sachsen,51.339254,12.373598,de
 loc-81990725a9f9e045,"Leipzig (Kreis), Sachsen",Leipzig (Kreis),Sachsen,51.210435,12.652069,de
 loc-a3a59203fa65a7fb,"Rötha, Leipzig (Kreis)",Rötha,Sachsen,51.19901,12.41674,de
@@ -503,7 +505,7 @@ loc-0dbcfe5c956f3781,"Kilburn, Belper",Kilburn,East Midlands,53.0061,-1.43879,gb
 loc-dd0d9d037459ca56,"Leicester, Leicestershire",Leicester,East Midlands,52.6348,-1.12952,gb
 loc-452725e3e7dacd41,"Lenton, Nottingham",Lenton,East Midlands,52.941278,-1.174576,gb
 loc-6f27b4ea217b9c2e,"Lincoln, Lincolnshire",Lincoln,East Midlands,53.234901,-0.538436,gb
-loc-c0d27de5978b9a95,"Little Oakley, Corby",Little Oakley,East Midlands,52.495418,-0.682204,gb
+loc-c0d27de5978b9a95,"Little Oakley, Corby",Little Oakley,East Midlands,52.500881,-0.688372,gb
 loc-b7d9703210389521,"Marehay, Ripley",Marehay,East Midlands,53.026571,-1.414354,gb
 loc-c64faa99cbc09292,"Northampton, Northamptonshire",Northampton,East Midlands,52.2369,-0.897391,gb
 loc-8f36cdabb45f49c1,"Nottingham, Nottinghamshire",Nottingham,East Midlands,52.955101,-1.14917,gb
@@ -579,7 +581,7 @@ loc-27c74af7f2e9f1d4,"Bromley, South East London",Bromley,London,,,gb
 loc-537ff2f8a38eefff,"Canary Wharf, East London",Canary Wharf,London,51.508092,-0.022997,gb
 loc-d8e26ea776cd413b,"Central London, London",Central London,London,51.51985,-0.11126,gb
 loc-a9ab92e3b86c4ecc,"Charing Cross, Central London",Charing Cross,London,51.507189,-0.126998,gb
-loc-1a4edbc5ee7cceb0,"Chelsea, South West London",Chelsea,London,51.481124,-0.190297,gb
+loc-1a4edbc5ee7cceb0,"Chelsea, South West London",Chelsea,London,51.484261,-0.181459,gb
 loc-448750601ae96b69,"Clerkenwell, Central London",Clerkenwell,London,51.526556,-0.100571,gb
 loc-3bbb60ca17efdc65,"Colindale, North West London",Colindale,London,51.594757,-0.254103,gb
 loc-78c58fa58fd5fe3e,"Covent Garden, Central London",Covent Garden,London,51.509944,-0.127807,gb
@@ -620,6 +622,7 @@ loc-d27244c94a6d195d,"Newham, East London",Newham,London,51.526798,0.025682,gb
 loc-cf89376b8b30bfea,"North Acton, North West London",North Acton,London,51.515309,-0.261942,gb
 loc-9c5fd540802dab62,"North London, London",North London,London,51.586237,-0.123313,gb
 loc-23a23fc51e697b25,"Oxford Circus, Central London",Oxford Circus,London,51.516023,-0.139088,gb
+loc-af141e5d0ccb3095,"Paddington, West London",Paddington,London,51.517124,-0.174212,gb
 loc-63d9755957fbac78,"Park Royal, North West London",Park Royal,London,51.529528,-0.263909,gb
 loc-e8a93105899e3fe5,"Piccadilly, West London",Piccadilly,London,51.511351,-0.137679,gb
 loc-496a9afd651a67f0,"Pimlico, South West London",Pimlico,London,51.489086,-0.139816,gb
@@ -633,7 +636,7 @@ loc-408acfc44ddd322e,"South West London, London",South West London,London,51.448
 loc-a09a58c913df1b20,"South Wimbledon, South West London",South Wimbledon,London,51.422874,-0.209283,gb
 loc-db7fbd04978a779e,"Southgate, North London",Southgate,London,51.633528,-0.126711,gb
 loc-5ca07b75e0911779,"Southwark, South East London",Southwark,London,51.50296,-0.090587,gb
-loc-0cb97658329bc401,"Spitalfields, East London",Spitalfields,London,51.52019,-0.077975,gb
+loc-0cb97658329bc401,"Spitalfields, East London",Spitalfields,London,51.521721,-0.07151,gb
 loc-ca8ba0418cc5f90e,"St Paul's, Central London",St Paul's,London,51.512701,-0.097919,gb
 loc-8d41d81b5f7da722,"Stoke Newington, North London",Stoke Newington,London,51.560101,-0.073739,gb
 loc-cd66864d3f49c8b0,"Strand, Central London",Strand,London,51.510706,-0.121464,gb
@@ -652,7 +655,7 @@ loc-b07677c67b839522,"West London, London",West London,London,51.511529,-0.23839
 loc-b225ef489277b06b,"Alnwick, Northumberland",Alnwick,North East England,55.412601,-1.70896,gb
 loc-e7ab84314bab4b62,"Ashington, Northumberland",Ashington,North East England,55.183201,-1.5781,gb
 loc-2660da5db31cb1d2,"Bebside, Blyth",Bebside,North East England,55.136956,-1.560567,gb
-loc-aaba6f6c25ba4cdc,"Darlington, County Durham",Darlington,North East England,,,gb
+loc-aaba6f6c25ba4cdc,"Darlington, County Durham",Darlington,North East England,54.528702,-1.55305,gb
 loc-cdebd1394734fccb,"Gateshead, Tyne & Wear",Gateshead,North East England,54.936904,-1.587407,gb
 loc-c7f6d23c19945b88,"Gilesgate, Durham",Gilesgate,North East England,54.778362,-1.572652,gb
 loc-b50eefbd14b01865,"Great Burdon, Darlington",Great Burdon,North East England,54.521763,-1.506508,gb
@@ -707,6 +710,7 @@ loc-aa8bff15c56d23f1,"Manchester Science Park, Manchester",Manchester Science Pa
 loc-0c39960166e5a1c0,"Manor Park, Runcorn",Manor Park,North West England,53.347961,-2.671498,gb
 loc-3302393680e23226,"Mobberley, Knutsford",Mobberley,North West England,53.310976,-2.349088,gb
 loc-3dc0a18f6d3532aa,"Neston, Cheshire",Neston,North West England,53.289902,-3.06447,gb
+loc-08ba9f5f5f85a932,"Nether Alderley, Macclesfield",Nether Alderley,North West England,53.282061,-2.22489,gb
 loc-bc392eeb59210bed,"Newton-Le-Willows, Merseyside",Newton-Le-Willows,North West England,53.456402,-2.63355,gb
 loc-1d188c44ecdd08d2,"Newtown, Disley",Newtown,North West England,53.357997,-2.03823,gb
 loc-4be07d797f5c7022,"North West England, UK",North West England,North West England,53.954491,-2.749077,gb
@@ -895,6 +899,7 @@ loc-34f10617362307f2,"Freshbrook, Swindon",Freshbrook,South West England,51.5534
 loc-ac5e5950dcd41b88,"Gloucester, Gloucestershire",Gloucester,South West England,51.866699,-2.24867,gb
 loc-7ac1eae93a74cdd6,"Haydon, Taunton",Haydon,South West England,51.014096,-3.068096,gb
 loc-7b5a21370f113ff1,"Holmbush, St. Austell",Holmbush,South West England,50.34224,-4.761084,gb
+loc-b1a47ce357184b8d,"Houndstone, Yeovil",Houndstone,South West England,50.935397,-2.663715,gb
 loc-a28e54631632db33,"Kenn, Clevedon",Kenn,South West England,51.435107,-2.849924,gb
 loc-741fe7d56170eb59,"Lacock, Chippenham",Lacock,South West England,51.420633,-2.133049,gb
 loc-18944fe268bb94b5,"Langford, Cullompton",Langford,South West England,50.809318,-3.391006,gb
@@ -951,6 +956,7 @@ loc-f228c055b941d32d,"Birchills, Walsall",Birchills,West Midlands,52.587761,-1.9
 loc-1b1859b605652266,"Birmingham, West Midlands",Birmingham,West Midlands,52.483002,-1.89359,gb
 loc-88d55b923a464fcb,"Blythe Valley Park, Shirley",Blythe Valley Park,West Midlands,52.38948,-1.803659,gb
 loc-2d30f4699f1ffdd3,"Bournbrook, Birmingham",Bournbrook,West Midlands,52.448975,-1.93086,gb
+loc-d9803923a67fe373,"Bridgetown, Stratford-Upon-Avon",Bridgetown,West Midlands,52.174876,-1.678128,gb
 loc-029c809d1e35d9c7,"Bromsgrove, Worcestershire",Bromsgrove,West Midlands,52.333801,-2.06351,gb
 loc-2d1e73db3e6a3110,"Burton-On-Trent, Staffordshire",Burton-On-Trent,West Midlands,52.8069,-1.64303,gb
 loc-f8a0021bdc7f9469,"Castle Bromwich, Birmingham",Castle Bromwich,West Midlands,52.505501,-1.7832,gb
@@ -1011,6 +1017,7 @@ loc-336e83eed7f857bb,"Worcester, Worcestershire",Worcester,West Midlands,52.1920
 loc-f6a916dfd13a2321,"Worcestershire, West Midlands",Worcestershire,West Midlands,52.22285,-2.183016,gb
 loc-6e927c424305c95f,"Armley, Leeds",Armley,Yorkshire And The Humber,53.788848,-1.600465,gb
 loc-aeaa4c410fa72411,"Barnsley, South Yorkshire",Barnsley,Yorkshire And The Humber,53.552898,-1.48127,gb
+loc-66c8f5facdcc2d2e,"Blackley, Elland",Blackley,Yorkshire And The Humber,53.692655,-1.82446,gb
 loc-df4628696d94695e,"Bradford, West Yorkshire",Bradford,Yorkshire And The Humber,53.7939,-1.75244,gb
 loc-ba1ac42253e80be4,"Carleton, Skipton",Carleton,Yorkshire And The Humber,53.957718,-2.025887,gb
 loc-f92996942452579a,"Churwell, Morley",Churwell,Yorkshire And The Humber,53.762228,-1.5776,gb
