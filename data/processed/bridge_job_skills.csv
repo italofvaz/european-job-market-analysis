@@ -416,6 +416,15 @@ de-5900238561,etl,False,True
 de-5900285600,agile,False,True
 de-5900365871,sql,False,True
 de-5900365871,etl,False,True
+de-5900427585,machine-learning,False,True
+de-5900427586,machine-learning,False,True
+de-5900679523,sql,False,True
+de-5900679523,etl,False,True
+de-5900716284,communication,False,True
+de-5901043062,agile,False,True
+de-5901185757,power-bi,True,False
+de-5901198833,sql,False,True
+de-5901198833,etl,False,True
 es-3913351514,excel,False,True
 es-4338872287,python,True,True
 es-4338872287,communication,False,True
@@ -697,6 +706,11 @@ es-5898052522,stakeholder-management,False,True
 es-5898056686,r,False,True
 es-5898835863,stakeholder-management,False,True
 es-5898836754,stakeholder-management,False,True
+es-5900358221,data-modeling,False,True
+es-5900358221,data-visualization,False,True
+es-5900358221,stakeholder-management,False,True
+es-5900933129,stakeholder-management,False,True
+es-5901354063,agile,False,True
 gb-5210480123,etl,True,True
 gb-5748978694,power-bi,True,False
 gb-5748978694,machine-learning,False,True
@@ -1157,6 +1171,7 @@ gb-5874418500,excel,False,True
 gb-5874418862,stakeholder-management,False,True
 gb-5874487851,data-visualization,True,False
 gb-5874508666,data-visualization,False,True
+gb-5874508721,power-bi,False,True
 gb-5874519937,stakeholder-management,False,True
 gb-5875056099,stakeholder-management,False,True
 gb-5875056109,stakeholder-management,False,True
@@ -1296,6 +1311,7 @@ gb-5877618502,stakeholder-management,False,True
 gb-5877618564,sql,False,True
 gb-5877644326,stakeholder-management,False,True
 gb-5877815599,agile,False,True
+gb-5877992771,stakeholder-management,False,True
 gb-5878311635,sql,False,True
 gb-5878311635,python,False,True
 gb-5878311635,power-bi,False,True
@@ -1646,6 +1662,7 @@ gb-5887998554,stakeholder-management,False,True
 gb-5888087075,power-bi,False,True
 gb-5888197991,python,False,True
 gb-5888197991,excel,False,True
+gb-5888204253,stakeholder-management,False,True
 gb-5888206653,stakeholder-management,False,True
 gb-5888219236,stakeholder-management,False,True
 gb-5888222866,problem-solving,False,True
@@ -2181,3 +2198,14 @@ gb-5899939739,excel,False,True
 gb-5899939739,statistics,False,True
 gb-5900302365,sql,False,True
 gb-5900302365,power-bi,False,True
+gb-5900641779,stakeholder-management,False,True
+gb-5900643140,power-bi,False,True
+gb-5900643140,stakeholder-management,False,True
+gb-5900643844,agile,False,True
+gb-5900782726,stakeholder-management,False,True
+gb-5900783168,stakeholder-management,False,True
+gb-5901461921,excel,False,True
+gb-5901463106,excel,False,True
+gb-5901540296,agile,False,True
+gb-5901540296,stakeholder-management,False,True
+gb-5901631351,stakeholder-management,False,True
