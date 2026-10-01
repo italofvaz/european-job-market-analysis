@@ -4,6 +4,8 @@ An end-to-end data analytics project exploring Data Analyst, BI Analyst, and
 Business Analyst vacancies across the United Kingdom, Germany, Switzerland,
 and Spain using the Adzuna API, Python, and Power BI.
 
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTFkNjNiNWYtNzEwMi00MzVmLTllZWQtMWQwYWMzNGIzZWQwIiwidCI6ImVhOWE0MTlkLTc5YjMtNDBmYi04MDAzLTA0NDc5ZjY1NWMyNCIsImMiOjh9
+
 ## Automated data collection
 
 The repository includes a GitHub Actions workflow that runs every day at
