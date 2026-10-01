@@ -1,0 +1,20 @@
+[
+  {
+    "country_code": "ch",
+    "country": "Switzerland",
+    "currency": "CHF",
+    "role_family": "Business Analyst",
+    "search_term": "business analyst",
+    "page": 4,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/ch/search/4?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=business+analyst&title_only=business+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "ch",
+    "country": "Switzerland",
+    "currency": "CHF",
+    "role_family": "Business Analyst",
+    "search_term": "business analyst",
+    "page": 5,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/ch/search/5?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=business+analyst&title_only=business+analyst&sort_by=date&content-type=application%2Fjson"
+  }
+]
