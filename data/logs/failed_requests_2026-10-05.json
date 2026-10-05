@@ -1,0 +1,92 @@
+[
+  {
+    "country_code": "gb",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "role_family": "Data Analyst",
+    "search_term": "data analyst",
+    "page": 1,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=data+analyst&title_only=data+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "gb",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "role_family": "BI Analyst",
+    "search_term": "BI analyst",
+    "page": 1,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=BI+analyst&title_only=BI+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "gb",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "role_family": "BI Analyst",
+    "search_term": "business intelligence analyst",
+    "page": 1,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=business+intelligence+analyst&title_only=business+intelligence+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "gb",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "role_family": "Business Analyst",
+    "search_term": "business analyst",
+    "page": 2,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/2?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=business+analyst&title_only=business+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "gb",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "role_family": "Business Analyst",
+    "search_term": "business analyst",
+    "page": 3,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/3?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=business+analyst&title_only=business+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "gb",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "role_family": "Business Analyst",
+    "search_term": "business analyst",
+    "page": 4,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/4?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=business+analyst&title_only=business+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "role_family": "Data Analyst",
+    "search_term": "data analyst",
+    "page": 2,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/de/search/2?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=data+analyst&title_only=data+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "role_family": "Data Analyst",
+    "search_term": "data analyst",
+    "page": 3,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/de/search/3?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=data+analyst&title_only=data+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "role_family": "BI Analyst",
+    "search_term": "BI analyst",
+    "page": 1,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/de/search/1?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=BI+analyst&title_only=BI+analyst&sort_by=date&content-type=application%2Fjson"
+  },
+  {
+    "country_code": "de",
+    "country": "Germany",
+    "currency": "EUR",
+    "role_family": "Business Analyst",
+    "search_term": "business analyst",
+    "page": 1,
+    "reason": "503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/de/search/1?app_id=aa0fc1e4&app_key=597cd44f54b31487bf2790b32cbf3967&results_per_page=50&what=business+analyst&title_only=business+analyst&sort_by=date&content-type=application%2Fjson"
+  }
+]

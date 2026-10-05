@@ -96,6 +96,7 @@ ch-5908047392,sql,False,True
 ch-5908047392,python,False,True
 ch-5908047392,excel,False,True
 ch-5908047392,data-visualization,False,True
+ch-5911925148,stakeholder-management,False,True
 de-5330215394,power-bi,True,False
 de-5479764604,r,False,True
 de-5751150763,sql,False,True
@@ -487,6 +488,7 @@ de-5905866855,communication,False,True
 de-5905957034,machine-learning,False,True
 de-5906104581,agile,False,True
 de-5908110768,r,False,True
+de-5908248141,stakeholder-management,False,True
 de-5909331669,tableau,False,True
 de-5909383161,tableau,False,True
 de-5909383161,r,False,True
@@ -502,7 +504,13 @@ de-5911165276,python,False,True
 de-5911165276,r,False,True
 de-5911165276,databricks,False,True
 de-5911165276,machine-learning,False,True
+de-5911248701,machine-learning,False,True
 de-5911248714,machine-learning,False,True
+de-5911637148,stakeholder-management,False,True
+de-5912000602,power-bi,False,True
+de-5912100161,power-bi,False,True
+de-5912223625,power-bi,False,True
+de-5912611599,python,False,True
 es-3913351514,excel,False,True
 es-4338872287,python,True,True
 es-4338872287,communication,False,True
@@ -828,8 +836,14 @@ es-5909776827,power-bi,False,True
 es-5909778366,snowflake,False,True
 es-5909778366,data-modeling,False,True
 es-5909778366,stakeholder-management,False,True
+es-5911346437,azure,False,True
 es-5911350220,stakeholder-management,False,True
 es-5911350220,communication,False,True
+es-5911930773,stakeholder-management,False,True
+es-5911930935,stakeholder-management,False,True
+es-5911931312,agile,False,True
+es-5911931365,agile,False,True
+es-5911932491,stakeholder-management,False,True
 gb-5210480123,etl,True,True
 gb-5748978694,power-bi,True,False
 gb-5748978694,machine-learning,False,True
@@ -2815,3 +2829,10 @@ gb-5911416349,agile,False,True
 gb-5911489219,sql,True,False
 gb-5911489219,python,True,False
 gb-5911489257,r,False,True
+gb-5911553779,stakeholder-management,False,True
+gb-5912190618,stakeholder-management,False,True
+gb-5912191160,problem-solving,False,True
+gb-5912238774,stakeholder-management,False,True
+gb-5912365923,azure,False,True
+gb-5912365923,agile,False,True
+gb-5912480545,azure,True,True
