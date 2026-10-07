@@ -12,7 +12,7 @@ loc-6cf190936624fda5,"Basel, Basel-Stadt",Basel,Kanton Basel-Stadt,47.555755,7.5
 loc-f3a97d2a63609c14,"Beatenberg, Interlaken-Oberhasli",Beatenberg,Kanton Bern,46.687062,7.796072,ch
 loc-81bd2e1b32565683,"Bern, Bern-Mittelland",Bern,Kanton Bern,46.947031,7.424194,ch
 loc-436a2e03039a28ed,"Biel, Kanton Bern",Biel,Kanton Bern,,,ch
-loc-af9c99421356981c,"Bremgarten bei Bern, Bern-Mittelland",Bremgarten bei Bern,Kanton Bern,46.95505,7.450094,ch
+loc-af9c99421356981c,"Bremgarten bei Bern, Bern-Mittelland",Bremgarten bei Bern,Kanton Bern,46.971094,7.444549,ch
 loc-998a0ea82d5459c7,"Burgdorf, Emmental",Burgdorf,Kanton Bern,47.057963,7.628682,ch
 loc-39485ea28c4af943,"Büren an der Aare, Seeland",Büren an der Aare,Kanton Bern,47.139864,7.372357,ch
 loc-2f073b4ad65a565d,"Interlaken, Interlaken-Oberhasli",Interlaken,Kanton Bern,46.685483,7.855901,ch
@@ -21,7 +21,7 @@ loc-7d7cf3bf32901bf2,"Muri bei Bern, Bern-Mittelland",Muri bei Bern,Kanton Bern,
 loc-091c933483d8929d,"Oberaargau, Kanton Bern",Oberaargau,Kanton Bern,47.36054,7.82921,ch
 loc-c69b1d16eed4fdcc,"Ostermundigen, Bern-Mittelland",Ostermundigen,Kanton Bern,46.956113,7.482843,ch
 loc-6f6a1a121a9c593e,"Bulle, Greyerz",Bulle,Kanton Freiburg,46.617991,7.057158,ch
-loc-cf9f53f53d6687ad,"Villars-sur-Glâne, Saane",Villars-sur-Glâne,Kanton Freiburg,46.790372,7.117516,ch
+loc-cf9f53f53d6687ad,"Villars-sur-Glâne, Saane",Villars-sur-Glâne,Kanton Freiburg,46.793891,7.126898,ch
 loc-04d55f8d76bc1481,"Bardonnex, Genf",Bardonnex,Kanton Genf,46.161017,6.10626,ch
 loc-547901c272856755,"Bellevue, Genf",Bellevue,Kanton Genf,46.255638,6.155861,ch
 loc-508b00c0579238be,"Carouge, Genf",Carouge,Kanton Genf,46.19639,6.141138,ch
@@ -79,7 +79,7 @@ loc-2d7e33b75063da67,"Rümlang, Dielsdorf",Rümlang,Kanton Zürich,47.436477,8.5
 loc-d46afe8ed980f914,"Wallisellen, Bülach",Wallisellen,Kanton Zürich,47.413463,8.592392,ch
 loc-c93426854cf1be59,Winterthur,Winterthur,Kanton Zürich,47.501258,8.72733,ch
 loc-e8d9a634fda7b555,"Zollikon, Meilen",Zollikon,Kanton Zürich,47.358044,8.557083,ch
-loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.372219,8.541973,ch
+loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.374173,8.523767,ch
 loc-e81b5fe7ffa508f6,Schweiz,,,46.206338,6.146335,ch
 loc-e24b48442e2958c4,"Altstadt, Heidelberg",Altstadt,Baden-Württemberg,49.3936,8.73075,de
 loc-99209a6684dcf66e,"Bad Buchau, Biberach (Kreis)",Bad Buchau,Baden-Württemberg,48.02833,9.59342,de
@@ -100,6 +100,7 @@ loc-2918ea80cbcaa144,"Dagersheim, Böblingen",Dagersheim,Baden-Württemberg,48.6
 loc-662c7d3abbc4baa1,"Degerloch, Stuttgart",Degerloch,Baden-Württemberg,48.74475,9.16896,de
 loc-c9910b194ea68677,"Dürrlewang, Stuttgart",Dürrlewang,Baden-Württemberg,48.71937,9.11792,de
 loc-a925c6126d9283ee,"Eggenstein-Leopoldshafen, Karlsruhe (Kreis)",Eggenstein-Leopoldshafen,Baden-Württemberg,49.09022,8.42763,de
+loc-a5dbff733d872cb8,"Eislingen/Fils, Göppingen (Kreis)",Eislingen/Fils,Baden-Württemberg,48.70003,9.70655,de
 loc-f2e3bf128aac463e,"Ermingen, Ulm",Ermingen,Baden-Württemberg,48.38124,9.89876,de
 loc-c14a819915f643fd,"Esslingen am Neckar, Esslingen (Kreis)",Esslingen am Neckar,Baden-Württemberg,48.745846,9.315933,de
 loc-3d490f62c2bef607,"Ettlingen, Karlsruhe (Kreis)",Ettlingen,Baden-Württemberg,48.943,8.40934,de
@@ -205,6 +206,7 @@ loc-1b07e6e3d6bbdeb4,"Unterdürrbach, Würzburg",Unterdürrbach,Bayern,49.82086,
 loc-8f52af87baeedda4,"Unterföhring, München (Kreis)",Unterföhring,Bayern,48.19226,11.64041,de
 loc-c3051730cb5ce7ba,"Wenzenbach, Regensburg (Kreis)",Wenzenbach,Bayern,49.05856,12.20687,de
 loc-2adc8daffe38ffad,"Würzburg, Würzburg (Kreis)",Würzburg,Bayern,49.789787,9.934747,de
+loc-4b6a7a731dda35d9,"Zwillingshof, Freising (Kreis)",Zwillingshof,Bayern,48.27878,11.70515,de
 loc-8675106f0ed009cc,"Alt-Treptow, Berlin",Alt-Treptow,Berlin,52.48624,13.47797,de
 loc-f056fb0dfd21017d,"Berlin, Deutschland",Berlin,Berlin,52.507706,13.420806,de
 loc-85c49c1bb620b639,"Britz, Berlin",Britz,Berlin,52.44441,13.43418,de
@@ -249,6 +251,7 @@ loc-7cfd15b313543570,"Biebertal, Gießen (Kreis)",Biebertal,Hessen,50.62602,8.58
 loc-61d67dbc990f573d,"Bockenheim, Frankfurt am Main",Bockenheim,Hessen,50.12511,8.64682,de
 loc-9a34cbec1f711b3f,"Darmstadt, Hessen",Darmstadt,Hessen,49.877672,8.656595,de
 loc-7378ec05bd3034ce,"Dillenburg, Lahn-Dill-Kreis",Dillenburg,Hessen,50.74053,8.28354,de
+loc-575662f68cbfba42,"Dornbusch, Frankfurt am Main",Dornbusch,Hessen,50.14805,8.66599,de
 loc-be1fd3ab34958789,"Eschborn, Main-Taunus-Kreis",Eschborn,Hessen,50.14334,8.56908,de
 loc-00fb772aeb8ee29e,"Fechenheim, Frankfurt am Main",Fechenheim,Hessen,50.12595,8.76072,de
 loc-570d6bf75e3d0f9a,"Flughafen, Frankfurt am Main",Flughafen,Hessen,50.05078,8.56413,de
@@ -269,6 +272,7 @@ loc-8d4f8e5802c668eb,"Mitte, Kassel",Mitte,Hessen,51.31685,9.48631,de
 loc-5da15628715a5cdb,"Nauborn, Wetzlar",Nauborn,Hessen,50.55098,8.50348,de
 loc-6f71216842b7b16c,"Oberursel (Taunus), Hochtaunuskreis",Oberursel (Taunus),Hessen,50.20149,8.57491,de
 loc-fb0af3b53bf0b2f1,"Rüsselsheim, Groß-Gerau (Kreis)",Rüsselsheim,Hessen,49.99487,8.41086,de
+loc-75ce4a158ac3ad9d,"Sachsenhausen, Frankfurt am Main",Sachsenhausen,Hessen,50.10198,8.69569,de
 loc-d0522caa7cac6c6f,"Seligenstadt, Offenbach (Kreis)",Seligenstadt,Hessen,50.04337,8.97556,de
 loc-020b5ffda9b8fc93,"Sonnenberg, Wiesbaden",Sonnenberg,Hessen,50.08407,8.23838,de
 loc-7bdfb7bf69fed03a,"Steinau an der Straße, Main-Kinzig-Kreis",Steinau an der Straße,Hessen,50.31392,9.46457,de
@@ -526,6 +530,7 @@ loc-00154e691714ec5b,"Bracebridge, Lincoln",Bracebridge,East Midlands,53.229792,
 loc-d9058ce9cd97c63d,"Canwick, Lincoln",Canwick,East Midlands,53.232146,-0.537753,gb
 loc-5fa09e61dbce23bb,"Castle Donington, Derby",Castle Donington,East Midlands,52.844398,-1.33769,gb
 loc-1ca1533381e27e82,"Chesterfield, Derbyshire",Chesterfield,East Midlands,53.235401,-1.42415,gb
+loc-091e43791cc0b3aa,"Clifton, Nottingham",Clifton,East Midlands,52.914656,-1.180584,gb
 loc-381e16720f57527b,"Coalville, Leicestershire",Coalville,East Midlands,52.7239,-1.36907,gb
 loc-64412b2c14448083,"Corby, Northamptonshire",Corby,East Midlands,52.489201,-0.679601,gb
 loc-44a7e4a7ea90335d,"Daventry, Northamptonshire",Daventry,East Midlands,52.258301,-1.16043,gb
@@ -597,6 +602,7 @@ loc-ec53acd9e4a85bbe,"Nazeing, Waltham Abbey",Nazeing,Eastern England,51.749527,
 loc-d3470e850b00cf1f,"Nine Ashes, Ingatestone",Nine Ashes,Eastern England,51.689162,0.30449,gb
 loc-4c8f1f57f8faa5fd,"Norwich, Norfolk",Norwich,Eastern England,52.628101,1.29935,gb
 loc-80db972548a62087,"Occold, Eye",Occold,Eastern England,52.281051,1.170434,gb
+loc-edab16cc9a00ec2b,"Orton Northgate, Peterborough",Orton Northgate,Eastern England,52.551399,-0.319288,gb
 loc-94cd19cfed282ba8,"Pampisford, Cambridge",Pampisford,Eastern England,52.108734,0.18937,gb
 loc-8c0210d1483ce238,"Peterborough, Eastern England",Peterborough,Eastern England,52.570202,-0.243734,gb
 loc-6839363a71bc0d9e,"Porters Wood, St. Albans",Porters Wood,Eastern England,51.752186,-0.342542,gb
@@ -606,6 +612,7 @@ loc-d2e2dd206ac34f53,"Shendish, Hemel Hempstead",Shendish,Eastern England,51.748
 loc-dbe3f00b6e2e1779,"Southend-On-Sea, Essex",Southend-On-Sea,Eastern England,51.540901,0.71149,gb
 loc-3f618cbc73d7f0b4,"Springfield, Chelmsford",Springfield,Eastern England,51.747715,0.511612,gb
 loc-75a05fe64f63a904,"Sprowston, Norwich",Sprowston,Eastern England,52.634826,1.304724,gb
+loc-78d8489291f61e5c,"St. Albans, Hertfordshire",St. Albans,Eastern England,51.751499,-0.333892,gb
 loc-60435716898c9b35,"St. Ives, Huntingdon",St. Ives,Eastern England,52.297501,-0.059713,gb
 loc-aef7a386d746591e,"Stevenage, Hertfordshire",Stevenage,Eastern England,51.899799,-0.202583,gb
 loc-4b6e096dc2911fa3,"Suffolk, Eastern England",Suffolk,Eastern England,52.213646,1.073949,gb
@@ -618,6 +625,7 @@ loc-78fe7cfcc373db35,"Wherstead, Ipswich",Wherstead,Eastern England,52.052848,1.
 loc-a289a3ba81d63ec7,"White Roding, Dunmow",White Roding,Eastern England,51.803347,0.266943,gb
 loc-95485e521e8445bd,"Willows Green, Chelmsford",Willows Green,Eastern England,51.734788,0.472396,gb
 loc-6a51723ee391363d,"Witham, Essex",Witham,Eastern England,51.798401,0.638568,gb
+loc-8af4c2013f126ba6,"Woodside, Luton",Woodside,Eastern England,51.874788,-0.426385,gb
 loc-851a6d0cae237532,"Woodside Estate, Dunstable",Woodside Estate,Eastern England,51.900539,-0.507528,gb
 loc-2205514f2b182d48,"Woodston, Peterborough",Woodston,Eastern England,52.570938,-0.241985,gb
 loc-ddad5f3bb6c8caea,"Aldgate, Central London",Aldgate,London,51.512897,-0.077403,gb
@@ -646,12 +654,13 @@ loc-78c58fa58fd5fe3e,"Covent Garden, Central London",Covent Garden,London,51.509
 loc-3fb55675039ce460,"Cowley, Uxbridge",Cowley,London,51.545412,-0.480583,gb
 loc-b08e392406ce1852,"Cricklewood, North West London",Cricklewood,London,51.559888,-0.224926,gb
 loc-f4a20a47efb68e65,"Croydon, London",Croydon,London,51.372398,-0.100401,gb
-loc-e99e0c5e2b55aa4e,"Ealing, West London",Ealing,London,51.511476,-0.313507,gb
+loc-e99e0c5e2b55aa4e,"Ealing, West London",Ealing,London,51.513302,-0.301519,gb
 loc-78769199d7c63afa,"Earls Court, South West London",Earls Court,London,51.487129,-0.19775,gb
 loc-64f13316d978987d,"Earlsfield, South West London",Earlsfield,London,51.449138,-0.174666,gb
 loc-20bea9cb42ccb639,"East Ham, East London",East Ham,London,51.532761,0.055219,gb
 loc-e3b398ac1a7b1706,"East London, London",East London,London,51.54571,-0.016402,gb
 loc-906fb94e4e38de6a,"Enfield, London",Enfield,London,,,gb
+loc-823046a86160cfde,"Farnborough, Orpington",Farnborough,London,51.358601,0.076222,gb
 loc-7329e906f3dfdd8c,"Farringdon, Central London",Farringdon,London,51.52024,-0.10491,gb
 loc-bb857bf796c9fd51,"Fenchurch St, Central London",Fenchurch St,London,51.513144,-0.08261,gb
 loc-eba1f547ae037f18,"Finsbury Park, North London",Finsbury Park,London,51.565102,-0.097628,gb
@@ -673,7 +682,8 @@ loc-49710813bd5be6a0,"Kenton, Harrow",Kenton,London,51.586139,-0.307279,gb
 loc-357f95e7cef1886a,"Kings Cross, Central London",Kings Cross,London,51.534275,-0.121979,gb
 loc-4b105651c50f96ff,"Kingston Upon Thames, South West London",Kingston Upon Thames,London,51.4123,-0.300443,gb
 loc-1293e849ce66ebde,"Knightsbridge, South West London",Knightsbridge,London,51.500121,-0.161665,gb
-loc-6832699ee5d1be26,"Liverpool Street, Central London",Liverpool Street,London,51.518126,-0.084851,gb
+loc-2e52c7f8c9afcb91,"Leamouth, East London",Leamouth,London,51.501571,0.005531,gb
+loc-6832699ee5d1be26,"Liverpool Street, Central London",Liverpool Street,London,51.514028,-0.083365,gb
 loc-a297889e3d16bdb9,"London, UK",London,London,51.503378,-0.139134,gb
 loc-e974f06a5ee98bc7,"London Fields, East London",London Fields,London,51.545032,-0.056434,gb
 loc-622a664352096c66,"Marylebone, North West London",Marylebone,London,51.521209,-0.15998,gb
@@ -684,6 +694,7 @@ loc-324d89261dc80f88,"New Cross, South East London",New Cross,London,51.479745,-
 loc-d27244c94a6d195d,"Newham, East London",Newham,London,51.526798,0.025682,gb
 loc-cf89376b8b30bfea,"North Acton, North West London",North Acton,London,51.515309,-0.261942,gb
 loc-9c5fd540802dab62,"North London, London",North London,London,51.586237,-0.123313,gb
+loc-4a68dd32881d6427,"North West London, London",North West London,London,51.554658,-0.217687,gb
 loc-23a23fc51e697b25,"Oxford Circus, Central London",Oxford Circus,London,51.516023,-0.139088,gb
 loc-af141e5d0ccb3095,"Paddington, West London",Paddington,London,51.517124,-0.174212,gb
 loc-63d9755957fbac78,"Park Royal, North West London",Park Royal,London,51.529528,-0.263909,gb
@@ -750,6 +761,7 @@ loc-59126531ffd3491f,"Ashton-Under-Lyne, Greater Manchester",Ashton-Under-Lyne,N
 loc-b4c95246b4cbd7d2,"Barrowford, Nelson",Barrowford,North West England,53.837448,-2.215583,gb
 loc-9b327ccdf23e0958,"Birkenhead, Merseyside",Birkenhead,North West England,53.3871,-3.02213,gb
 loc-7d64a3c01ba2ee44,"Blackburn, Lancashire",Blackburn,North West England,53.750099,-2.48471,gb
+loc-63e1f7fa24ea1782,"Blackpool, Lancashire",Blackpool,North West England,53.814201,-3.05351,gb
 loc-551d0f62ece3c087,"Bolton, Greater Manchester",Bolton,North West England,53.578499,-2.42992,gb
 loc-418c878f7f969516,"Bolton By Bowland, Clitheroe",Bolton By Bowland,North West England,53.940102,-2.32856,gb
 loc-a57988a78a155474,"Broadbottom, Hyde",Broadbottom,North West England,53.443525,-2.031758,gb
@@ -762,6 +774,7 @@ loc-82c902704fbc8fd4,"Civic Centre, Wythenshawe",Civic Centre,North West England
 loc-f3322e9dc0a702e5,"Collyhurst, Manchester",Collyhurst,North West England,53.48475,-2.232111,gb
 loc-207ea6deca746f19,"Darwen, Lancashire",Darwen,North West England,53.698002,-2.461,gb
 loc-d819658b1e671988,"Didsbury, Manchester",Didsbury,North West England,53.421168,-2.244027,gb
+loc-ff2d6f8a5531bb07,"Eccles, Manchester",Eccles,North West England,53.480686,-2.328435,gb
 loc-bc45c556cb06a5e8,"Eccleston, Chester",Eccleston,North West England,53.159272,-2.894682,gb
 loc-500df27f75ba6e4b,"Ellesmere Port, Cheshire",Ellesmere Port,North West England,53.281399,-2.89783,gb
 loc-149f6d5f3826f792,"Fulwood, Preston",Fulwood,North West England,53.797701,-2.690279,gb
@@ -804,7 +817,9 @@ loc-447744f1f6696c6f,"Rusholme, Manchester",Rusholme,North West England,53.45914
 loc-b29467b293419520,"Salford, Greater Manchester",Salford,North West England,53.487701,-2.29042,gb
 loc-bd9af691757db92b,"Shuttleworth, Ramsbottom",Shuttleworth,North West England,53.648397,-2.31701,gb
 loc-299b97d5598f40bf,"Southport, Merseyside",Southport,North West England,53.647301,-3.00733,gb
+loc-7fc3b47ed01aaba8,"St. Annes, Lytham St. Annes",St. Annes,North West England,53.753967,-3.028334,gb
 loc-12146b4a8c40ad1c,"St. Helens, Merseyside",St. Helens,North West England,53.453899,-2.73689,gb
+loc-67d843e9a278ed7a,"Staining, Lancashire",Staining,North West England,53.791971,-2.99954,gb
 loc-be9e9f9ce2be8d4c,"Stanley, Liverpool",Stanley,North West England,53.408258,-2.916292,gb
 loc-12405756683ca3dd,"Stockport, Greater Manchester",Stockport,North West England,53.408501,-2.14929,gb
 loc-823edad8d938bec6,"Toxteth, Liverpool",Toxteth,North West England,53.383146,-2.98033,gb
@@ -878,7 +893,9 @@ loc-5906d91512a9fc56,"Alton, Hampshire",Alton,South East England,51.150799,-0.97
 loc-6b941e69e3e4afc1,"Ash Vale, Aldershot",Ash Vale,South East England,51.274847,-0.723028,gb
 loc-617d2af6217f70f9,"Ashford, Kent",Ashford,South East England,51.148399,0.875563,gb
 loc-931da3a7d80e51ab,"Ashland, Milton Keynes",Ashland,South East England,52.010596,-0.720067,gb
+loc-1f6957e76ed4ba75,"Aylesford, Kent",Aylesford,South East England,51.303501,0.48292,gb
 loc-5d8a49b4e35dfa25,"Basingstoke, Hampshire",Basingstoke,South East England,51.262501,-1.08402,gb
+loc-f28129d15832a845,"Bexley, Kent",Bexley,South East England,51.441399,0.14861,gb
 loc-22c923789141bc46,"Bicester, Oxfordshire",Bicester,South East England,51.902,-1.15422,gb
 loc-200b952606607063,"Biggin Hill, Westerham",Biggin Hill,South East England,51.311199,0.035201,gb
 loc-3d6055888b6e10bd,"Bisham, Marlow",Bisham,South East England,51.572209,-0.761477,gb
@@ -908,6 +925,7 @@ loc-56d50431aeebb9e7,"Crawley, West Sussex",Crawley,South East England,51.1133,-
 loc-c761b6f5adbb1aa7,"Crownhill, Milton Keynes",Crownhill,South East England,52.032628,-0.802219,gb
 loc-0cbccef746887561,"Dartford, Kent",Dartford,South East England,51.443901,0.219727,gb
 loc-5e832a06bef75390,"Datchet, Slough",Datchet,South East England,51.484004,-0.569945,gb
+loc-cc7969eff68a66fc,"Ditton, Aylesford",Ditton,South East England,51.304454,0.458753,gb
 loc-b1b61cf9da60193a,"Earlswood, Redhill",Earlswood,South East England,51.244304,-0.167843,gb
 loc-9973f7412e6183d1,"East Sussex, South East England",East Sussex,South East England,50.926542,0.239511,gb
 loc-9b144e31c8892389,"Eastbourne, East Sussex",Eastbourne,South East England,50.766899,0.284804,gb
@@ -971,13 +989,13 @@ loc-09a1864d9cac0d1a,"Snodland, Kent",Snodland,South East England,51.322957,0.43
 loc-16d2bbe9770e2273,"South Bersted, Bognor Regis",South Bersted,South East England,50.784467,-0.674166,gb
 loc-210267b12c963515,"South East England, UK",South East England,South East England,51.320086,-0.605907,gb
 loc-8169d0e16a034252,"Southampton, Hampshire",Southampton,South East England,50.904999,-1.40323,gb
-loc-2ad91b1372e6c4f4,"Southsea, Hampshire",Southsea,South East England,50.788742,-1.086225,gb
+loc-2ad91b1372e6c4f4,"Southsea, Hampshire",Southsea,South East England,50.785999,-1.08487,gb
 loc-a2e075d9830273b1,"St. Mildreds, Canterbury",St. Mildreds,South East England,51.278073,1.078905,gb
 loc-ee213bdaba7406b7,"St. Peters, Broadstairs",St. Peters,South East England,51.359097,1.437537,gb
 loc-af18bf8296dafd9f,"Staines, Surrey",Staines,South East England,,,gb
 loc-2b35c016f36381e2,"Stoke Mandeville, Aylesbury",Stoke Mandeville,South East England,51.805899,-0.806003,gb
 loc-c08434ff3d02e7d9,"Stubbington, Fareham",Stubbington,South East England,50.834367,-1.201168,gb
-loc-0c5e7b90f8727574,"Sunbury-On-Thames, Surrey",Sunbury-On-Thames,South East England,51.414759,-0.421012,gb
+loc-0c5e7b90f8727574,"Sunbury-On-Thames, Surrey",Sunbury-On-Thames,South East England,51.420748,-0.413715,gb
 loc-6f6a8b829d3751c1,"Surrey, South East England",Surrey,South East England,51.253928,-0.4677,gb
 loc-70dbce843889c719,"Surrey Research Park, Guildford",Surrey Research Park,South East England,51.240263,-0.612113,gb
 loc-2d9e72d2906475cc,"Thames View Industrial Park, Abingdon",Thames View Industrial Park,South East England,51.677893,-1.274336,gb
@@ -1008,6 +1026,7 @@ loc-9c2e6aa506a9a2cb,"Clevedon, North Somerset",Clevedon,South West England,51.4
 loc-744d190446094e09,"Devon, South West England",Devon,South West England,50.712485,-3.736703,gb
 loc-d53f64fc4e481b9a,"Dorchester, Dorset",Dorchester,South West England,50.710701,-2.43401,gb
 loc-b05bc9dba1f56d93,"Durrington, Salisbury",Durrington,South West England,51.199402,-1.77221,gb
+loc-1ddb054c4253bb17,"Dymock, Gloucestershire",Dymock,South West England,51.9785,-2.43937,gb
 loc-3ea54612db546c82,"East Coker, Yeovil",East Coker,South West England,50.934907,-2.651697,gb
 loc-82b9376f2d3e5a15,"Easton, Bristol",Easton,South West England,51.464608,-2.562401,gb
 loc-d18dcc398114ebb7,"Exeter, Devon",Exeter,South West England,50.721802,-3.53362,gb
@@ -1024,7 +1043,10 @@ loc-741fe7d56170eb59,"Lacock, Chippenham",Lacock,South West England,51.420633,-2
 loc-18944fe268bb94b5,"Langford, Cullompton",Langford,South West England,50.809318,-3.391006,gb
 loc-4d0e4375ab225417,"Malmesbury, Wiltshire",Malmesbury,South West England,51.584801,-2.0996,gb
 loc-8fdcb9f5715e1cb4,"Middlemoor, Exeter",Middlemoor,South West England,50.72569,-3.467439,gb
+loc-0337261f3459d274,"Newent, Gloucestershire",Newent,South West England,51.930599,-2.40586,gb
+loc-72d9bc2a9879845a,"Oxenhall, Newent",Oxenhall,South West England,51.941739,-2.415098,gb
 loc-37ac10ad631d6eb5,"Parkstone, Poole",Parkstone,South West England,50.72522,-1.944877,gb
+loc-442bca5438b2fbb7,"Parrett Works, Martock",Parrett Works,South West England,50.964906,-2.79002,gb
 loc-6b0aa4e3b0eb956d,"Patchway, Bristol",Patchway,South West England,51.538854,-2.576186,gb
 loc-b0891e15466a977d,"Pillaton, Saltash",Pillaton,South West England,50.470617,-4.301132,gb
 loc-8868b3ce5062aa2f,"Plymouth, South West England",Plymouth,South West England,50.370399,-4.14265,gb
@@ -1053,6 +1075,7 @@ loc-b551ea3609e538b0,"West Harnham, Salisbury",West Harnham,South West England,5
 loc-855034a0c4a75f32,"West Hill, Portishead",West Hill,South West England,51.478139,-2.768187,gb
 loc-86348c113f89796b,"West Town, Backwell",West Town,South West England,51.412918,-2.743655,gb
 loc-9df26572a13244a6,"Westbourne, Bournemouth",Westbourne,South West England,50.722281,-1.878571,gb
+loc-0560b01666d2ce07,"Weston, Bath",Weston,South West England,51.391669,-2.391204,gb
 loc-a0cff922be0fc4d2,"Yeovil, Somerset",Yeovil,South West England,50.943802,-2.62975,gb
 loc-770f1385598adb80,"Baglan Industrial Park, Port Talbot",Baglan Industrial Park,Wales,51.613372,-3.816178,gb
 loc-ba54cafe9db557c7,"Blackweir, Cardiff",Blackweir,Wales,51.483584,-3.177323,gb
@@ -1085,6 +1108,7 @@ loc-2d30f4699f1ffdd3,"Bournbrook, Birmingham",Bournbrook,West Midlands,52.448975
 loc-f2e00c7949db4015,"Branston, Burton-On-Trent",Branston,West Midlands,52.807992,-1.645602,gb
 loc-d9803923a67fe373,"Bridgetown, Stratford-Upon-Avon",Bridgetown,West Midlands,52.174876,-1.678128,gb
 loc-029c809d1e35d9c7,"Bromsgrove, Worcestershire",Bromsgrove,West Midlands,52.333801,-2.06351,gb
+loc-a1492d2f4e95454e,"Burton Green, Kenilworth",Burton Green,West Midlands,52.387267,-1.576878,gb
 loc-2d1e73db3e6a3110,"Burton-On-Trent, Staffordshire",Burton-On-Trent,West Midlands,52.8069,-1.64303,gb
 loc-f8a0021bdc7f9469,"Castle Bromwich, Birmingham",Castle Bromwich,West Midlands,52.505501,-1.7832,gb
 loc-b2e35a4e08461461,"Chasetown, Burntwood",Chasetown,West Midlands,52.67653,-1.938475,gb
@@ -1139,6 +1163,7 @@ loc-71b07a3a2ee13ef1,"Town Centre, Telford",Town Centre,West Midlands,52.679773,
 loc-672f49a29c7d4d47,"Tram Inn, Hereford",Tram Inn,West Midlands,52.059573,-2.727541,gb
 loc-0a4dffa38df5ede0,"Trent Vale, Stoke-On-Trent",Trent Vale,West Midlands,53.007522,-2.2041,gb
 loc-89ea7f9609812575,"Uphampton, Shobdon",Uphampton,West Midlands,52.236721,-2.89304,gb
+loc-961dd5f39159af29,"Wall, Lichfield",Wall,West Midlands,52.669894,-1.851073,gb
 loc-09e4520151a69560,"Wall Heath, Kingswinford",Wall Heath,West Midlands,52.498349,-2.165019,gb
 loc-abc887b7135de2e2,"Walsall, West Midlands",Walsall,West Midlands,52.585899,-1.98229,gb
 loc-2557281e9926dba8,"Warwick, Warwickshire",Warwick,West Midlands,52.281898,-1.58447,gb
@@ -1161,6 +1186,7 @@ loc-f92996942452579a,"Churwell, Morley",Churwell,Yorkshire And The Humber,53.762
 loc-c1c74a0a1dc14d75,"Cutler Heights, Bradford",Cutler Heights,Yorkshire And The Humber,53.78043,-1.715408,gb
 loc-d067c232a2e4e826,"Daisy Hill, Bradford",Daisy Hill,Yorkshire And The Humber,53.805885,-1.79488,gb
 loc-bc04a94b2c9b866d,"Doncaster, South Yorkshire",Doncaster,Yorkshire And The Humber,53.522999,-1.13376,gb
+loc-53ee08b9e86d7a0d,"Earswick, York",Earswick,Yorkshire And The Humber,53.99081,-1.049182,gb
 loc-88f85b87977a76d7,"East Carlton, Yeadon",East Carlton,Yorkshire And The Humber,53.866079,-1.684111,gb
 loc-7f9cb333ac0b2b1a,"Fieldhead Business Centre, Bradford",Fieldhead Business Centre,Yorkshire And The Humber,53.80057,-1.780782,gb
 loc-6c2f7f373192683b,"Full Sutton, York",Full Sutton,Yorkshire And The Humber,53.98565,-0.868594,gb
@@ -1176,6 +1202,7 @@ loc-f4d85a81a191eab1,"Holgate, York",Holgate,Yorkshire And The Humber,53.958449,
 loc-585d5e7c46bd3d44,"Howden, Goole",Howden,Yorkshire And The Humber,53.746498,-0.864675,gb
 loc-ca0f73e3d00e5e0c,"Huddersfield, West Yorkshire",Huddersfield,Yorkshire And The Humber,53.645199,-1.78493,gb
 loc-a897146b5c16403c,"Hull, East Riding Of Yorkshire",Hull,Yorkshire And The Humber,53.744301,-0.332443,gb
+loc-4d0d430a277f8348,"Hunslet, Leeds",Hunslet,Yorkshire And The Humber,53.798233,-1.531252,gb
 loc-2adb381832a2afa3,"Hyde Park, Leeds",Hyde Park,Yorkshire And The Humber,53.815909,-1.560123,gb
 loc-e448beb434076464,"Hyde Park, Doncaster",Hyde Park,Yorkshire And The Humber,53.519022,-1.118974,gb
 loc-36771c6f33e167e5,"Immingham Dock, Immingham",Immingham Dock,Yorkshire And The Humber,53.619071,-0.214853,gb
@@ -1187,6 +1214,7 @@ loc-a8f7d33be3fef6f1,"Northallerton, North Yorkshire",Northallerton,Yorkshire An
 loc-1157a306b15340e6,"Norton, Sheffield",Norton,Yorkshire And The Humber,53.375878,-1.466785,gb
 loc-923e6161c71b6668,"Redcar, North Yorkshire",Redcar,Yorkshire And The Humber,54.603001,-1.07763,gb
 loc-39557bd51f754e62,"Rotherham, South Yorkshire",Rotherham,Yorkshire And The Humber,53.430199,-1.3569,gb
+loc-82cefb1cf6af9b09,"Sandtoft, Doncaster",Sandtoft,Yorkshire And The Humber,53.580406,-0.851058,gb
 loc-4b1b11f7a448dec3,"Scarborough, North Yorkshire",Scarborough,Yorkshire And The Humber,54.280102,-0.402401,gb
 loc-63efb82d2e9a3c61,"Selby, North Yorkshire",Selby,Yorkshire And The Humber,53.781601,-1.07254,gb
 loc-e93d880ea0fda7e7,"Sheffield, South Yorkshire",Sheffield,Yorkshire And The Humber,53.383099,-1.4648,gb
