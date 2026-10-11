@@ -474,12 +474,14 @@ loc-04780b4ba75bcd1e,"Sevilla, Andalucía",Sevilla,Andalucía,37.3891,-5.9845,es
 loc-4fa97616faa903fd,Sevilla,Sevilla,Andalucía,37.38979,-5.998954,es
 loc-d9f44c7bc36526ad,Zaragoza,Zaragoza,Aragón,41.652134,-0.880943,es
 loc-2486008f68ab001d,"Santa Cruz de Bezana, Cantabria",Santa Cruz de Bezana,Cantabria,43.452793,-3.865101,es
+loc-11d5ca0d281ba8f4,"Valladolid, Castilla y León",Valladolid,Castilla y León,41.6523,-4.7245,es
 loc-388bbc72d30a8189,Valladolid,Valladolid,Castilla y León,41.650339,-4.730081,es
 loc-43c7169e8f532054,Albacete,Albacete,Castilla-La Mancha,38.989708,-1.85241,es
 loc-7425a839320d4c0c,Ciudad Real,Ciudad Real,Castilla-La Mancha,38.985075,-3.928679,es
 loc-5dc2132c2afdc0bb,Cuenca,Cuenca,Castilla-La Mancha,40.068116,-2.134824,es
 loc-293fadfbfa954433,Guadalajara,Guadalajara,Castilla-La Mancha,40.632813,-3.166127,es
 loc-edf30a7a3e4fb2a3,Toledo,Toledo,Castilla-La Mancha,39.858391,-4.020092,es
+loc-0b5cd32dce731858,"Badalona, Barcelona",Badalona,Cataluña,41.452356,2.249983,es
 loc-56e233a126865a5e,"Barcelona, Cataluña",Barcelona,Cataluña,41.3851,2.1734,es
 loc-d6d0e8b002f20352,Barcelona,Barcelona,Cataluña,41.380002,2.168131,es
 loc-e4f50426388e403d,"Cataluña, España",Cataluña,Cataluña,41.5912,1.5209,es
@@ -879,7 +881,7 @@ loc-7b05e253bf9b5426,"Lisburn, Northern Ireland",Lisburn,Northern Ireland,54.510
 loc-62cc0c8bb0fb2727,"Magheralin, Craigavon",Magheralin,Northern Ireland,54.4674,-6.26137,gb
 loc-c21e7cc97a28feeb,"Newtownabbey, County Antrim",Newtownabbey,Northern Ireland,54.727512,-5.997899,gb
 loc-028688f5a5d8b44f,"Newtownards, Ards",Newtownards,Northern Ireland,54.595001,-5.70311,gb
-loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.597554,-5.929698,gb
+loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.595221,-5.9309,gb
 loc-5261a14d773df4cb,"Randalstown, Antrim",Randalstown,Northern Ireland,54.748901,-6.3156,gb
 loc-cda98908c909fa14,"Saintfield, Ballynahinch",Saintfield,Northern Ireland,54.460899,-5.82512,gb
 loc-d47b1e2fad2636cf,"Stranmillis, Belfast",Stranmillis,Northern Ireland,54.570202,-5.93829,gb
@@ -1031,6 +1033,7 @@ loc-a2e075d9830273b1,"St. Mildreds, Canterbury",St. Mildreds,South East England,
 loc-ee213bdaba7406b7,"St. Peters, Broadstairs",St. Peters,South East England,51.359097,1.437537,gb
 loc-af18bf8296dafd9f,"Staines, Surrey",Staines,South East England,,,gb
 loc-2b35c016f36381e2,"Stoke Mandeville, Aylesbury",Stoke Mandeville,South East England,51.805899,-0.806003,gb
+loc-4cb8d4a3906c501e,"Strood, Rochester",Strood,South East England,51.365202,0.49437,gb
 loc-c08434ff3d02e7d9,"Stubbington, Fareham",Stubbington,South East England,50.834367,-1.201168,gb
 loc-0c5e7b90f8727574,"Sunbury-On-Thames, Surrey",Sunbury-On-Thames,South East England,51.420748,-0.413715,gb
 loc-6f6a8b829d3751c1,"Surrey, South East England",Surrey,South East England,51.253928,-0.4677,gb
@@ -1194,6 +1197,7 @@ loc-e1a9d18038540fa2,"Old Park, Telford",Old Park,West Midlands,52.683334,-2.458
 loc-34a59937e577d0d5,"Oldbury, West Midlands",Oldbury,West Midlands,52.501202,-2.0155,gb
 loc-3ca4b213fe960984,"Penn Fields, Wolverhampton",Penn Fields,West Midlands,52.580489,-2.140954,gb
 loc-ce2d59063b8e3975,"Quinton, Birmingham",Quinton,West Midlands,52.452499,-1.983525,gb
+loc-205799479537082f,"Redditch, Worcestershire",Redditch,West Midlands,52.306599,-1.94404,gb
 loc-5da7bcfcfb0d7090,"Ross-On-Wye, Herefordshire",Ross-On-Wye,West Midlands,51.9142,-2.58352,gb
 loc-66e24dcc6387dbe6,"Rowley Village, Rowley Regis",Rowley Village,West Midlands,52.470999,-2.055013,gb
 loc-b9d4bedf97e5a074,"Rugby, Warwickshire",Rugby,West Midlands,52.373199,-1.26174,gb
