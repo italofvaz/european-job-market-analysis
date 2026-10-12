@@ -290,6 +290,7 @@ loc-020b5ffda9b8fc93,"Sonnenberg, Wiesbaden",Sonnenberg,Hessen,50.08407,8.23838,
 loc-7bdfb7bf69fed03a,"Steinau an der Straße, Main-Kinzig-Kreis",Steinau an der Straße,Hessen,50.31392,9.46457,de
 loc-95d9ace1ff83f9c1,"Steinbach (Taunus), Hochtaunuskreis",Steinbach (Taunus),Hessen,50.16715,8.57128,de
 loc-2b7a7e524114911b,"Taunusstein, Rheingau-Taunus-Kreis",Taunusstein,Hessen,50.14222,8.14689,de
+loc-ebeb4a04c90f5688,"Viernheim, Bergstraße (Kreis)",Viernheim,Hessen,49.53625,8.58072,de
 loc-1efbb85db230e208,"Westend-Nord, Frankfurt am Main",Westend-Nord,Hessen,50.12877,8.67015,de
 loc-7d4fbe9e7ac516c4,"Wetzlar, Lahn-Dill-Kreis",Wetzlar,Hessen,50.55098,8.50348,de
 loc-246a0564e50c65d7,"Wiesbaden, Wiesbaden (Kreis)",Wiesbaden,Hessen,50.08407,8.23838,de
@@ -881,7 +882,7 @@ loc-7b05e253bf9b5426,"Lisburn, Northern Ireland",Lisburn,Northern Ireland,54.510
 loc-62cc0c8bb0fb2727,"Magheralin, Craigavon",Magheralin,Northern Ireland,54.4674,-6.26137,gb
 loc-c21e7cc97a28feeb,"Newtownabbey, County Antrim",Newtownabbey,Northern Ireland,54.727512,-5.997899,gb
 loc-028688f5a5d8b44f,"Newtownards, Ards",Newtownards,Northern Ireland,54.595001,-5.70311,gb
-loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.595221,-5.9309,gb
+loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.597554,-5.929698,gb
 loc-5261a14d773df4cb,"Randalstown, Antrim",Randalstown,Northern Ireland,54.748901,-6.3156,gb
 loc-cda98908c909fa14,"Saintfield, Ballynahinch",Saintfield,Northern Ireland,54.460899,-5.82512,gb
 loc-d47b1e2fad2636cf,"Stranmillis, Belfast",Stranmillis,Northern Ireland,54.570202,-5.93829,gb
@@ -899,7 +900,7 @@ loc-92b33478f1d95bcd,"Davidsons Mains, Edinburgh",Davidsons Mains,Scotland,55.97
 loc-1c58ba34e78cc614,"Dundee, Scotland",Dundee,Scotland,,,gb
 loc-f093c3c6579cf195,"Dunfermline, Fife",Dunfermline,Scotland,56.0714,-3.46169,gb
 loc-a01cc1c8e1579599,"Edinburgh, Scotland",Edinburgh,Scotland,55.943116,-3.327942,gb
-loc-5eaa569023aea12a,"Edinburgh City Centre, Edinburgh",Edinburgh City Centre,Scotland,55.947565,-3.211027,gb
+loc-5eaa569023aea12a,"Edinburgh City Centre, Edinburgh",Edinburgh City Centre,Scotland,55.948511,-3.207101,gb
 loc-046afe60213bd1af,"Edinburgh Technopole, Milton Bridge",Edinburgh Technopole,Scotland,55.858501,-3.20232,gb
 loc-b7511e191265412e,"Ferniegair, Hamilton",Ferniegair,Scotland,55.770749,-4.054825,gb
 loc-789c38c2c29c1a81,"Fife, Scotland",Fife,Scotland,56.219006,-3.129077,gb
@@ -1281,6 +1282,7 @@ loc-1b4a75db7fa89016,"Tinsley, Sheffield",Tinsley,Yorkshire And The Humber,53.40
 loc-fe71e8dd0d777a05,"Wakefield, West Yorkshire",Wakefield,Yorkshire And The Humber,53.682999,-1.4991,gb
 loc-7f4dd18b5ea2ee42,"West Yorkshire, Yorkshire And The Humber",West Yorkshire,Yorkshire And The Humber,53.747448,-1.673783,gb
 loc-d0f86ae96ea1d17c,"Whitwood, Castleford",Whitwood,Yorkshire And The Humber,53.713532,-1.397375,gb
+loc-784d3b10921de2b1,"Worsbrough Common, Barnsley",Worsbrough Common,Yorkshire And The Humber,53.54186,-1.475071,gb
 loc-e80de3d0630dc68a,"York, North Yorkshire",York,Yorkshire And The Humber,53.957699,-1.08229,gb
 loc-7158898bbbf9d714,"Yorkshire And The Humber, UK",Yorkshire And The Humber,Yorkshire And The Humber,,,gb
 loc-e120cddf15f151bc,UK,,,55.86026,-4.25596,gb
