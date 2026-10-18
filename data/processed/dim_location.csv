@@ -62,6 +62,7 @@ loc-4472435923e3a099,"Tenero-Contra, Locarno",Tenero-Contra,Kanton Tessin,46.177
 loc-a851d7e169ca3cad,Arbon,Arbon,Kanton Thurgau,47.515064,9.436832,ch
 loc-1df442bec5bc4fe7,"Bussnang, Weinfelden",Bussnang,Kanton Thurgau,47.55731,9.078475,ch
 loc-16c978958f801ad5,Frauenfeld,Frauenfeld,Kanton Thurgau,47.556809,8.90649,ch
+loc-68bf03eaed5b5837,Kreuzlingen,Kreuzlingen,Kanton Thurgau,47.647714,9.175346,ch
 loc-37253401bbefe179,"Denges, Morges",Denges,Kanton Waadt,46.524407,6.540919,ch
 loc-c86e63399d2a9244,"Echandens, Morges",Echandens,Kanton Waadt,46.5349,6.541459,ch
 loc-0d4ef6ba9eb4f590,"Eysins, Nyon",Eysins,Kanton Waadt,46.381806,6.20837,ch
@@ -457,6 +458,7 @@ loc-8910cbeabbede447,"Bübingen, Saarbrücken",Bübingen,Saarland,49.17851,7.032
 loc-130c49ba29f12150,"Merzig, Merzig-Wadern (Kreis)",Merzig,Saarland,49.44205,6.63566,de
 loc-ad4315313ff438f2,"Saarbrücken, Regionalverband Saarbrücken (Kreis)",Saarbrücken,Saarland,49.232146,7.013165,de
 loc-c830d98a79eaf843,"Saarlouis, Saarlouis (Kreis)",Saarlouis,Saarland,49.31568,6.75035,de
+loc-0a2251a501327cfd,"St. Ingbert, Saarpfalz-Kreis",St. Ingbert,Saarland,49.28004,7.11782,de
 loc-90042766d265c6ee,"Adelsdorf, Meißen (Kreis)",Adelsdorf,Sachsen,51.3194,13.58212,de
 loc-93b31573c9e4b957,"Blasewitz, Dresden",Blasewitz,Sachsen,51.05378,13.79241,de
 loc-11b430cbcff849a0,"Burg, Bautzen (Kreis)",Burg,Sachsen,51.46144,14.34451,de
@@ -553,6 +555,7 @@ loc-c7bc91c9cae61ee7,"Tres Cantos, Madrid",Tres Cantos,Comunidad de Madrid,40.55
 loc-8b00ec4522496185,"Majadas, Cáceres",Majadas,Extremadura,39.990693,-5.714893,es
 loc-d24f085ad78e8dda,"Zafra, Badajoz",Zafra,Extremadura,38.426179,-6.419306,es
 loc-977b0055becf37cb,A Coruña,A Coruña,Galicia,43.380758,-8.402597,es
+loc-ba39c233f8ebc7bd,"A Coruña, Galicia",A Coruña,Galicia,,,es
 loc-4deac2e22d818332,"Galicia, España",Galicia,Galicia,42.5751,-8.1339,es
 loc-c79e321ef4852791,"Palma de Mallorca, Islas Baleares",Palma de Mallorca,Islas Baleares,,,es
 loc-b27690a69b899c10,"Arrecife, Las Palmas",Arrecife,Islas Canarias,28.961573,-13.551516,es
@@ -744,7 +747,7 @@ loc-32a548ec4a789e0d,"Hammersmith, West London",Hammersmith,London,51.492676,-0.
 loc-28b1ba7ac20c5f72,"Hayes, London",Hayes,London,51.512699,-0.4211,gb
 loc-b11c9362aaa12493,"Heathrow, Hounslow",Heathrow,London,,,gb
 loc-9c0c0ffc74c68e04,"Higham Hill, East London",Higham Hill,London,51.583824,-0.025578,gb
-loc-64ffc006570339f9,"Hillingdon, Uxbridge",Hillingdon,London,51.5336,-0.452584,gb
+loc-64ffc006570339f9,"Hillingdon, Uxbridge",Hillingdon,London,51.549229,-0.451584,gb
 loc-1b0817519226c6dc,"Holborn, Central London",Holborn,London,51.517238,-0.120561,gb
 loc-b9759cc8b44112e8,"Hounslow, London",Hounslow,London,51.467602,-0.361799,gb
 loc-852931cc3884b8ec,"Hyde Park, West London",Hyde Park,London,51.516979,-0.156331,gb
@@ -1034,7 +1037,7 @@ loc-ed8bbf09a1469290,"Emberton, Olney",Emberton,South East England,52.1523,-0.70
 loc-abc54aefc74204d6,"Englefield, Reading",Englefield,South East England,51.428224,-1.099804,gb
 loc-5ac335d521b9a6b3,"Eton, Windsor",Eton,South East England,51.475458,-0.626929,gb
 loc-bb332e2f4ec75c11,"Fareham, Hampshire",Fareham,South East England,50.851501,-1.17902,gb
-loc-97097e4341f237d3,"Farnborough, Hampshire",Farnborough,South East England,51.293999,-0.754624,gb
+loc-97097e4341f237d3,"Farnborough, Hampshire",Farnborough,South East England,51.279337,-0.792424,gb
 loc-3793947a0361435b,"Fetcham, Leatherhead",Fetcham,South East England,51.301474,-0.339243,gb
 loc-2e9e2452844eefa0,"Frimley, Camberley",Frimley,South East England,51.3134,-0.737861,gb
 loc-5bca2e56745cca83,"Gillingham, Kent",Gillingham,South East England,51.386501,0.544338,gb
@@ -1060,7 +1063,7 @@ loc-dcae4c4b6a322ee0,"Leatherhead, Surrey",Leatherhead,South East England,51.295
 loc-bef193e7945f9e6d,"Leybourne, West Malling",Leybourne,South East England,51.291808,0.418829,gb
 loc-97ca82208698d9b4,"Linford Wood, Milton Keynes",Linford Wood,South East England,52.06184,-0.758007,gb
 loc-65d8ccd7e9c3a4db,"Little Chalfont, Amersham",Little Chalfont,South East England,51.6713,-0.58647,gb
-loc-223458f73c7af9bd,"Littlemore, Oxford",Littlemore,South East England,51.713943,-1.219594,gb
+loc-223458f73c7af9bd,"Littlemore, Oxford",Littlemore,South East England,51.724373,-1.227769,gb
 loc-598a7931cd5369a5,"Maidenhead, Windsor & Maidenhead",Maidenhead,South East England,51.515658,-0.736426,gb
 loc-c7a39e500b392731,"Maidstone, Kent",Maidstone,South East England,51.270302,0.523841,gb
 loc-67cc7570589626f1,"Mannings Heath, Horsham",Mannings Heath,South East England,51.072794,-0.289164,gb
@@ -1123,7 +1126,7 @@ loc-f0826970d8b9d136,"Worthing, West Sussex",Worthing,South East England,50.8147
 loc-fc327361e3cd85da,"Wraysbury, Staines",Wraysbury,South East England,51.432883,-0.524902,gb
 loc-64f8b166f1fb14da,"Wytham, Oxford",Wytham,South East England,51.78214,-1.325384,gb
 loc-aea6b503b9307404,"Arlingham, Gloucester",Arlingham,South West England,51.792799,-2.412156,gb
-loc-863f81a819c745a7,"Barnwood, Gloucester",Barnwood,South West England,51.86739,-2.197179,gb
+loc-863f81a819c745a7,"Barnwood, Gloucester",Barnwood,South West England,51.863499,-2.2019,gb
 loc-74ff497e23a7e143,"Bath, Bath & N E Somerset",Bath,South West England,51.3811,-2.35862,gb
 loc-101a0b10c7178e4d,"Bournemouth, Dorset",Bournemouth,South West England,50.721699,-1.87853,gb
 loc-13b5ca8417e8492a,"Bournemouth International Airport, Hurn",Bournemouth International Airport,South West England,50.777599,-1.83242,gb
@@ -1218,6 +1221,7 @@ loc-c6d5663c43274165,"Mynyddislwyn, Newport",Mynyddislwyn,Wales,51.588879,-2.997
 loc-16027215eee46a0e,"Newport, Wales",Newport,Wales,51.5877,-2.99834,gb
 loc-76dbcf12f1f1c791,"Roath, Cardiff",Roath,Wales,51.484523,-3.167078,gb
 loc-d95a0740fa0077c6,"Splott, Cardiff",Splott,Wales,51.476344,-3.154875,gb
+loc-e071563b072273e8,"St. Thomas, Swansea",St. Thomas,Wales,51.62109,-3.927086,gb
 loc-a8ae69662b44b7c6,"Swansea, Wales",Swansea,Wales,51.620399,-3.94663,gb
 loc-75a8e2ba46fa74fa,"Wrexham, Wales",Wrexham,Wales,53.046902,-2.99167,gb
 loc-fec97f7ef52ab37a,"Alum Rock, Birmingham",Alum Rock,West Midlands,52.480123,-1.857927,gb
@@ -1298,6 +1302,7 @@ loc-89ea7f9609812575,"Uphampton, Shobdon",Uphampton,West Midlands,52.236721,-2.8
 loc-961dd5f39159af29,"Wall, Lichfield",Wall,West Midlands,52.669894,-1.851073,gb
 loc-09e4520151a69560,"Wall Heath, Kingswinford",Wall Heath,West Midlands,52.498349,-2.165019,gb
 loc-abc887b7135de2e2,"Walsall, West Midlands",Walsall,West Midlands,52.585899,-1.98229,gb
+loc-df857920f7faf889,"Ward End, Birmingham",Ward End,West Midlands,52.510021,-1.811315,gb
 loc-2557281e9926dba8,"Warwick, Warwickshire",Warwick,West Midlands,52.281898,-1.58447,gb
 loc-62b0b8475ad567d8,"Warwickshire, West Midlands",Warwickshire,West Midlands,52.304095,-1.552465,gb
 loc-8c484e71cd922ada,"Water Orton, Birmingham",Water Orton,West Midlands,52.504408,-1.730087,gb
@@ -1312,7 +1317,7 @@ loc-6e927c424305c95f,"Armley, Leeds",Armley,Yorkshire And The Humber,53.788848,-
 loc-aeaa4c410fa72411,"Barnsley, South Yorkshire",Barnsley,Yorkshire And The Humber,53.552898,-1.48127,gb
 loc-66c8f5facdcc2d2e,"Blackley, Elland",Blackley,Yorkshire And The Humber,53.692655,-1.82446,gb
 loc-df4628696d94695e,"Bradford, West Yorkshire",Bradford,Yorkshire And The Humber,53.7939,-1.75244,gb
-loc-887570c79828d537,"Buttershaw, Bradford",Buttershaw,Yorkshire And The Humber,53.764717,-1.785962,gb
+loc-887570c79828d537,"Buttershaw, Bradford",Buttershaw,Yorkshire And The Humber,53.758861,-1.790452,gb
 loc-ba1ac42253e80be4,"Carleton, Skipton",Carleton,Yorkshire And The Humber,53.957718,-2.025887,gb
 loc-f92996942452579a,"Churwell, Morley",Churwell,Yorkshire And The Humber,53.762228,-1.5776,gb
 loc-c1c74a0a1dc14d75,"Cutler Heights, Bradford",Cutler Heights,Yorkshire And The Humber,53.78043,-1.715408,gb
