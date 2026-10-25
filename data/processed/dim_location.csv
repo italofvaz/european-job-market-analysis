@@ -19,6 +19,7 @@ loc-af9c99421356981c,"Bremgarten bei Bern, Bern-Mittelland",Bremgarten bei Bern,
 loc-998a0ea82d5459c7,"Burgdorf, Emmental",Burgdorf,Kanton Bern,47.057963,7.628682,ch
 loc-39485ea28c4af943,"Büren an der Aare, Seeland",Büren an der Aare,Kanton Bern,47.139864,7.372357,ch
 loc-2f073b4ad65a565d,"Interlaken, Interlaken-Oberhasli",Interlaken,Kanton Bern,46.685483,7.855901,ch
+loc-a1c16e17cec75246,"Ittigen, Bern-Mittelland",Ittigen,Kanton Bern,46.973309,7.484133,ch
 loc-acd7f80c269ffafc,"Kanton Bern, Schweiz",Kanton Bern,Kanton Bern,,,ch
 loc-924f976a48cdb822,"Kehrsatz, Bern-Mittelland",Kehrsatz,Kanton Bern,46.896738,7.469239,ch
 loc-7d7cf3bf32901bf2,"Muri bei Bern, Bern-Mittelland",Muri bei Bern,Kanton Bern,46.930139,7.487483,ch
@@ -62,7 +63,7 @@ loc-4c12ed056e4af25a,"Paradiso, Lugano",Paradiso,Kanton Tessin,45.987488,8.94539
 loc-4472435923e3a099,"Tenero-Contra, Locarno",Tenero-Contra,Kanton Tessin,46.17744,8.850222,ch
 loc-a851d7e169ca3cad,Arbon,Arbon,Kanton Thurgau,47.515064,9.436832,ch
 loc-1df442bec5bc4fe7,"Bussnang, Weinfelden",Bussnang,Kanton Thurgau,47.55731,9.078475,ch
-loc-16c978958f801ad5,Frauenfeld,Frauenfeld,Kanton Thurgau,47.556809,8.90649,ch
+loc-16c978958f801ad5,Frauenfeld,Frauenfeld,Kanton Thurgau,47.556194,8.89581,ch
 loc-68bf03eaed5b5837,Kreuzlingen,Kreuzlingen,Kanton Thurgau,47.647714,9.175346,ch
 loc-37253401bbefe179,"Denges, Morges",Denges,Kanton Waadt,46.524407,6.540919,ch
 loc-c86e63399d2a9244,"Echandens, Morges",Echandens,Kanton Waadt,46.5349,6.541459,ch
@@ -92,9 +93,9 @@ loc-800e7fd7ec8bcf93,"Opfikon, Bülach",Opfikon,Kanton Zürich,47.434212,8.56532
 loc-2cfed217caa7c68c,Pfäffikon,Pfäffikon,Kanton Zürich,47.367143,8.782155,ch
 loc-418388cc2e524cf0,"Richterswil, Horgen",Richterswil,Kanton Zürich,47.205519,8.707077,ch
 loc-2d7e33b75063da67,"Rümlang, Dielsdorf",Rümlang,Kanton Zürich,47.436477,8.506507,ch
-loc-d46afe8ed980f914,"Wallisellen, Bülach",Wallisellen,Kanton Zürich,47.404664,8.602117,ch
+loc-d46afe8ed980f914,"Wallisellen, Bülach",Wallisellen,Kanton Zürich,47.413463,8.592392,ch
 loc-c93426854cf1be59,Winterthur,Winterthur,Kanton Zürich,47.501258,8.72733,ch
-loc-e8d9a634fda7b555,"Zollikon, Meilen",Zollikon,Kanton Zürich,47.366618,8.562382,ch
+loc-e8d9a634fda7b555,"Zollikon, Meilen",Zollikon,Kanton Zürich,47.358044,8.557083,ch
 loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.374173,8.523767,ch
 loc-e81b5fe7ffa508f6,Schweiz,,,46.206338,6.146335,ch
 loc-8461d0fe7c546bcf,"Achalm, Reutlingen",Achalm,Baden-Württemberg,48.49388,9.24135,de
@@ -291,6 +292,7 @@ loc-e2e4880b95433857,"Arheilgen, Darmstadt",Arheilgen,Hessen,49.87242,8.65086,de
 loc-92d17a56ad34c7a9,"Bad Arolsen, Waldeck-Frankenberg (Kreis)",Bad Arolsen,Hessen,51.33667,8.96685,de
 loc-03e0b6c16b5af03c,"Bad Homburg, Hochtaunuskreis",Bad Homburg,Hessen,50.228422,8.632526,de
 loc-8f6a30c40744c5b3,"Battenberg (Eder), Waldeck-Frankenberg (Kreis)",Battenberg (Eder),Hessen,51.02637,8.67311,de
+loc-00e1fe50fa7c72e5,"Bettenhausen, Kassel",Bettenhausen,Hessen,51.30435,9.53624,de
 loc-7cfd15b313543570,"Biebertal, Gießen (Kreis)",Biebertal,Hessen,50.62602,8.58246,de
 loc-dd8e395ca473ce36,"Biebrich, Wiesbaden",Biebrich,Hessen,50.04485,8.24105,de
 loc-61d67dbc990f573d,"Bockenheim, Frankfurt am Main",Bockenheim,Hessen,50.12511,8.64682,de
@@ -298,6 +300,7 @@ loc-9a34cbec1f711b3f,"Darmstadt, Hessen",Darmstadt,Hessen,49.877672,8.656595,de
 loc-7378ec05bd3034ce,"Dillenburg, Lahn-Dill-Kreis",Dillenburg,Hessen,50.74053,8.28354,de
 loc-575662f68cbfba42,"Dornbusch, Frankfurt am Main",Dornbusch,Hessen,50.14805,8.66599,de
 loc-be1fd3ab34958789,"Eschborn, Main-Taunus-Kreis",Eschborn,Hessen,50.14334,8.56908,de
+loc-a16c7b33bcb98a13,"Fasanenhof, Kassel",Fasanenhof,Hessen,51.33068,9.5086,de
 loc-00fb772aeb8ee29e,"Fechenheim, Frankfurt am Main",Fechenheim,Hessen,50.12595,8.76072,de
 loc-570d6bf75e3d0f9a,"Flughafen, Frankfurt am Main",Flughafen,Hessen,50.05078,8.56413,de
 loc-3b5962e9231ef111,"Frankfurt am Main, Hessen",Frankfurt am Main,Hessen,50.129683,8.650578,de
@@ -306,7 +309,9 @@ loc-1a3596574a3d84d1,"Gallus, Frankfurt am Main",Gallus,Hessen,50.10161,8.62864,
 loc-aa8c87cb26089178,"Gießen, Gießen (Kreis)",Gießen,Hessen,50.583286,8.679778,de
 loc-e7a65508b12a59cd,"Ginseldorf, Capelle",Ginseldorf,Hessen,51.12633,10.47716,de
 loc-93e2b29b19fd3e47,"Gonzenheim, Bad Homburg vor der Höhe",Gonzenheim,Hessen,50.21936,8.63966,de
+loc-b585855a6b3f7ecc,"Harleshausen, Kassel",Harleshausen,Hessen,51.33319,9.44761,de
 loc-a7533688071859b2,"Hattersheim am Main, Main-Taunus-Kreis",Hattersheim am Main,Hessen,50.06929,8.48668,de
+loc-33522c3dad87c7ab,"Hof Mondschirm, Kassel (Kreis)",Hof Mondschirm,Hessen,51.36201,9.46462,de
 loc-547f2a64ce6abdfd,"Höchst, Frankfurt am Main",Höchst,Hessen,50.09957,8.54038,de
 loc-f91fba5ee3df938f,"Idstein, Rheingau-Taunus-Kreis",Idstein,Hessen,50.23236,8.27124,de
 loc-57cf14a88d9acbb4,"Kalbach, Frankfurt am Main",Kalbach,Hessen,50.18595,8.65012,de
@@ -327,6 +332,7 @@ loc-020b5ffda9b8fc93,"Sonnenberg, Wiesbaden",Sonnenberg,Hessen,50.08407,8.23838,
 loc-7bdfb7bf69fed03a,"Steinau an der Straße, Main-Kinzig-Kreis",Steinau an der Straße,Hessen,50.31392,9.46457,de
 loc-95d9ace1ff83f9c1,"Steinbach (Taunus), Hochtaunuskreis",Steinbach (Taunus),Hessen,50.16715,8.57128,de
 loc-2b7a7e524114911b,"Taunusstein, Rheingau-Taunus-Kreis",Taunusstein,Hessen,50.14222,8.14689,de
+loc-6c8cd3fd056a4c77,"Vellmar, Kassel (Kreis)",Vellmar,Hessen,51.35815,9.4796,de
 loc-ebeb4a04c90f5688,"Viernheim, Bergstraße (Kreis)",Viernheim,Hessen,49.53625,8.58072,de
 loc-1efbb85db230e208,"Westend-Nord, Frankfurt am Main",Westend-Nord,Hessen,50.12877,8.67015,de
 loc-7d4fbe9e7ac516c4,"Wetzlar, Lahn-Dill-Kreis",Wetzlar,Hessen,50.55098,8.50348,de
@@ -529,6 +535,7 @@ loc-05142fe867565147,Málaga,Málaga,Andalucía,36.715155,-4.423413,es
 loc-ff7d07fa1ad7932a,"Málaga, Andalucía",Málaga,Andalucía,36.7212,-4.4217,es
 loc-04780b4ba75bcd1e,"Sevilla, Andalucía",Sevilla,Andalucía,37.3891,-5.9845,es
 loc-4fa97616faa903fd,Sevilla,Sevilla,Andalucía,37.38979,-5.998954,es
+loc-475f128e0f676946,"Zaragoza, Aragón",Zaragoza,Aragón,41.6488,-0.8891,es
 loc-d9f44c7bc36526ad,Zaragoza,Zaragoza,Aragón,41.652134,-0.880943,es
 loc-2486008f68ab001d,"Santa Cruz de Bezana, Cantabria",Santa Cruz de Bezana,Cantabria,43.452793,-3.865101,es
 loc-11d5ca0d281ba8f4,"Valladolid, Castilla y León",Valladolid,Castilla y León,41.6523,-4.7245,es
@@ -563,6 +570,7 @@ loc-acb1f3916e0f4afe,"Vic, Barcelona",Vic,Cataluña,41.930437,2.254434,es
 loc-9f65499d77400c16,"Burlada/Burlata, Navarra",Burlada/Burlata,Comunidad Foral de Navarra,42.815597,-1.60822,es
 loc-2148fb04dc8ce7c0,"Alicante, Comunidad Valenciana",Alicante,Comunidad Valenciana,38.346,-0.4907,es
 loc-40bcb89cc7fb0096,"Alicante/Alacant, Alicante",Alicante/Alacant,Comunidad Valenciana,38.353738,-0.490185,es
+loc-dd4b89fd63c4e379,"Comunidad Valenciana, España",Comunidad Valenciana,Comunidad Valenciana,39.484,-0.7533,es
 loc-a503bbd8dead65d7,"Oliva, Valencia",Oliva,Comunidad Valenciana,38.912189,-0.075681,es
 loc-aba4d7165ad99fc0,"Valencia, Comunidad Valenciana",Valencia,Comunidad Valenciana,39.4699,-0.3763,es
 loc-de2d9c2b31a49d7c,Valencia,Valencia,Comunidad Valenciana,39.458652,-0.37423,es
@@ -640,6 +648,7 @@ loc-9c7fe77d312aefc8,"Pride Park, Derby",Pride Park,East Midlands,52.923456,-1.4
 loc-497d8a1fdf40920a,"Ripley, Derbyshire",Ripley,East Midlands,53.0508,-1.40716,gb
 loc-14435501b114f5f7,"Silverstone, Towcester",Silverstone,East Midlands,52.091702,-1.02614,gb
 loc-04a8b3b3f4b0623c,"Sneinton, Nottingham",Sneinton,East Midlands,52.949302,-1.138673,gb
+loc-3a025989a158f3d1,"Somercotes, Alfreton",Somercotes,East Midlands,53.090109,-1.355602,gb
 loc-3450d088bafd4b6d,"Spondon, Derby",Spondon,East Midlands,52.920359,-1.404677,gb
 loc-1d3fbaa1234d6f7f,"St. Martins, Stamford",St. Martins,East Midlands,52.652007,-0.471352,gb
 loc-cf4076d5ca98f6d7,"Stenigot, Louth",Stenigot,East Midlands,53.307263,-0.115886,gb
@@ -669,6 +678,7 @@ loc-270f51f1aa4b9382,"Clothall Common, Baldock",Clothall Common,Eastern England,
 loc-f88c7e6699914487,"Colchester, Essex",Colchester,Eastern England,51.889801,0.901235,gb
 loc-26ef59e0aef17ba6,"Dagenham, Essex",Dagenham,Eastern England,51.521318,0.147277,gb
 loc-aa495b04b4f8d2b3,"Digswell, Welwyn",Digswell,Eastern England,51.797093,-0.187201,gb
+loc-816c18184d88725f,"Dunstable, Bedfordshire",Dunstable,Eastern England,51.8876,-0.523129,gb
 loc-c04119f8a9a67a15,"Dunton, Brentwood",Dunton,Eastern England,51.590099,0.377838,gb
 loc-ed97124b52d2882b,"Dunton, Biggleswade",Dunton,Eastern England,52.083,-0.19593,gb
 loc-3b52081cd9225d49,"Eastwick, Harlow",Eastwick,Eastern England,51.767652,0.094134,gb
@@ -743,7 +753,7 @@ loc-a1bd6cd799989c26,"Bermondsey, South East London",Bermondsey,London,51.498534
 loc-92d9f7774241a35f,"Bishopsgate, Central London",Bishopsgate,London,51.521065,-0.080864,gb
 loc-93c38e09bab89456,"Blackfriars, Central London",Blackfriars,London,51.511587,-0.102995,gb
 loc-fd0342afe8040d4a,"Bloomsbury, Central London",Bloomsbury,London,51.517999,-0.123715,gb
-loc-7d58338fd7fae5bc,"Borough, South East London",Borough,London,51.502461,-0.127711,gb
+loc-7d58338fd7fae5bc,"Borough, South East London",Borough,London,51.501402,-0.125002,gb
 loc-5e48c220f3ecba29,"Brixton, South West London",Brixton,London,51.462102,-0.117011,gb
 loc-538c3c5d0012085f,"Broadgate, Central London",Broadgate,London,51.525472,-0.083649,gb
 loc-27c74af7f2e9f1d4,"Bromley, South East London",Bromley,London,,,gb
@@ -770,7 +780,7 @@ loc-906fb94e4e38de6a,"Enfield, London",Enfield,London,,,gb
 loc-823046a86160cfde,"Farnborough, Orpington",Farnborough,London,51.358601,0.076222,gb
 loc-7329e906f3dfdd8c,"Farringdon, Central London",Farringdon,London,51.52024,-0.10491,gb
 loc-bb857bf796c9fd51,"Fenchurch St, Central London",Fenchurch St,London,51.513144,-0.08261,gb
-loc-382784d103e60a14,"Finsbury, Central London",Finsbury,London,51.531512,-0.103407,gb
+loc-382784d103e60a14,"Finsbury, Central London",Finsbury,London,51.527565,-0.105114,gb
 loc-eba1f547ae037f18,"Finsbury Park, North London",Finsbury Park,London,51.565102,-0.097628,gb
 loc-9a57365a8f95e222,"Fitzrovia, West London",Fitzrovia,London,51.523991,-0.141402,gb
 loc-7683e7b678c3d672,"Fleet Street, Central London",Fleet Street,London,51.518494,-0.111962,gb
@@ -842,6 +852,7 @@ loc-bff5b1d1e1145fb3,"Walthamstow, East London",Walthamstow,London,51.59112,-0.0
 loc-6956c170f3f8a88e,"Walworth, South East London",Walworth,London,51.484662,-0.097948,gb
 loc-207e98b1def0abbf,"Wandsworth, South West London",Wandsworth,London,51.451801,-0.192757,gb
 loc-3f6d5adf6e14fe6d,"Waterloo, South East London",Waterloo,London,51.500927,-0.10887,gb
+loc-efcecce8a2c9a3e9,"Wembley, North West London",Wembley,London,51.551998,-0.298982,gb
 loc-52296c6134aa8e59,"West End, West London",West End,London,51.512739,-0.149757,gb
 loc-69cd51fea9866422,"West Hampstead, North West London",West Hampstead,London,51.542724,-0.192743,gb
 loc-ea7f4808af6ae277,"West Kensington, West London",West Kensington,London,51.492096,-0.219105,gb
@@ -903,6 +914,7 @@ loc-57fb5c732d7d9c52,"Crewe, Cheshire",Crewe,North West England,53.0951,-2.44177
 loc-207ea6deca746f19,"Darwen, Lancashire",Darwen,North West England,53.698002,-2.461,gb
 loc-d819658b1e671988,"Didsbury, Manchester",Didsbury,North West England,53.421168,-2.244027,gb
 loc-ff2d6f8a5531bb07,"Eccles, Manchester",Eccles,North West England,53.480686,-2.328435,gb
+loc-769e6d5b80a0e8a5,"Eccleshill, Darwen",Eccleshill,North West England,53.691317,-2.464472,gb
 loc-bc45c556cb06a5e8,"Eccleston, Chester",Eccleston,North West England,53.159272,-2.894682,gb
 loc-500df27f75ba6e4b,"Ellesmere Port, Cheshire",Ellesmere Port,North West England,53.281399,-2.89783,gb
 loc-149f6d5f3826f792,"Fulwood, Preston",Fulwood,North West England,53.797701,-2.690279,gb
@@ -925,7 +937,7 @@ loc-2ec24fd079a82fcf,"Knutsford, Cheshire",Knutsford,North West England,53.30110
 loc-83df9b9fbdefcc81,"Lancashire, North West England",Lancashire,North West England,53.864322,-2.613864,gb
 loc-fa8aabb031590145,"Liverpool, Merseyside",Liverpool,North West England,53.410801,-2.97784,gb
 loc-26cafd19b95e9855,"Lostock Hall, Preston",Lostock Hall,North West England,53.720617,-2.671376,gb
-loc-6b82e0e641010f44,"Low Hill, Liverpool",Low Hill,North West England,53.407742,-2.997129,gb
+loc-6b82e0e641010f44,"Low Hill, Liverpool",Low Hill,North West England,53.404366,-2.979554,gb
 loc-b3753f42e8ca6c52,"Lower Darwen, Darwen",Lower Darwen,North West England,53.723085,-2.461109,gb
 loc-d6a6a048ce0ca63d,"Lyme Green, Macclesfield",Lyme Green,North West England,53.2397,-2.115963,gb
 loc-586dc57b959c8382,"Lytham, Lytham St. Annes",Lytham,North West England,53.747601,-3.01629,gb
@@ -971,7 +983,7 @@ loc-5205b0bc8789204e,"Bangor, North Down",Bangor,Northern Ireland,54.655499,-5.6
 loc-e8891fc8cd306f76,"Belfast, Northern Ireland",Belfast,Northern Ireland,,,gb
 loc-e4226b1d2d1c54bb,"Carrickfergus, Northern Ireland",Carrickfergus,Northern Ireland,54.7211,-5.79121,gb
 loc-9686513ea5774771,"Carryduff, Belfast",Carryduff,Northern Ireland,54.5186,-5.88813,gb
-loc-46f0777ec6b9d7cc,"Castlereagh, Belfast",Castlereagh,Northern Ireland,54.569737,-5.87395,gb
+loc-46f0777ec6b9d7cc,"Castlereagh, Belfast",Castlereagh,Northern Ireland,54.565131,-5.87144,gb
 loc-eed17be3c8a2e12f,"Coleraine, Northern Ireland",Coleraine,Northern Ireland,55.132,-6.66845,gb
 loc-01c9d6fd76a12063,"County Antrim, Northern Ireland",County Antrim,Northern Ireland,54.675131,-6.225599,gb
 loc-b365caa0f8b5239f,"Craigavon, Northern Ireland",Craigavon,Northern Ireland,54.448101,-6.38758,gb
@@ -1002,7 +1014,7 @@ loc-92b33478f1d95bcd,"Davidsons Mains, Edinburgh",Davidsons Mains,Scotland,55.97
 loc-1c58ba34e78cc614,"Dundee, Scotland",Dundee,Scotland,,,gb
 loc-f093c3c6579cf195,"Dunfermline, Fife",Dunfermline,Scotland,56.0714,-3.46169,gb
 loc-a01cc1c8e1579599,"Edinburgh, Scotland",Edinburgh,Scotland,55.943116,-3.327942,gb
-loc-5eaa569023aea12a,"Edinburgh City Centre, Edinburgh",Edinburgh City Centre,Scotland,55.948511,-3.207101,gb
+loc-5eaa569023aea12a,"Edinburgh City Centre, Edinburgh",Edinburgh City Centre,Scotland,55.947565,-3.211027,gb
 loc-046afe60213bd1af,"Edinburgh Technopole, Milton Bridge",Edinburgh Technopole,Scotland,55.858501,-3.20232,gb
 loc-b7511e191265412e,"Ferniegair, Hamilton",Ferniegair,Scotland,55.770749,-4.054825,gb
 loc-789c38c2c29c1a81,"Fife, Scotland",Fife,Scotland,56.219006,-3.129077,gb
@@ -1024,6 +1036,7 @@ loc-cf23d8db73e7d429,"Riccarton, Currie",Riccarton,Scotland,55.933921,-3.308888,
 loc-c7bb09638a00f8af,"Rutherglen, South Lanarkshire",Rutherglen,Scotland,55.828531,-4.214063,gb
 loc-e3a6fece13143fa1,"Scotland, UK",Scotland,Scotland,56.79918,-4.254873,gb
 loc-c7b8ce8e96f97bb5,"South Lanarkshire, Scotland",South Lanarkshire,Scotland,55.650278,-3.78144,gb
+loc-77dddd08aca2d101,"Stewarton, Kilmarnock",Stewarton,Scotland,55.680302,-4.51543,gb
 loc-80f3362c18e1a828,"Stirling, County Stirling",Stirling,Scotland,56.1194,-3.93588,gb
 loc-41e25d5684235115,"Torwood, Larbert",Torwood,Scotland,56.03343,-3.835968,gb
 loc-20014550e3079e77,"Whiteinch, Glasgow",Whiteinch,Scotland,55.883691,-4.322786,gb
@@ -1040,7 +1053,7 @@ loc-f28129d15832a845,"Bexley, Kent",Bexley,South East England,51.441399,0.14861,
 loc-3b60e4b7bbd71a0c,"Bexleyheath, Kent",Bexleyheath,South East England,51.462799,0.139205,gb
 loc-22c923789141bc46,"Bicester, Oxfordshire",Bicester,South East England,51.902,-1.15422,gb
 loc-200b952606607063,"Biggin Hill, Westerham",Biggin Hill,South East England,51.311199,0.035201,gb
-loc-ffd930f2f9eb856c,"Binfield, Bracknell",Binfield,South East England,51.415438,-0.786785,gb
+loc-ffd930f2f9eb856c,"Binfield, Bracknell",Binfield,South East England,51.412251,-0.775497,gb
 loc-3d6055888b6e10bd,"Bisham, Marlow",Bisham,South East England,51.572209,-0.761477,gb
 loc-eb838eccd9085326,"Bobbing, Sittingbourne",Bobbing,South East England,51.352533,0.715736,gb
 loc-ada834c119d3e9aa,"Bodicote, Banbury",Bodicote,South East England,52.062235,-1.341226,gb
@@ -1089,7 +1102,7 @@ loc-3793947a0361435b,"Fetcham, Leatherhead",Fetcham,South East England,51.301474
 loc-d0eed3dd47932992,"Folkestone, Kent",Folkestone,South East England,51.078701,1.17409,gb
 loc-2e9e2452844eefa0,"Frimley, Camberley",Frimley,South East England,51.3134,-0.737861,gb
 loc-5bca2e56745cca83,"Gillingham, Kent",Gillingham,South East England,51.386501,0.544338,gb
-loc-8b59129d5e7d95f4,"H M Naval Base, Portsmouth",H M Naval Base,South East England,50.795279,-1.093584,gb
+loc-8b59129d5e7d95f4,"H M Naval Base, Portsmouth",H M Naval Base,South East England,50.799488,-1.11002,gb
 loc-f40a706510a3c5b6,"Hampshire, South East England",Hampshire,South East England,51.080127,-1.298703,gb
 loc-8cfb9446f70f8573,"Hampton Poyle, Kidlington",Hampton Poyle,South East England,51.829624,-1.281816,gb
 loc-fc44c5b3530a1372,"Hartwell, Aylesbury",Hartwell,South East England,51.797308,-0.819402,gb
@@ -1141,7 +1154,7 @@ loc-a25fb3b50dd64972,"Rownhams, Southampton",Rownhams,South East England,50.9330
 loc-1efa612f836c092d,"Sandwich, Kent",Sandwich,South East England,51.275398,1.33871,gb
 loc-ba30459bf22890fc,"Shippon, Abingdon",Shippon,South East England,51.679901,-1.30778,gb
 loc-e9d36d9f41a66d1a,"Shoreham-By-Sea, West Sussex",Shoreham-By-Sea,South East England,50.834087,-0.270071,gb
-loc-c43a3f0388554e36,"Shotover Hill, Headington",Shotover Hill,South East England,51.750334,-1.214709,gb
+loc-c43a3f0388554e36,"Shotover Hill, Headington",Shotover Hill,South East England,51.759289,-1.188227,gb
 loc-2b9f2cd79bb4f052,"Sidlow, Reigate",Sidlow,South East England,51.238297,-0.209669,gb
 loc-e7dc88e28c7b10e9,"Slough, Berkshire",Slough,South East England,51.5093,-0.595448,gb
 loc-09a1864d9cac0d1a,"Snodland, Kent",Snodland,South East England,51.322957,0.436406,gb
@@ -1185,6 +1198,7 @@ loc-74ff497e23a7e143,"Bath, Bath & N E Somerset",Bath,South West England,51.3811
 loc-101a0b10c7178e4d,"Bournemouth, Dorset",Bournemouth,South West England,50.721699,-1.87853,gb
 loc-13b5ca8417e8492a,"Bournemouth International Airport, Hurn",Bournemouth International Airport,South West England,50.777599,-1.83242,gb
 loc-b9d62636ed8e5e80,"Branksome, Poole",Branksome,South West England,50.735801,-1.921321,gb
+loc-6688104bbec52e58,"Brent Knoll, Highbridge",Brent Knoll,South West England,51.250301,-2.95477,gb
 loc-04cb718303efcfc2,"Bridgwater, Somerset",Bridgwater,South West England,51.127602,-3.00403,gb
 loc-bb261a848fa7a9ff,"Bristol, South West England",Bristol,South West England,51.455299,-2.5919,gb
 loc-4c7adf93685d832b,"Cheddon Fitzpaine, Taunton",Cheddon Fitzpaine,South West England,51.034236,-3.095642,gb
@@ -1303,7 +1317,7 @@ loc-c7894908fbdb01ef,"Cheadle, Stoke-On-Trent",Cheadle,West Midlands,52.9884,-1.
 loc-5c141f03e178ef05,"Coseley, Bilston",Coseley,West Midlands,52.555683,-2.086344,gb
 loc-ac1f3e982d832467,"Coton, Nuneaton",Coton,West Midlands,52.521784,-1.467336,gb
 loc-83c398279e529615,"Coventry, West Midlands",Coventry,West Midlands,52.4058,-1.51266,gb
-loc-50b482f3d1176682,"Deritend, Birmingham",Deritend,West Midlands,52.479689,-1.899877,gb
+loc-50b482f3d1176682,"Deritend, Birmingham",Deritend,West Midlands,52.475968,-1.880982,gb
 loc-e6ed4cad7f104018,"Dickens Heath, Shirley",Dickens Heath,West Midlands,52.4006,-1.825874,gb
 loc-e72962af618aefd8,"Droitwich, Worcestershire",Droitwich,West Midlands,52.268101,-2.15369,gb
 loc-e7d00269bc70b087,"Dudley, West Midlands",Dudley,West Midlands,52.508701,-2.08734,gb
@@ -1402,7 +1416,7 @@ loc-64d2c58e95d6e3f6,"Grimsby, North East Lincolnshire",Grimsby,Yorkshire And Th
 loc-b29287f1f7d6f727,"Halifax, West Yorkshire",Halifax,Yorkshire And The Humber,53.7244,-1.86158,gb
 loc-534644e867ef623b,"Harrogate, North Yorkshire",Harrogate,Yorkshire And The Humber,53.990601,-1.53911,gb
 loc-23541822ac4128d6,"Heeley, Sheffield",Heeley,Yorkshire And The Humber,53.353128,-1.470141,gb
-loc-8fd5fae804e7c46e,"Hillhouse, Huddersfield",Hillhouse,Yorkshire And The Humber,53.647222,-1.788357,gb
+loc-8fd5fae804e7c46e,"Hillhouse, Huddersfield",Hillhouse,Yorkshire And The Humber,53.647789,-1.782304,gb
 loc-b6a4d6fc24ef0057,"Hoe Hill, Barton-Upon-Humber",Hoe Hill,Yorkshire And The Humber,53.690556,-0.431245,gb
 loc-483e8376326138df,"Holbeck, Leeds",Holbeck,Yorkshire And The Humber,53.791537,-1.547812,gb
 loc-f4d85a81a191eab1,"Holgate, York",Holgate,Yorkshire And The Humber,53.958449,-1.089285,gb
