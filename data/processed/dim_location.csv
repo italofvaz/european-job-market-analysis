@@ -95,7 +95,7 @@ loc-418388cc2e524cf0,"Richterswil, Horgen",Richterswil,Kanton Zürich,47.205519,
 loc-2d7e33b75063da67,"Rümlang, Dielsdorf",Rümlang,Kanton Zürich,47.436477,8.506507,ch
 loc-d46afe8ed980f914,"Wallisellen, Bülach",Wallisellen,Kanton Zürich,47.413463,8.592392,ch
 loc-c93426854cf1be59,Winterthur,Winterthur,Kanton Zürich,47.501258,8.72733,ch
-loc-e8d9a634fda7b555,"Zollikon, Meilen",Zollikon,Kanton Zürich,47.358044,8.557083,ch
+loc-e8d9a634fda7b555,"Zollikon, Meilen",Zollikon,Kanton Zürich,47.366618,8.562382,ch
 loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.374173,8.523767,ch
 loc-e81b5fe7ffa508f6,Schweiz,,,46.206338,6.146335,ch
 loc-8461d0fe7c546bcf,"Achalm, Reutlingen",Achalm,Baden-Württemberg,48.49388,9.24135,de
@@ -508,6 +508,7 @@ loc-7a86c1abbd37419f,"Altstadt, Kiel",Altstadt,Schleswig-Holstein,54.32167,10.14
 loc-d8c7fa6c0d7637aa,"Altstadt, Flensburg",Altstadt,Schleswig-Holstein,54.78895,9.42904,de
 loc-dbe4cbe6eaaf21dd,"Blücherplatz, Kiel",Blücherplatz,Schleswig-Holstein,54.34145,10.13827,de
 loc-77d1e6c614abbf8e,"Bokholt-Hanredder, Pinneberg (Kreis)",Bokholt-Hanredder,Schleswig-Holstein,53.78807,9.73618,de
+loc-597ffe92f78c0878,"Brunsbüttel, Dithmarschen (Kreis)",Brunsbüttel,Schleswig-Holstein,53.89566,9.12597,de
 loc-b2e532357487c097,"Elmshorn, Pinneberg (Kreis)",Elmshorn,Schleswig-Holstein,53.7553,9.65624,de
 loc-34e88e93a6a9a365,"Flensburg, Schleswig-Holstein",Flensburg,Schleswig-Holstein,54.788085,9.43831,de
 loc-bb5ebac97a5e623b,"Gaarden-Ost, Kiel",Gaarden-Ost,Schleswig-Holstein,54.30729,10.1424,de
@@ -554,6 +555,7 @@ loc-52e8bbeca519a015,"Cerdanyola del Vallès, Barcelona",Cerdanyola del Vallès,
 loc-8d6f774e7c81e47b,"Cornellà de Llobregat, Barcelona",Cornellà de Llobregat,Cataluña,41.352924,2.084305,es
 loc-42bebaf40b845989,"El Prat de Llobregat, Barcelona",El Prat de Llobregat,Cataluña,41.32899,2.089547,es
 loc-30ea2b4381da9d2a,"Esplugues de Llobregat, Barcelona",Esplugues de Llobregat,Cataluña,41.372119,2.08409,es
+loc-cf43a268d034eac9,"Girona, Cataluña",Girona,Cataluña,,,es
 loc-1b9326ae471dde65,"L'Hospitalet de Llobregat, Barcelona",L'Hospitalet de Llobregat,Cataluña,41.359771,2.101383,es
 loc-6f40fa4ac9d37171,Lleida,Lleida,Cataluña,41.606568,0.638021,es
 loc-8ef2dfc52b147be9,"Manresa, Barcelona",Manresa,Cataluña,41.735708,1.823085,es
@@ -780,7 +782,7 @@ loc-906fb94e4e38de6a,"Enfield, London",Enfield,London,,,gb
 loc-823046a86160cfde,"Farnborough, Orpington",Farnborough,London,51.358601,0.076222,gb
 loc-7329e906f3dfdd8c,"Farringdon, Central London",Farringdon,London,51.52024,-0.10491,gb
 loc-bb857bf796c9fd51,"Fenchurch St, Central London",Fenchurch St,London,51.513144,-0.08261,gb
-loc-382784d103e60a14,"Finsbury, Central London",Finsbury,London,51.527565,-0.105114,gb
+loc-382784d103e60a14,"Finsbury, Central London",Finsbury,London,51.531512,-0.103407,gb
 loc-eba1f547ae037f18,"Finsbury Park, North London",Finsbury Park,London,51.565102,-0.097628,gb
 loc-9a57365a8f95e222,"Fitzrovia, West London",Fitzrovia,London,51.523991,-0.141402,gb
 loc-7683e7b678c3d672,"Fleet Street, Central London",Fleet Street,London,51.518494,-0.111962,gb
@@ -988,6 +990,7 @@ loc-eed17be3c8a2e12f,"Coleraine, Northern Ireland",Coleraine,Northern Ireland,55
 loc-01c9d6fd76a12063,"County Antrim, Northern Ireland",County Antrim,Northern Ireland,54.675131,-6.225599,gb
 loc-b365caa0f8b5239f,"Craigavon, Northern Ireland",Craigavon,Northern Ireland,54.448101,-6.38758,gb
 loc-0fcd9c76cf9ec0e5,"Crumlin, County Antrim",Crumlin,Northern Ireland,54.623901,-6.21176,gb
+loc-fb1b3fe93ee0536b,"Doagh, Ballyclare",Doagh,Northern Ireland,54.724552,-5.998816,gb
 loc-7c5705c463332861,"Finaghy, Belfast",Finaghy,Northern Ireland,54.560001,-5.9783,gb
 loc-7e9d286d58b368ff,"Greyabbey, Newtownards",Greyabbey,Northern Ireland,54.535301,-5.56003,gb
 loc-0f05e0f020428b07,"Helens Bay, Bangor",Helens Bay,Northern Ireland,54.666901,-5.7402,gb
@@ -1151,6 +1154,7 @@ loc-d7f7aabbfbc997fe,"Reading, Berkshire",Reading,South East England,51.455002,-
 loc-89cebe2717488ed3,"Redhill, Surrey",Redhill,South East England,51.240799,-0.170087,gb
 loc-66b681df53c74fa2,"Reigate, Surrey",Reigate,South East England,51.237598,-0.205832,gb
 loc-a25fb3b50dd64972,"Rownhams, Southampton",Rownhams,South East England,50.933022,-1.435104,gb
+loc-ccfe24e6390b4940,"Sandgate, Folkestone",Sandgate,South East England,51.075699,1.149115,gb
 loc-1efa612f836c092d,"Sandwich, Kent",Sandwich,South East England,51.275398,1.33871,gb
 loc-ba30459bf22890fc,"Shippon, Abingdon",Shippon,South East England,51.679901,-1.30778,gb
 loc-e9d36d9f41a66d1a,"Shoreham-By-Sea, West Sussex",Shoreham-By-Sea,South East England,50.834087,-0.270071,gb
@@ -1195,6 +1199,7 @@ loc-64f8b166f1fb14da,"Wytham, Oxford",Wytham,South East England,51.78214,-1.3253
 loc-aea6b503b9307404,"Arlingham, Gloucester",Arlingham,South West England,51.792799,-2.412156,gb
 loc-863f81a819c745a7,"Barnwood, Gloucester",Barnwood,South West England,51.863499,-2.2019,gb
 loc-74ff497e23a7e143,"Bath, Bath & N E Somerset",Bath,South West England,51.3811,-2.35862,gb
+loc-f0da456bec2caa40,"Bolham, Tiverton",Bolham,South West England,50.922329,-3.491804,gb
 loc-101a0b10c7178e4d,"Bournemouth, Dorset",Bournemouth,South West England,50.721699,-1.87853,gb
 loc-13b5ca8417e8492a,"Bournemouth International Airport, Hurn",Bournemouth International Airport,South West England,50.777599,-1.83242,gb
 loc-b9d62636ed8e5e80,"Branksome, Poole",Branksome,South West England,50.735801,-1.921321,gb
@@ -1248,6 +1253,7 @@ loc-8be0be6a86044108,"Redruth, Cornwall",Redruth,South West England,50.2346,-5.2
 loc-d525249b7919ea0c,"Ringswell Park, Exeter",Ringswell Park,South West England,50.716482,-3.482252,gb
 loc-1405b85e5b95eca1,"Shaw, Swindon",Shaw,South West England,51.572273,-1.83676,gb
 loc-339ff186b8edfc8d,"Snowhill, Walcot",Snowhill,South West England,51.382101,-2.360803,gb
+loc-dd04dfa84610e6a3,"South Marston, Swindon",South Marston,South West England,51.595452,-1.73327,gb
 loc-35b3031fd0404221,"South West England, UK",South West England,South West England,50.950482,-3.230444,gb
 loc-8ff57ce3336221c0,"St. Augustines, Bristol",St. Augustines,South West England,51.453793,-2.599494,gb
 loc-fb872b5313e7ef7b,"Stanley, Chippenham",Stanley,South West England,51.448252,-2.060621,gb
@@ -1340,6 +1346,7 @@ loc-50a21d12042079e6,"Long Lawford, Rugby",Long Lawford,West Midlands,52.390168,
 loc-3739e3ba29b8b494,"Longford, Coventry",Longford,West Midlands,52.448266,-1.490278,gb
 loc-4e9da2531051e4e2,"Lozells, Birmingham",Lozells,West Midlands,52.483008,-1.901858,gb
 loc-0d0815bc3e576209,"Lugg Bridge, Hereford",Lugg Bridge,West Midlands,52.064177,-2.672168,gb
+loc-325ed74353aaedcb,"Malvern, Worcestershire",Malvern,West Midlands,52.1077,-2.325,gb
 loc-86c907d787bece9e,"Maney, Sutton Coldfield",Maney,West Midlands,52.565992,-1.822848,gb
 loc-0aac2c2cc2296cdf,"Marston Green, Birmingham",Marston Green,West Midlands,52.466301,-1.74531,gb
 loc-571a8a3515e8fb22,"May Bank, Newcastle",May Bank,West Midlands,53.024601,-2.21678,gb
