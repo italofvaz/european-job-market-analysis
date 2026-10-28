@@ -63,7 +63,7 @@ loc-4c12ed056e4af25a,"Paradiso, Lugano",Paradiso,Kanton Tessin,45.987488,8.94539
 loc-4472435923e3a099,"Tenero-Contra, Locarno",Tenero-Contra,Kanton Tessin,46.17744,8.850222,ch
 loc-a851d7e169ca3cad,Arbon,Arbon,Kanton Thurgau,47.515064,9.436832,ch
 loc-1df442bec5bc4fe7,"Bussnang, Weinfelden",Bussnang,Kanton Thurgau,47.55731,9.078475,ch
-loc-16c978958f801ad5,Frauenfeld,Frauenfeld,Kanton Thurgau,47.556194,8.89581,ch
+loc-16c978958f801ad5,Frauenfeld,Frauenfeld,Kanton Thurgau,47.556809,8.90649,ch
 loc-68bf03eaed5b5837,Kreuzlingen,Kreuzlingen,Kanton Thurgau,47.647714,9.175346,ch
 loc-37253401bbefe179,"Denges, Morges",Denges,Kanton Waadt,46.524407,6.540919,ch
 loc-c86e63399d2a9244,"Echandens, Morges",Echandens,Kanton Waadt,46.5349,6.541459,ch
@@ -594,6 +594,7 @@ loc-ad9d4a7175d4489c,"Pinto, Madrid",Pinto,Comunidad de Madrid,40.243182,-3.6982
 loc-07f35b8f20dc4205,"Pozuelo de Alarcón, Madrid",Pozuelo de Alarcón,Comunidad de Madrid,40.43594,-3.815816,es
 loc-33ba66a194e54e26,"Torrelodones, Madrid",Torrelodones,Comunidad de Madrid,40.531685,-3.925464,es
 loc-c7bc91c9cae61ee7,"Tres Cantos, Madrid",Tres Cantos,Comunidad de Madrid,40.553848,-3.709473,es
+loc-1e6d95675128a85f,"Velilla de San Antonio, Madrid",Velilla de San Antonio,Comunidad de Madrid,40.341704,-3.503575,es
 loc-8b00ec4522496185,"Majadas, Cáceres",Majadas,Extremadura,39.990693,-5.714893,es
 loc-d24f085ad78e8dda,"Zafra, Badajoz",Zafra,Extremadura,38.426179,-6.419306,es
 loc-977b0055becf37cb,A Coruña,A Coruña,Galicia,43.380758,-8.402597,es
@@ -634,6 +635,7 @@ loc-36e220f8c3a0578e,"Derby, Derbyshire",Derby,East Midlands,52.921902,-1.47564,
 loc-b49d94f2bbb35f49,"Derbyshire, East Midlands",Derbyshire,East Midlands,53.087338,-1.587243,gb
 loc-b9cb43043fded168,"Desford, Leicester",Desford,East Midlands,52.625702,-1.29427,gb
 loc-c5d2bc05de5d4a3c,"Diseworth, Derby",Diseworth,East Midlands,52.826474,-1.330627,gb
+loc-6f46d3fe9f88155f,"Earl Shilton, Leicester",Earl Shilton,East Midlands,52.574442,-1.317324,gb
 loc-c15cd185ca92694f,"East Midlands, UK",East Midlands,East Midlands,52.934907,-0.846093,gb
 loc-e77bc0f3430edbb7,"Grove Park, Enderby",Grove Park,East Midlands,52.590087,-1.196858,gb
 loc-96a2e93fb09f81a4,"Hardingstone, Northampton",Hardingstone,East Midlands,52.218906,-0.874979,gb
@@ -696,6 +698,7 @@ loc-bbf24cf31499fea7,"Elstow, Bedford",Elstow,Eastern England,52.138071,-0.47333
 loc-5a339faf96918ffe,"Fenstanton, Huntingdon",Fenstanton,Eastern England,52.322866,-0.06715,gb
 loc-0ee882497be41c5d,"Hadleigh, Benfleet",Hadleigh,Eastern England,51.563265,0.586029,gb
 loc-e566e7c6e6e60eec,"Harlow, Essex",Harlow,Eastern England,51.776501,0.111317,gb
+loc-9c29ac3f5cefd128,"Harpenden, Hertfordshire",Harpenden,Eastern England,51.819053,-0.352959,gb
 loc-2cf7ca9686c30493,"Hatfield, Hertfordshire",Hatfield,Eastern England,51.762699,-0.224709,gb
 loc-e670d92c5517277c,"Havering-Atte-Bower, Romford",Havering-Atte-Bower,Eastern England,51.618967,0.182076,gb
 loc-d8c4caec9e9a04f4,"Hemel Hempstead, Hertfordshire",Hemel Hempstead,Eastern England,51.7537,-0.474902,gb
@@ -767,8 +770,9 @@ loc-93c38e09bab89456,"Blackfriars, Central London",Blackfriars,London,51.511587,
 loc-fd0342afe8040d4a,"Bloomsbury, Central London",Bloomsbury,London,51.517999,-0.123715,gb
 loc-7d58338fd7fae5bc,"Borough, South East London",Borough,London,51.501402,-0.125002,gb
 loc-5e48c220f3ecba29,"Brixton, South West London",Brixton,London,51.462102,-0.117011,gb
-loc-538c3c5d0012085f,"Broadgate, Central London",Broadgate,London,51.520377,-0.083373,gb
-loc-27c74af7f2e9f1d4,"Bromley, South East London",Bromley,London,,,gb
+loc-538c3c5d0012085f,"Broadgate, Central London",Broadgate,London,51.525472,-0.083649,gb
+loc-27c74af7f2e9f1d4,"Bromley, South East London",Bromley,London,51.405701,0.01435,gb
+loc-8d5bf110e2445699,"Camden, North West London",Camden,London,51.536522,-0.131504,gb
 loc-5e9277f73975514e,"Camden Town, North West London",Camden Town,London,51.533298,-0.146907,gb
 loc-537ff2f8a38eefff,"Canary Wharf, East London",Canary Wharf,London,51.508092,-0.022997,gb
 loc-50a56381b25806de,"Catford, South East London",Catford,London,51.445076,-0.020805,gb
@@ -780,6 +784,7 @@ loc-448750601ae96b69,"Clerkenwell, Central London",Clerkenwell,London,51.526556,
 loc-3bbb60ca17efdc65,"Colindale, North West London",Colindale,London,51.594757,-0.254103,gb
 loc-78c58fa58fd5fe3e,"Covent Garden, Central London",Covent Garden,London,51.514772,-0.12379,gb
 loc-3fb55675039ce460,"Cowley, Uxbridge",Cowley,London,51.545412,-0.480583,gb
+loc-1bc266f371c78bee,"Cranford, Hounslow",Cranford,London,51.47235,-0.397469,gb
 loc-b08e392406ce1852,"Cricklewood, North West London",Cricklewood,London,51.559888,-0.224926,gb
 loc-f4a20a47efb68e65,"Croydon, London",Croydon,London,51.372398,-0.100401,gb
 loc-4035a89e1735e8d3,"Docklands, East London",Docklands,London,51.505199,-0.018848,gb
@@ -848,6 +853,7 @@ loc-a09a58c913df1b20,"South Wimbledon, South West London",South Wimbledon,London
 loc-db7fbd04978a779e,"Southgate, North London",Southgate,London,51.633528,-0.126711,gb
 loc-5ca07b75e0911779,"Southwark, South East London",Southwark,London,51.504829,-0.091648,gb
 loc-0cb97658329bc401,"Spitalfields, East London",Spitalfields,London,51.52019,-0.077975,gb
+loc-eaf19fc3739a85db,"St Lukes, Central London",St Lukes,London,51.52727,-0.089124,gb
 loc-ca8ba0418cc5f90e,"St Paul's, Central London",St Paul's,London,51.514278,-0.093838,gb
 loc-0aa552e774d346a7,"Stepney, East London",Stepney,London,51.514213,-0.050367,gb
 loc-8d41d81b5f7da722,"Stoke Newington, North London",Stoke Newington,London,51.560101,-0.073739,gb
@@ -912,6 +918,7 @@ loc-b4c95246b4cbd7d2,"Barrowford, Nelson",Barrowford,North West England,53.83744
 loc-9b327ccdf23e0958,"Birkenhead, Merseyside",Birkenhead,North West England,53.3871,-3.02213,gb
 loc-7d64a3c01ba2ee44,"Blackburn, Lancashire",Blackburn,North West England,53.750099,-2.48471,gb
 loc-63e1f7fa24ea1782,"Blackpool, Lancashire",Blackpool,North West England,53.814201,-3.05351,gb
+loc-7d296dcb46f18756,"Bollington, Macclesfield",Bollington,North West England,53.27654,-2.130008,gb
 loc-551d0f62ece3c087,"Bolton, Greater Manchester",Bolton,North West England,53.578499,-2.42992,gb
 loc-418c878f7f969516,"Bolton By Bowland, Clitheroe",Bolton By Bowland,North West England,53.940102,-2.32856,gb
 loc-a57988a78a155474,"Broadbottom, Hyde",Broadbottom,North West England,53.443525,-2.031758,gb
@@ -955,6 +962,7 @@ loc-b3753f42e8ca6c52,"Lower Darwen, Darwen",Lower Darwen,North West England,53.7
 loc-d6a6a048ce0ca63d,"Lyme Green, Macclesfield",Lyme Green,North West England,53.2397,-2.115963,gb
 loc-586dc57b959c8382,"Lytham, Lytham St. Annes",Lytham,North West England,53.747601,-3.01629,gb
 loc-ecd70210e652ec63,"Macclesfield, Cheshire",Macclesfield,North West England,53.260799,-2.12819,gb
+loc-87c33f562a158d68,"Malkins Bank, Sandbach",Malkins Bank,North West England,53.14171,-2.355908,gb
 loc-660685c50d9f06e9,"Manchester, Greater Manchester",Manchester,North West England,53.480701,-2.23438,gb
 loc-aa8bff15c56d23f1,"Manchester Science Park, Manchester",Manchester Science Park,North West England,53.481681,-2.242943,gb
 loc-0c39960166e5a1c0,"Manor Park, Runcorn",Manor Park,North West England,53.350113,-2.654737,gb
@@ -1021,6 +1029,7 @@ loc-fc7b037011380385,"Aberdeen, Aberdeenshire",Aberdeen,Scotland,57.147499,-2.09
 loc-598552acb450d1b9,"Alloa, Clackmannanshire",Alloa,Scotland,56.116299,-3.79537,gb
 loc-5d3ef6664d5f5d71,"Bellshill, North Lanarkshire",Bellshill,Scotland,55.818699,-4.02555,gb
 loc-dcad9ac55b489c8c,"Blantyre, South Lanarkshire",Blantyre,Scotland,55.7934,-4.09686,gb
+loc-cb3035f60fb7203d,"Cambuslang, South Lanarkshire",Cambuslang,Scotland,55.814899,-4.16645,gb
 loc-34998f4b4dbc6082,"Chapelhall, Airdrie",Chapelhall,Scotland,55.83062,-3.953415,gb
 loc-f4a0f8c2ba3adc5e,"Coupar Angus, Blairgowrie",Coupar Angus,Scotland,56.545601,-3.26766,gb
 loc-daf6cbcfdadc10f6,"Cumbernauld, North Lanarkshire",Cumbernauld,Scotland,55.947201,-3.98993,gb
@@ -1038,6 +1047,7 @@ loc-b55331a18ce339b7,"Grangemouth, Falkirk County",Grangemouth,Scotland,56.01879
 loc-9c4f15220c3cde1a,"Haddington, East Lothian",Haddington,Scotland,55.955399,-2.78385,gb
 loc-b8a2d2dbe7187273,"Hamilton, South Lanarkshire",Hamilton,Scotland,55.7756,-4.04756,gb
 loc-0c1f92c6b6f569af,"Helensburgh, Argyll & Bute",Helensburgh,Scotland,56.010576,-4.75085,gb
+loc-d719c10ab7f336dd,"Hermiston, Currie",Hermiston,Scotland,55.909408,-3.3207,gb
 loc-6a973d97146585b9,"Hillhead, Glasgow City Centre",Hillhead,Scotland,55.861395,-4.259705,gb
 loc-de599fed3a258716,"Holytown, Motherwell",Holytown,Scotland,55.834245,-3.980153,gb
 loc-89690db933adb06c,"Irvine, North Ayrshire",Irvine,Scotland,55.615601,-4.66488,gb
@@ -1206,6 +1216,7 @@ loc-aaa24f3b2df4b795,"Winnersh, Wokingham",Winnersh,South East England,51.436812
 loc-67519e51950e1df0,"Woking, Surrey",Woking,South East England,51.316799,-0.55908,gb
 loc-32b00aa02f7460b1,"Woodchurch, Birchington",Woodchurch,South East England,51.351328,1.348395,gb
 loc-f0826970d8b9d136,"Worthing, West Sussex",Worthing,South East England,50.814701,-0.371387,gb
+loc-3b760f227ed38de9,"Wotton, Dorking",Wotton,South East England,51.216702,-0.388685,gb
 loc-fc327361e3cd85da,"Wraysbury, Staines",Wraysbury,South East England,51.432883,-0.524902,gb
 loc-64f8b166f1fb14da,"Wytham, Oxford",Wytham,South East England,51.78214,-1.325384,gb
 loc-aea6b503b9307404,"Arlingham, Gloucester",Arlingham,South West England,51.792799,-2.412156,gb
@@ -1249,6 +1260,7 @@ loc-a28e54631632db33,"Kenn, Clevedon",Kenn,South West England,51.435107,-2.84992
 loc-feba56abe9b7c5a4,"Keynsham, Bristol",Keynsham,South West England,51.416302,-2.49883,gb
 loc-741fe7d56170eb59,"Lacock, Chippenham",Lacock,South West England,51.420633,-2.133049,gb
 loc-18944fe268bb94b5,"Langford, Cullompton",Langford,South West England,50.809318,-3.391006,gb
+loc-5277beba21e78b2c,"Little Stoke, Bristol",Little Stoke,South West England,51.517858,-2.568888,gb
 loc-4d0e4375ab225417,"Malmesbury, Wiltshire",Malmesbury,South West England,51.584801,-2.0996,gb
 loc-8fdcb9f5715e1cb4,"Middlemoor, Exeter",Middlemoor,South West England,50.72569,-3.467439,gb
 loc-0337261f3459d274,"Newent, Gloucestershire",Newent,South West England,51.930599,-2.40586,gb
@@ -1356,6 +1368,7 @@ loc-45fddd006796cdcf,"Lichfield, Staffordshire",Lichfield,West Midlands,52.68360
 loc-2c5780f3e8aa4afc,"Lillington, Leamington Spa",Lillington,West Midlands,52.289377,-1.534957,gb
 loc-50a21d12042079e6,"Long Lawford, Rugby",Long Lawford,West Midlands,52.390168,-1.298443,gb
 loc-3739e3ba29b8b494,"Longford, Coventry",Longford,West Midlands,52.448266,-1.490278,gb
+loc-bad99cfbbb05db1b,"Lower Emstrey, Atcham",Lower Emstrey,West Midlands,52.691817,-2.715565,gb
 loc-4e9da2531051e4e2,"Lozells, Birmingham",Lozells,West Midlands,52.483008,-1.901858,gb
 loc-0d0815bc3e576209,"Lugg Bridge, Hereford",Lugg Bridge,West Midlands,52.064177,-2.672168,gb
 loc-325ed74353aaedcb,"Malvern, Worcestershire",Malvern,West Midlands,52.1077,-2.325,gb
