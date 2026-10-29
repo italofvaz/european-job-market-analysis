@@ -125,6 +125,7 @@ co-c3ea8200522575c2,Lonza,True,ch
 co-b8d6c787fb59943c,MSC Mediterranean Shipping Company,True,ch
 co-fe2fca6b0f5288fd,Manpower,True,ch
 co-a9228267720f069d,Masimo,True,ch
+co-2d3391b1800abb07,Medicalculis GmbH,True,ch
 co-e7727caa5e163d21,Michael Page,True,ch
 co-29bc8449568d29df,Michael Page Switzerland,True,ch
 co-2f24e33ba74c6525,MicroMED AG,True,ch
@@ -152,6 +153,7 @@ co-089d273443d4c62a,Roche,True,ch
 co-0c4343f3cc3de7e9,Rocken®,True,ch
 co-7231bbdde53b032e,Rolex,True,ch
 co-f5a034d57ce9299d,Ronda AG,True,ch
+co-4538e3d17c33aadc,SGI,True,ch
 co-5a0603b43f0c8e8e,SIX Group,True,ch
 co-2831b617224967f5,SIX Group AG,True,ch
 co-73a34d6907f6b94d,SPS Switzerland AG,True,ch
@@ -188,6 +190,7 @@ co-c7938c7522bc15f9,UBS Card Center AG,True,ch
 co-e1b2cbbe3fcd891a,Universitätsspital Zürich,True,ch
 co-3d4dd958e330fc67,"Urs Ledermann & Partner AG, Bern",True,ch
 co-487b0b14c20f419a,V-ZUG AG,True,ch
+co-79d5925202f242f4,VBV-Recruiting GmbH,True,ch
 co-e8d104060d39cc29,VIACAR AG,True,ch
 co-e931bff23fa143f9,VP Bank AG,True,ch
 co-e5da9f2b0fb8675e,VZ VermögensZentrum,True,ch
@@ -368,6 +371,7 @@ co-1bfeed868d8524c7,BridgingIT,True,de
 co-964f0bb5fd132603,BridgingIT GmbH,True,de
 co-78dea1645f613469,Bruker Corporation,True,de
 co-7573e8f71c211451,Bundespolizeipräsidium,True,de
+co-dfada1399b28b499,Bundesverband der Deutschen Volksbanken und Raiffeisenbanken,True,de
 co-8f429fb75c65578b,CADENAS GmbH,True,de
 co-7739eda81ecfd56c,CAMPUSERVICE,True,de
 co-f0614da638ae913e,CBC Cologne Business Center,True,de
@@ -376,6 +380,8 @@ co-b555fb62014d1487,CGI,True,de
 co-4e2fa458f24e2c1d,CGM,True,de
 co-fc1e5ecb02d6dd0b,CHECK24 Vergleichsportal,True,de
 co-0a115af41648ec5a,CHEFS CULINAR West GmbH & Co. KG,True,de
+co-c2e2bfec07e378cf,CHT Germany GmbH,True,de
+co-c981593f794e5f39,CHT Group,True,de
 co-d37530c767413247,CITTI Handelsgesellschaft mbH u. Co. KG,True,de
 co-9b2dac2db281f9ae,COM,True,de
 co-92ed1be66c2ada83,CROWDCONSULTANTS,True,de
@@ -435,6 +441,7 @@ co-7153c096067a1aa8,Debeka,True,de
 co-a3971a12bf79801b,Debeka-Gruppe,True,de
 co-4879c7fa6b0c7ddb,Defense Finance and Accounting Service,True,de
 co-e8f7f3ff43d672f5,Deichmann SE,True,de
+co-aea6eeb97f59004f,DekaBank Deutsche Girozentrale - Niederlassung Luxemburg,True,de
 co-8e8a9dc7bcb47662,Deutsche Apotheker- und Ärztebank eG,True,de
 co-c20fd8da24a91e46,Deutsche Bahn AG,True,de
 co-008c9d59f3f51a2b,Deutsche Bank,True,de
@@ -545,6 +552,7 @@ co-5909e9fdfa07419a,Greystar Management Services,True,de
 co-3c833a1de2b24ade,"Grifols Shared Services North America, Inc",True,de
 co-3a3f412601174263,Grühn GmbH,True,de
 co-171164318f3c6f0e,Guldberg,True,de
+co-549422bfa4f3e20c,H.Essers,True,de
 co-07b9eea03befb9b7,HANSAINVEST,True,de
 co-bf66446978a54731,HBA-Consulting AG,True,de
 co-46d3d2a2fcff92be,HCIE,True,de
@@ -655,11 +663,13 @@ co-25f38fcd15c602e3,KnowWay GmbH,True,de
 co-edf16f2c597f5f76,Kolibri Games,True,de
 co-7fc8389fa382bb79,L21s GmbH,True,de
 co-59409c9f63185b33,LBBW Landesbank Baden-Württemberg,True,de
+co-835693d1633aafed,LGA Landesgewerbeanstalt Bayern,True,de
 co-aa8baa350801c18d,LINUM Executive Search,True,de
 co-ab2a012d3d31df5c,LM IT,True,de
 co-ecd2f58e88f6c098,LM IT Services AG,True,de
 co-8ef523e328aec53e,LNG-Terminal Brunsbüttel,True,de
 co-b7a1f32dcdc86ad1,LOTTO Schleswig-Holstein & Co. KG,True,de
+co-cbcd91d86f7e9049,LOTTO Schleswig-Holstein GmbH & Co. KG,True,de
 co-7143a6037b6b145d,LSI - Germany GmbH,True,de
 co-21609213ccd415f2,Landeshauptstadt Stuttgart,True,de
 co-58024ff176b3603b,Landesärztekammer Hessen,True,de
@@ -670,6 +680,7 @@ co-3a0ca597180b8a37,Leipziger Verkehrsbetriebe GmbH,True,de
 co-06ac7fda885ed04c,Lenz & Gomez Personaldienstleistungen,True,de
 co-5df41ad59fec9d3b,Lenz & Gomez Personaldienstleistungen GmbH,True,de
 co-92e8ce1b52b98238,Leuchtmehr GmbH,True,de
+co-5f9c70f05fdd389c,LexisNexis Risk Solutions,True,de
 co-b8e4fc62e7db171b,Lidl Stiftung & Co KG,True,de
 co-614c9a4e2a759c3e,Liebherr-Hausgeräte Ochsenhausen GmbH,True,de
 co-9d9ea0c90a86a9e1,Liebherr-International Deutschland GmbH,True,de
@@ -679,7 +690,6 @@ co-9f4f9d694e919e62,Lightspeed Commerce,True,de
 co-87013b8ca9fddf41,Linde,True,de
 co-b54aa8569f646fda,LiveEO GmbH,True,de
 co-dea0191df34f854e,LogPay Financial Services GmbH,True,de
-co-cbcd91d86f7e9049,Lotto Schleswig-Holstein GmbH & Co. KG,True,de
 co-a4d683a9a241e301,Lovehoney Group,True,de
 co-836e8f88ec04e8b2,Lowell,True,de
 co-4b48f7abb599de8e,Lufthansa Technik Logistik Services GmbH,True,de
@@ -782,6 +792,7 @@ co-f0bd53c870d5497c,Personal,True,de
 co-bc28c2ea08ba9eb7,Personalhaus Bielefeld & Co. KG,True,de
 co-029f385691cbc663,Pets Nature GmbH,True,de
 co-49d397d89fb7d2a3,Pflegia,True,de
+co-472015f3cd00fd52,Phare Consulting Group,True,de
 co-276ea5464a37288f,PharmaZell,True,de
 co-bc570fb3df8051a3,Planet,True,de
 co-1a17a0fdaa67a0ce,PreZero Stiftung & Co. KG,True,de
@@ -799,6 +810,7 @@ co-a68cc9e7fa35642c,Quince,True,de
 co-6cc8a8689f193a65,R+V Allgemeine Versicherung AG,True,de
 co-8d862175b57c99b3,RADAS Jobbörse & Personalvermittlung GmbH,True,de
 co-756c06196b78846d,RED Global,True,de
+co-193078b4347ad478,RELX,True,de
 co-6874664d4c1b98c0,RELX INC,True,de
 co-b10cebeb9cdc82dc,REMONDIS IT Services GmbH,True,de
 co-8524d30a4686ce45,REPA Deutschland GmbH,True,de
@@ -831,6 +843,7 @@ co-9f0d1e2abbcbc913,Rieck Logistik-Gruppe,True,de
 co-54bd23d3971c4e81,Riverty,True,de
 co-bec3dcdaa4ec2581,Rochus Mummert,True,de
 co-32bc8d4556f992be,Rochus Mummert digital GmbH,True,de
+co-72b224e4e7fa4e13,Rolls-Royce,True,de
 co-532678357ffaa41f,Rothenberger Gruppe,True,de
 co-f394566a9446f073,Rudolph Workforce GmbH,True,de
 co-101164b68cc6b198,S Rating und Risikosysteme GmbH,True,de
@@ -887,6 +900,7 @@ co-d1c4273e52d091c4,Skailark,True,de
 co-cd1d471f88949879,SkillTank GmbH & Co. KG,True,de
 co-14e5b2b779086cc8,Smith & Nephew,True,de
 co-84e7691799974e0e,Sollers Consulting,True,de
+co-6f9b01dcba4bc30c,Sollers Consulting GmbH,True,de
 co-96dfa88e75b725b6,Sonnländer Getränke GmbH,True,de
 co-bce40ceee90d649e,Sonntag AG,True,de
 co-975f8ff21bf3e289,Sopra-Steria,True,de
@@ -1087,6 +1101,7 @@ co-fae10583c2aedd09,mbi,True,de
 co-e17b37ee68373010,medermis clinics,True,de
 co-92b4efb35b73d67f,medinix Information Systems,True,de
 co-6ba8926debd08bb5,medinix Information Systems GmbH,True,de
+co-89940bc3989b879b,msg nexinsure ag,True,de
 co-bc26854fdb0002ba,much. GmbH,True,de
 co-4bcbebf6e7e53504,n8n,True,de
 co-c35f6314b01f20bb,node.energy GmbH,True,de
@@ -1207,6 +1222,7 @@ co-daddaba527a5d8bc,Astrazeneca,True,es
 co-e993bd49100d7e90,Atradius,True,es
 co-2be8bbe324e7404e,Aubay Spain,True,es
 co-d0065d362ccac822,Auren Personas,True,es
+co-267b784c7867e366,Avis Budget Group,True,es
 co-9ee361dafdf68457,Axians Nl,True,es
 co-e0f4f331d66ac853,Axpe Consulting,True,es
 co-50c473d713cd0beb,Axpo,True,es
@@ -1307,6 +1323,7 @@ co-af2a48e463c0cfd9,Decskill España,True,es
 co-54a6c4cb5bf3b6db,Deel,True,es
 co-a95eeb374ac8d0a4,Deep DSG,True,es
 co-05cd0e61197263e7,Deloitte,True,es
+co-75f6a2795b27e12b,Demo Datos,True,es
 co-c67924928e512114,Dentsply Sirona,True,es
 co-9c8d13182c488422,DerbySoft,True,es
 co-5816d3b70e43af73,Deutsche Bank,True,es
@@ -1317,12 +1334,14 @@ co-82886a9aba62b2b7,Devoteam,True,es
 co-615c7a4f345f4faf,Devoteam Alegri GmbH,True,es
 co-433c8a60262a22fa,Devoteam Spain,True,es
 co-28a976d8c74fe859,Dexcom,True,es
+co-7d8fa6444b17d09d,Dexeus Mujer Group,True,es
 co-63cb9ebc8c2b9835,Dkb Code Factory Gmbh,True,es
 co-f9b5ba723220f1fb,DocPlanner,True,es
 co-12a8de1e98c2abcf,Doctoralia Spain,True,es
 co-bc17c8bdfda8edaa,Dxc Technology,True,es
 co-759c20fc1f0e8452,Dynatrace,True,es
 co-e2e305e4487e313d,EPI INDUSTRIES family of companies,True,es
+co-c7c06975e61c515e,ERNI,True,es
 co-47464d5fab27cfc6,"ES RES Randstad Espana SL, Sociedad Unipersonal",True,es
 co-71cbc4bb7d163bd6,ESML SD Iberia Holding S A U,True,es
 co-bb943199ab63a50f,EY,True,es
@@ -1478,6 +1497,7 @@ co-e6c5b7fb53e607c6,Kraken,True,es
 co-d9789189c46bfaab,Krell,True,es
 co-a0ce24576f7402d7,Krell Consulting,True,es
 co-c22de5ff28be6804,Kyndryl,True,es
+co-6cf7d35812311fde,LHH,True,es
 co-94170b7270824942,"LICENCIAS, PROYECTOS Y SEGURIDAD Y SALUD",True,es
 co-5577580d9c62b33e,LINEA DIRECTA ASEGURADORA,True,es
 co-2b80101c2c8f6636,LOOKIERO OUTFITTERY GROUP,True,es
@@ -1847,6 +1867,7 @@ co-a3c24b8182e2aeec,ARM,True,gb
 co-898c12a7692167be,ARQ,True,gb
 co-032be48ee571b7f5,Abbott,True,gb
 co-7aa4b0aa7dd00fb8,Aberdeen,True,gb
+co-13c9430dea26db60,Aberdeen City Council,True,gb
 co-b07ad20112a16139,Aberdeen Investments,True,gb
 co-b4a0a63530ccd122,Aberdein Considine,True,gb
 co-dc2201ea71ffdcff,Accenture,True,gb
@@ -1912,7 +1933,7 @@ co-b84df84de837bc5b,Anglian Water,True,gb
 co-ea480c9dc3388794,Anglian Water Services,True,gb
 co-2c075ccfa6ef5369,Annapurna HR Ltd,True,gb
 co-57f59e9a3547c666,Anne Corder Recruitment,True,gb
-co-273f41ba777c8c94,Anson Mccade,True,gb
+co-273f41ba777c8c94,Anson McCade,True,gb
 co-d5c9a1c5716f4c7f,Apex Group,True,gb
 co-6066bedb3ccfa6a3,Apple Recruitment,True,gb
 co-8faf02f2fac009e1,Aqovia,True,gb
@@ -2043,6 +2064,7 @@ co-88bcdbc85a1fbf10,Bridge Recruitment UK Ltd,True,gb
 co-4ca6bc77291c0b34,Bright Purple,True,gb
 co-6bb501587454d7c1,Bright Purple Resourcing,True,gb
 co-728b99d5cc5096e8,BrightBox Group,True,gb
+co-11ec83b01b244344,Brightwell,True,gb
 co-0afe6414e482219b,Brio Digital,True,gb
 co-273d28af5ea6a8a5,Bristow Group,True,gb
 co-1dbaf0ef91e5e565,Bristow Holland,True,gb
@@ -2128,6 +2150,8 @@ co-d57ca89cbc6faa3d,Cencora,True,gb
 co-cdf98994d18e3544,Centellic,True,gb
 co-fcc7945d21000330,Central Coop,True,gb
 co-37f437c7a0886e78,Central London Community Health Trust,True,gb
+co-a4269a43f931b9c0,Central London Community Healthcare NHS Trust,True,gb
+co-09eb81a241d974cc,Central and North West London NHS Foundation Trust,True,gb
 co-09387469bdfb02e1,Centre for Information Resilience,True,gb
 co-6a492c910826097d,Centre for Young Lives,True,gb
 co-33df9f6347512ecc,Centrica,True,gb
@@ -2137,6 +2161,7 @@ co-72c565ce62eb5e53,Chambers and Partners,True,gb
 co-34c3cd11780bd3a9,Chanel,True,gb
 co-6705f5ee09587207,Change Grow Live,True,gb
 co-3d8cba66aa295f0b,Chapman Tate Associates,True,gb
+co-a0335ab62484a058,Charlton Recruitment,True,gb
 co-f89f6acb0b508f71,Chartered Insurance Institute,True,gb
 co-5f0dd499e2dc4d8a,Checkout.com,True,gb
 co-cae33acebebdff41,Chelsea FC,True,gb
@@ -2323,6 +2348,7 @@ co-57e251888e310d52,EMG Solicitors,True,gb
 co-c7f9b7f7c1ab2ad7,EQUANS SERVICES LIMITED,True,gb
 co-446efc54fb3808c3,ESP Utilities Group,True,gb
 co-d0c6fb848682f83e,ESP Utilities Group Ltd,True,gb
+co-995fbdf38789c1a6,EUROPEAN SOFTWARE SOLUTIONS LIMITED,True,gb
 co-893aaaf8b99275a8,EXL,True,gb
 co-b397ab627459b3d6,EY UK,True,gb
 co-088301d0c74dfb48,Eaglecliff Limited,True,gb
@@ -2524,6 +2550,7 @@ co-4228cea649b4e937,HGF,True,gb
 co-8310bc8c6b84dfc8,HH Global,True,gb
 co-6c73eca00273cbbd,HOOPLE LTD,True,gb
 co-42fdf7d85798354e,HP,True,gb
+co-cdb31356b43dafe5,HPC Jobs Service,True,gb
 co-0135b598e2a85d34,HR GO Recruitment,True,gb
 co-eb9b1b11c00da388,HR Path Talent,True,gb
 co-d2d6b9e066964710,HSBC,True,gb
@@ -2664,6 +2691,7 @@ co-e16b2a23592471ab,Invesco,True,gb
 co-626d465eed59556b,Investigo,True,gb
 co-4cae35e516073ef0,Investment Real Estate,True,gb
 co-40d62c51a08b3c41,Invitise Ltd,True,gb
+co-bfa919ecb23176f2,Invoicedrop Ltd.,True,gb
 co-077e8d2d10bfca42,Ipsos,True,gb
 co-a39c6a5dd8a56885,Iris Software,True,gb
 co-2912300473b6f094,IronMountain Solutions,True,gb
@@ -2739,6 +2767,7 @@ co-09e8526af64720f0,LGT Capital Partners,True,gb
 co-f7cfc390f1cacbe2,LIVERPOOL CITY REGION COMBINED AUTHORITY,True,gb
 co-107025856400873e,LJ Recruitment,True,gb
 co-82ad1bb00c995bbd,LPUK LeasePlan UK,True,gb
+co-c434601610d8f878,LSEC,True,gb
 co-9e21220f444e83ba,LTM,True,gb
 co-7b3e2a80430694b8,La Fosse Associates,True,gb
 co-39801003e6b03fac,Labcorp,True,gb
@@ -2781,6 +2810,7 @@ co-98382ea904475293,LiveRamp,True,gb
 co-0e486146bbce9c74,Lloyds Bank,True,gb
 co-f1fc7dc070d563d4,Lloyd’s,True,gb
 co-0b4b8eac519bbd9e,Lockheed Martin,True,gb
+co-7fc0b94f40fa9f22,Lockton,True,gb
 co-fb62b86bfe91227c,London Borough of Bexley,True,gb
 co-214571212bc44b40,London Borough of Ealing,True,gb
 co-8030f26ac1b84d42,London Borough of Richmond upon Thames and London Borough of Wandsworth,True,gb
@@ -2843,6 +2873,7 @@ co-2b5ecb8bbb424d80,Manchester City Council,True,gb
 co-92843753dfe7ba0f,Manchester City FC,True,gb
 co-3a5227c1a19eae27,MandM Direct,True,gb
 co-a83f408318b1f7fa,Mane Contract Services,True,gb
+co-160427aac2570928,Manpower,True,gb
 co-911c98989e6b419b,Manpower 2Sisters,True,gb
 co-b7a51cda72a7bccf,Manpower UK,True,gb
 co-e772cc8dc89a393a,Manpower UK - RISE,True,gb
@@ -2958,6 +2989,7 @@ co-85716c09d6d31318,Netcompany,True,gb
 co-46d8ab7b942dfb69,Network IT,True,gb
 co-2408866e3bfaa13f,Network Plus,True,gb
 co-b5259ba4879dd24e,Network1,True,gb
+co-0eb676520bc6b401,Newcastle Building Society,True,gb
 co-18c37faee2d92206,Newcastle United FC,True,gb
 co-f26601cfc486982e,Newlon Housing Trust,True,gb
 co-94116876fe93199a,News UK,True,gb
@@ -3021,6 +3053,7 @@ co-ad25a44dc6001ddd,Opus People Solutions,True,gb
 co-1a083e1483bbd990,Opus Recruitment Solutions,True,gb
 co-6634bc0680c4d68e,Opus Recruitment Solutions Ltd,True,gb
 co-15ba4a3dfe3915a5,Orbis Investments,True,gb
+co-e17a2e4b7245ad96,Orchard,True,gb
 co-f57301bcd18bd73c,Orchard Recruitment Ltd,True,gb
 co-85b9d42bfe8a5c29,Orchard Therapeutics,True,gb
 co-cde2e4b78792d9a0,Orion Group,True,gb
@@ -3138,6 +3171,7 @@ co-ac133dbcf61974c2,QA,True,gb
 co-7caf58efcfa09327,QA Apprenticeships,True,gb
 co-d80f4cbc39d0705e,Qontigo,True,gb
 co-3dbc8107d2f85009,Quanteam,True,gb
+co-fa1e923f6e887f5a,Quantiphi,True,gb
 co-17515fc4c71e7886,Quantum,True,gb
 co-e8252858de989227,QuantumLoopAi,True,gb
 co-fc183b4ab5d43923,Quest Search and Selection Ltd,True,gb
@@ -3179,6 +3213,7 @@ co-1ec2c6200109736f,RedTech Recruitment Ltd.,True,gb
 co-c9efc641d6e894af,Redmayne Bentley,True,gb
 co-71736ce4a2f3e78b,ReeVR,True,gb
 co-1de3c31e5d0585c4,Reed,True,gb
+co-6e64ff10543b8a3a,Reed Talent Solutions,True,gb
 co-2ee7b3dff4f18428,Reed Technology,True,gb
 co-8927668da056a07e,Reevr Talent Ltd,True,gb
 co-24c602a9ccd61cbe,Regal Brooke Limited,True,gb
@@ -3219,6 +3254,7 @@ co-42c83342fc946243,Rotork,True,gb
 co-514a07b4ca8e7973,Royal Ballet & Opera,True,gb
 co-262e7c6463169de0,Royal Bank of Canada,True,gb
 co-3dd63086192072c9,Royal British Legion,True,gb
+co-ad36a9c13965f306,Royal College of General Practitioners,True,gb
 co-62f2a030c79732de,Royal Institution of Chartered Surveyors,True,gb
 co-0f98c33a99986418,Royal London Group,True,gb
 co-a36e0277f84a5948,Royal United Hospitals Bath NHS Foundation Trust,True,gb
@@ -3391,6 +3427,7 @@ co-f8d17b711f353bc4,TELUS Digital,True,gb
 co-eb8338ac808a5cbf,THG,True,gb
 co-a76f4a8fa8d572c6,TJX,True,gb
 co-89883c36f944c12d,TLN Worldwide Enterprises,True,gb
+co-96e84e07b07549a3,TLT LLP,True,gb
 co-d2c35e33c212bfd2,TP ICAP,True,gb
 co-86b2d81bbc23843b,TP ICAP Group Services Ltd,True,gb
 co-c67541006d00135a,TPT Retirement Solutions,True,gb
@@ -3441,6 +3478,7 @@ co-ead27ea61f7867fa,The Belfry,True,gb
 co-19b52ccc884ca353,The Belfry Hotel & Resort,True,gb
 co-f3170c2e64b5bc98,The BigLife Group,True,gb
 co-662133c4b7fe1e39,The Boeing Company,True,gb
+co-e9fe830abd966861,The British Museum,True,gb
 co-1a4f76cf555958a3,The Entertainer,True,gb
 co-7f2909e309b3906f,The Fuel Group Limited,True,gb
 co-254402653cfecb9a,The GoodPeople Business Limited,True,gb
@@ -3549,6 +3587,7 @@ co-8bb94e5e76f10b75,Venn Group,True,gb
 co-d48d9de45c241292,Venquis,True,gb
 co-7266162d39252421,Veolia,True,gb
 co-886718be064c43b7,Verisk,True,gb
+co-a951fc119357199e,Verisk Analytics,True,gb
 co-85ae87eb34c40c31,Verista,True,gb
 co-076c5cab49393c97,Verisure,True,gb
 co-61be0ef28dbfbfac,Vermelo,True,gb
@@ -3624,12 +3663,14 @@ co-e6c45cc3f490568a,Yolk Recruitment Limited,True,gb
 co-752faaca504fee98,Yolk Recruitment Ltd,True,gb
 co-d587d9d2c340479b,Yorkshire Water,True,gb
 co-abf53709338b5e7e,Your Housing Group,True,gb
+co-3a9a2cbbf68b66ef,Yunex Limited,True,gb
 co-4fc49b289380ab61,ZIGUP,True,gb
 co-9a1f385cb8d0434f,Zachary Daniels,True,gb
 co-c3abba55f47f9a36,Zachary Daniels Recruitment,True,gb
 co-6473c312fdd898a0,Zebra Technologies,True,gb
 co-c1e1f95c292dfee0,Zensar Technologies,True,gb
 co-ee8b2d11bc295559,Zepz,True,gb
+co-6b3a326bb2dd8d7e,Zero Surplus,True,gb
 co-63832b99a7af2654,Zero100,True,gb
 co-d119520a3bb772a7,Zilch,True,gb
 co-6ea1267e412f45bf,Zippd,True,gb

@@ -96,7 +96,7 @@ loc-2d7e33b75063da67,"Rümlang, Dielsdorf",Rümlang,Kanton Zürich,47.436477,8.5
 loc-d46afe8ed980f914,"Wallisellen, Bülach",Wallisellen,Kanton Zürich,47.404664,8.602117,ch
 loc-c93426854cf1be59,Winterthur,Winterthur,Kanton Zürich,47.501258,8.72733,ch
 loc-e8d9a634fda7b555,"Zollikon, Meilen",Zollikon,Kanton Zürich,47.366618,8.562382,ch
-loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.372219,8.541973,ch
+loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.374173,8.523767,ch
 loc-e81b5fe7ffa508f6,Schweiz,,,46.206338,6.146335,ch
 loc-8461d0fe7c546bcf,"Achalm, Reutlingen",Achalm,Baden-Württemberg,48.49388,9.24135,de
 loc-e24b48442e2958c4,"Altstadt, Heidelberg",Altstadt,Baden-Württemberg,49.3936,8.73075,de
@@ -489,6 +489,7 @@ loc-0a2251a501327cfd,"St. Ingbert, Saarpfalz-Kreis",St. Ingbert,Saarland,49.2800
 loc-90042766d265c6ee,"Adelsdorf, Meißen (Kreis)",Adelsdorf,Sachsen,51.3194,13.58212,de
 loc-93b31573c9e4b957,"Blasewitz, Dresden",Blasewitz,Sachsen,51.05378,13.79241,de
 loc-11b430cbcff849a0,"Burg, Bautzen (Kreis)",Burg,Sachsen,51.46144,14.34451,de
+loc-e437b4e03773f2b8,"Chemnitz, Chemnitz (Kreis)",Chemnitz,Sachsen,50.820897,12.918472,de
 loc-91672b475b17dd0a,"Dresden, Sachsen",Dresden,Sachsen,51.052725,13.756452,de
 loc-1757a69c66a75093,"Dresdener Heide, Dresden",Dresdener Heide,Sachsen,51.09459,13.84187,de
 loc-f19a864a31397245,"Freiberg, Mittelsachsen (Kreis)",Freiberg,Sachsen,50.91404,13.33722,de
@@ -554,6 +555,7 @@ loc-edf30a7a3e4fb2a3,Toledo,Toledo,Castilla-La Mancha,39.858391,-4.020092,es
 loc-0b5cd32dce731858,"Badalona, Barcelona",Badalona,Cataluña,41.452356,2.249983,es
 loc-56e233a126865a5e,"Barcelona, Cataluña",Barcelona,Cataluña,41.3851,2.1734,es
 loc-d6d0e8b002f20352,Barcelona,Barcelona,Cataluña,41.380002,2.168131,es
+loc-6de5388671f142e0,"Bellprat, Barcelona",Bellprat,Cataluña,41.517058,1.433503,es
 loc-e4f50426388e403d,"Cataluña, España",Cataluña,Cataluña,41.5912,1.5209,es
 loc-52e8bbeca519a015,"Cerdanyola del Vallès, Barcelona",Cerdanyola del Vallès,Cataluña,41.490042,2.139675,es
 loc-8d6f774e7c81e47b,"Cornellà de Llobregat, Barcelona",Cornellà de Llobregat,Cataluña,41.352924,2.084305,es
@@ -595,6 +597,7 @@ loc-07f35b8f20dc4205,"Pozuelo de Alarcón, Madrid",Pozuelo de Alarcón,Comunidad
 loc-33ba66a194e54e26,"Torrelodones, Madrid",Torrelodones,Comunidad de Madrid,40.531685,-3.925464,es
 loc-c7bc91c9cae61ee7,"Tres Cantos, Madrid",Tres Cantos,Comunidad de Madrid,40.553848,-3.709473,es
 loc-1e6d95675128a85f,"Velilla de San Antonio, Madrid",Velilla de San Antonio,Comunidad de Madrid,40.341704,-3.503575,es
+loc-8f0b2f73503d1065,Cáceres,Cáceres,Extremadura,39.473168,-6.371211,es
 loc-8b00ec4522496185,"Majadas, Cáceres",Majadas,Extremadura,39.990693,-5.714893,es
 loc-d24f085ad78e8dda,"Zafra, Badajoz",Zafra,Extremadura,38.426179,-6.419306,es
 loc-977b0055becf37cb,A Coruña,A Coruña,Galicia,43.380758,-8.402597,es
@@ -681,6 +684,7 @@ loc-4b87a4ef9bc213c6,"Bucklesham, Ipswich",Bucklesham,Eastern England,52.019322,
 loc-12b4ce19fba32075,"Cambridge, Cambridgeshire",Cambridge,Eastern England,52.202499,0.131237,gb
 loc-b0a37645c825f824,"Cambridgeshire, Eastern England",Cambridgeshire,Eastern England,52.350674,0.007257,gb
 loc-a51c5369e74f78ea,"Chadwell Heath, Romford",Chadwell Heath,Eastern England,51.559852,0.122589,gb
+loc-8a0616b3bee2f1bb,"Chatteris, Cambridgeshire",Chatteris,Eastern England,52.454498,0.050011,gb
 loc-33a8c14bc3ef45bf,"Chelmsford, Essex",Chelmsford,Eastern England,51.735802,0.469708,gb
 loc-e456893569e1ba2c,"Cherry Hinton, Cambridge",Cherry Hinton,Eastern England,52.185213,0.188175,gb
 loc-e445c998bb900de9,"Chesterton, Cambridge",Chesterton,Eastern England,52.204697,0.122863,gb
@@ -728,6 +732,7 @@ loc-2d78d5fc7c097c8c,"Pimlico, Hemel Hempstead",Pimlico,Eastern England,51.75559
 loc-6839363a71bc0d9e,"Porters Wood, St. Albans",Porters Wood,Eastern England,51.752186,-0.342542,gb
 loc-c662d2585e44b2c5,"Postwick, Norwich",Postwick,Eastern England,52.6199,1.39065,gb
 loc-897abc3161bc18a8,"Purdis Farm, Ipswich",Purdis Farm,Eastern England,52.025461,1.227122,gb
+loc-6401a75e512d7d2a,"Ransomes Europark, Ipswich",Ransomes Europark,Eastern England,52.026455,1.213809,gb
 loc-5b8f1dfc5310ee7a,"Rayleigh, Essex",Rayleigh,Eastern England,51.585999,0.605291,gb
 loc-e984924d23250bcf,"Royston, Hertfordshire",Royston,Eastern England,52.048199,-0.024057,gb
 loc-93ce36b41ed6c8e9,"Severalls Industrial Park, Colchester",Severalls Industrial Park,Eastern England,51.923696,0.921452,gb
@@ -799,7 +804,7 @@ loc-7329e906f3dfdd8c,"Farringdon, Central London",Farringdon,London,51.52024,-0.
 loc-bb857bf796c9fd51,"Fenchurch St, Central London",Fenchurch St,London,51.513144,-0.08261,gb
 loc-382784d103e60a14,"Finsbury, Central London",Finsbury,London,51.531512,-0.103407,gb
 loc-eba1f547ae037f18,"Finsbury Park, North London",Finsbury Park,London,51.565102,-0.097628,gb
-loc-9a57365a8f95e222,"Fitzrovia, West London",Fitzrovia,London,51.523991,-0.141402,gb
+loc-9a57365a8f95e222,"Fitzrovia, West London",Fitzrovia,London,51.524389,-0.142121,gb
 loc-7683e7b678c3d672,"Fleet Street, Central London",Fleet Street,London,51.518494,-0.111962,gb
 loc-992c71cd1fd5eccc,"Forest Hill, South East London",Forest Hill,London,51.44055,-0.053938,gb
 loc-3acaa73977cc90e8,"Friern Barnet, North London",Friern Barnet,London,51.615299,-0.145697,gb
@@ -855,6 +860,7 @@ loc-5ca07b75e0911779,"Southwark, South East London",Southwark,London,51.504829,-
 loc-0cb97658329bc401,"Spitalfields, East London",Spitalfields,London,51.52019,-0.077975,gb
 loc-eaf19fc3739a85db,"St Lukes, Central London",St Lukes,London,51.52727,-0.089124,gb
 loc-ca8ba0418cc5f90e,"St Paul's, Central London",St Paul's,London,51.514278,-0.093838,gb
+loc-11963168b64933cc,"St. Mary Cray, Orpington",St. Mary Cray,London,51.375941,0.101985,gb
 loc-0aa552e774d346a7,"Stepney, East London",Stepney,London,51.514213,-0.050367,gb
 loc-8d41d81b5f7da722,"Stoke Newington, North London",Stoke Newington,London,51.560101,-0.073739,gb
 loc-cd66864d3f49c8b0,"Strand, Central London",Strand,London,51.510706,-0.121464,gb
@@ -863,6 +869,7 @@ loc-afeb4942b9d369f4,"Stroud Green, North London",Stroud Green,London,51.570918,
 loc-3d5bdbab62f9aab4,"Surbiton, London",Surbiton,London,51.3923,-0.303,gb
 loc-fc8da9597428149f,"Teddington, South West London",Teddington,London,51.426934,-0.330171,gb
 loc-ada7de66e1b34917,"The City, Central London",The City,London,51.511751,-0.089831,gb
+loc-98ae08bbcf80723d,"Theatreland, Central London",Theatreland,London,51.512769,-0.129536,gb
 loc-17f87593da093542,"Tower Bridge, East London",Tower Bridge,London,51.504176,-0.079744,gb
 loc-fe4235e43bdaf23a,"Tufnell Park, North London",Tufnell Park,London,51.550158,-0.134551,gb
 loc-9b677fe62d26e2d1,"Uxbridge, London",Uxbridge,London,51.546398,-0.476722,gb
@@ -1220,6 +1227,7 @@ loc-3b760f227ed38de9,"Wotton, Dorking",Wotton,South East England,51.216702,-0.38
 loc-fc327361e3cd85da,"Wraysbury, Staines",Wraysbury,South East England,51.432883,-0.524902,gb
 loc-64f8b166f1fb14da,"Wytham, Oxford",Wytham,South East England,51.78214,-1.325384,gb
 loc-aea6b503b9307404,"Arlingham, Gloucester",Arlingham,South West England,51.792799,-2.412156,gb
+loc-e45afffad5d87bd7,"Barcelona, Looe",Barcelona,South West England,50.354698,-4.50336,gb
 loc-863f81a819c745a7,"Barnwood, Gloucester",Barnwood,South West England,51.863499,-2.2019,gb
 loc-74ff497e23a7e143,"Bath, Bath & N E Somerset",Bath,South West England,51.3811,-2.35862,gb
 loc-f0da456bec2caa40,"Bolham, Tiverton",Bolham,South West England,50.922329,-3.491804,gb
@@ -1279,7 +1287,7 @@ loc-1405b85e5b95eca1,"Shaw, Swindon",Shaw,South West England,51.572273,-1.83676,
 loc-339ff186b8edfc8d,"Snowhill, Walcot",Snowhill,South West England,51.382101,-2.360803,gb
 loc-dd04dfa84610e6a3,"South Marston, Swindon",South Marston,South West England,51.595452,-1.73327,gb
 loc-35b3031fd0404221,"South West England, UK",South West England,South West England,50.950482,-3.230444,gb
-loc-8ff57ce3336221c0,"St. Augustines, Bristol",St. Augustines,South West England,51.455182,-2.597022,gb
+loc-8ff57ce3336221c0,"St. Augustines, Bristol",St. Augustines,South West England,51.453793,-2.599494,gb
 loc-fb872b5313e7ef7b,"Stanley, Chippenham",Stanley,South West England,51.448252,-2.060621,gb
 loc-222da67e43c86168,"Stapleton, Bristol",Stapleton,South West England,51.500211,-2.547491,gb
 loc-98077dcd1b6fa0f7,"Staverton Technology Park, Staverton",Staverton Technology Park,South West England,51.897497,-2.170934,gb
@@ -1362,7 +1370,7 @@ loc-2cbc307c528aef4a,"Herefordshire, West Midlands",Herefordshire,West Midlands,
 loc-edb57b2e4b5954f5,"Hildersley, Ross-On-Wye",Hildersley,West Midlands,51.911422,-2.572701,gb
 loc-512669f21870f24e,"Hyde Lea, Stafford",Hyde Lea,West Midlands,52.806101,-2.115545,gb
 loc-5069f1608ba05214,"Kingfisher Shopping Centre, Redditch",Kingfisher Shopping Centre,West Midlands,52.30886,-1.940685,gb
-loc-10fbc1318f91b6da,"Ladywood, Birmingham",Ladywood,West Midlands,52.475912,-1.90922,gb
+loc-10fbc1318f91b6da,"Ladywood, Birmingham",Ladywood,West Midlands,52.477998,-1.90929,gb
 loc-c0d9c58817a4b589,"Leamington Spa, Warwickshire",Leamington Spa,West Midlands,52.292,-1.53579,gb
 loc-45fddd006796cdcf,"Lichfield, Staffordshire",Lichfield,West Midlands,52.683601,-1.82236,gb
 loc-2c5780f3e8aa4afc,"Lillington, Leamington Spa",Lillington,West Midlands,52.289377,-1.534957,gb
