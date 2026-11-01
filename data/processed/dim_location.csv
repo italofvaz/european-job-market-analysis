@@ -79,6 +79,7 @@ loc-06c938489abe6d89,"Savièse, Sitten",Savièse,Kanton Wallis,46.249818,7.36519
 loc-bc944feada8b6e77,"Baar, Zug",Baar,Kanton Zug,47.193411,8.523067,ch
 loc-fe1a59bb55c8391c,"Cham, Zug",Cham,Kanton Zug,47.181327,8.459319,ch
 loc-cfaed565def88f6e,"Risch, Zug",Risch,Kanton Zug,47.141818,8.452936,ch
+loc-b230ad3361975da4,"Steinhausen, Zug",Steinhausen,Kanton Zug,47.197018,8.485297,ch
 loc-05a3afbe2f269e08,Zug,Zug,Kanton Zug,47.166192,8.515414,ch
 loc-86011d11b6971f2f,"Adliswil, Horgen",Adliswil,Kanton Zürich,47.331074,8.515229,ch
 loc-2b2aeb03b1a2cd76,Bülach,Bülach,Kanton Zürich,47.519168,8.540431,ch
@@ -198,6 +199,7 @@ loc-9d342191151da95b,"Donauwörth, Donau-Ries (Kreis)",Donauwörth,Bayern,48.719
 loc-1899e34803471ec5,"Doos, Nürnberg",Doos,Bayern,49.46381,11.01935,de
 loc-dbdc5f1bfb5eb4c0,"Eibach, Nürnberg",Eibach,Bayern,49.40105,11.03969,de
 loc-0a00ece421815134,"Erlangen, Bayern",Erlangen,Bayern,49.577521,10.984506,de
+loc-9fa84078217692f2,"Feldmoching-Hasenbergl, München",Feldmoching-Hasenbergl,Bayern,48.21326,11.55643,de
 loc-5e722ef30077ec3a,"Frauenland, Würzburg",Frauenland,Bayern,49.78442,9.93882,de
 loc-3acbb761c84e763b,"Fürth (Kreis), Bayern",Fürth (Kreis),Bayern,49.470563,10.8701,de
 loc-7ae6f34866f0b631,"Galgenhof, Nürnberg",Galgenhof,Bayern,49.44312,11.08526,de
@@ -205,6 +207,7 @@ loc-39e7f4456d3ccb40,"Garching bei München, München (Kreis)",Garching bei Mün
 loc-86b0e780915ee8e7,"Gemeinde Neubiberg, München",Gemeinde Neubiberg,Bayern,48.07708,11.6627,de
 loc-d281a6e7e019fe90,"Gersthofen, Augsburg (Kreis)",Gersthofen,Bayern,48.42121,10.879,de
 loc-15d38ef70eaea5a6,"Gilching, Starnberg (Kreis)",Gilching,Bayern,48.11148,11.29639,de
+loc-ef890e183fc19e14,"Gleißbühl, Nürnberg",Gleißbühl,Bayern,49.44932,11.08475,de
 loc-041392de040e6b9b,"Großhesselohe, München (Kreis)",Großhesselohe,Bayern,48.06767,11.53266,de
 loc-5d169522ef44da80,"Gräfelfing, München (Kreis)",Gräfelfing,Bayern,48.12005,11.42721,de
 loc-c6bba5b93368e592,"Grünwald, München (Kreis)",Grünwald,Bayern,48.03972,11.52226,de
@@ -214,6 +217,7 @@ loc-263517db50c8437c,"Hallbergmoos, Freising (Kreis)",Hallbergmoos,Bayern,48.327
 loc-0cc76419a76cad4e,"Herrenbach, Augsburg",Herrenbach,Bayern,48.35925,10.92984,de
 loc-a03dc88e72f89d29,"Herrieden, Ansbach (Kreis)",Herrieden,Bayern,49.23292,10.49732,de
 loc-cd11e1ec089e01fe,"Höchstadt an der Aisch, Erlangen-Höchstadt (Kreis)",Höchstadt an der Aisch,Bayern,49.71409,10.89585,de
+loc-c2c595977053fd89,"Immenstadt im Allgäu, Oberallgäu (Kreis)",Immenstadt im Allgäu,Bayern,47.55998,10.21755,de
 loc-6898687a5719648e,"Innenstadt, Augsburg",Innenstadt,Bayern,48.36463,10.89168,de
 loc-4403b16c58f2d6aa,"Ismaning, München (Kreis)",Ismaning,Bayern,48.22731,11.67625,de
 loc-4ce8f69a5f9d8379,"Kammerstein, Roth (Kreis)",Kammerstein,Bayern,49.29291,10.97339,de
@@ -683,6 +687,7 @@ loc-cf146eed0ba328eb,"Witham Town, Boston",Witham Town,East Midlands,52.97942,-0
 loc-e8dc2d75ed21021a,"Wollaston, Wellingborough",Wollaston,East Midlands,52.257009,-0.664315,gb
 loc-ab5c70cddbda794d,"Woodthorpe, Loughborough",Woodthorpe,East Midlands,52.767408,-1.216891,gb
 loc-a774cefd8a0d233f,"Woolley Bridge, Glossop",Woolley Bridge,East Midlands,53.460688,-1.986391,gb
+loc-75605b9f63323385,"Badgers Dene, Grays",Badgers Dene,Eastern England,51.475675,0.324784,gb
 loc-5361bf63322cc960,"Barking, Essex",Barking,Eastern England,51.536301,0.081478,gb
 loc-4226a1fdd444d7fa,"Barnet, Hertfordshire",Barnet,Eastern England,51.652901,-0.199606,gb
 loc-807de483da185e12,"Barway, Ely",Barway,Eastern England,52.354427,0.283917,gb
@@ -829,7 +834,7 @@ loc-32a548ec4a789e0d,"Hammersmith, West London",Hammersmith,London,51.492676,-0.
 loc-28b1ba7ac20c5f72,"Hayes, London",Hayes,London,51.512699,-0.4211,gb
 loc-b11c9362aaa12493,"Heathrow, Hounslow",Heathrow,London,,,gb
 loc-9c0c0ffc74c68e04,"Higham Hill, East London",Higham Hill,London,51.581373,-0.012521,gb
-loc-64ffc006570339f9,"Hillingdon, Uxbridge",Hillingdon,London,51.549229,-0.451584,gb
+loc-64ffc006570339f9,"Hillingdon, Uxbridge",Hillingdon,London,51.510588,-0.445787,gb
 loc-1b0817519226c6dc,"Holborn, Central London",Holborn,London,51.517238,-0.120561,gb
 loc-b9759cc8b44112e8,"Hounslow, London",Hounslow,London,51.467602,-0.361799,gb
 loc-852931cc3884b8ec,"Hyde Park, West London",Hyde Park,London,51.516979,-0.156331,gb
@@ -891,7 +896,7 @@ loc-9b677fe62d26e2d1,"Uxbridge, London",Uxbridge,London,51.546398,-0.476722,gb
 loc-462e2f8820e1782b,"Victoria, South West London",Victoria,London,51.495899,-0.144582,gb
 loc-bff5b1d1e1145fb3,"Walthamstow, East London",Walthamstow,London,51.59112,-0.0215,gb
 loc-6956c170f3f8a88e,"Walworth, South East London",Walworth,London,51.484662,-0.097948,gb
-loc-207e98b1def0abbf,"Wandsworth, South West London",Wandsworth,London,51.451801,-0.192757,gb
+loc-207e98b1def0abbf,"Wandsworth, South West London",Wandsworth,London,51.447298,-0.191721,gb
 loc-3f6d5adf6e14fe6d,"Waterloo, South East London",Waterloo,London,51.500927,-0.10887,gb
 loc-efcecce8a2c9a3e9,"Wembley, North West London",Wembley,London,51.551998,-0.298982,gb
 loc-52296c6134aa8e59,"West End, West London",West End,London,51.512739,-0.149757,gb
