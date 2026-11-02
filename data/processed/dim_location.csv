@@ -545,6 +545,7 @@ loc-1a10081bcf3c93b9,"Jena, Thüringen",Jena,Thüringen,50.923007,11.589469,de
 loc-7800a19c88c86725,Deutschland,,,50.940164,6.969972,de
 loc-10a722bf767af7f7,"Alhaurín de la Torre, Málaga",Alhaurín de la Torre,Andalucía,36.726772,-4.540769,es
 loc-a397178079adeffe,Almería,Almería,Andalucía,36.839701,-2.463663,es
+loc-d1070d59b7b20944,"Almería, Andalucía",Almería,Andalucía,36.834,-2.4637,es
 loc-1bc2ff917782683d,Córdoba,Córdoba,Andalucía,37.889667,-4.77637,es
 loc-41fde1737f1f105d,Granada,Granada,Andalucía,37.181518,-3.60377,es
 loc-a5e42f4c2648bf3f,"Jaén, Andalucía",Jaén,Andalucía,37.7796,-3.7849,es
@@ -699,6 +700,7 @@ loc-4b87a4ef9bc213c6,"Bucklesham, Ipswich",Bucklesham,Eastern England,52.019322,
 loc-466f1c11aa5ba88b,"Bucks Hill, Kings Langley",Bucks Hill,Eastern England,51.709289,-0.457098,gb
 loc-12b4ce19fba32075,"Cambridge, Cambridgeshire",Cambridge,Eastern England,52.202499,0.131237,gb
 loc-b0a37645c825f824,"Cambridgeshire, Eastern England",Cambridgeshire,Eastern England,52.350674,0.007257,gb
+loc-f2ce185d2c6fefb8,"Campsea Ashe, Woodbridge",Campsea Ashe,Eastern England,52.15206,1.393972,gb
 loc-a51c5369e74f78ea,"Chadwell Heath, Romford",Chadwell Heath,Eastern England,51.559852,0.122589,gb
 loc-8a0616b3bee2f1bb,"Chatteris, Cambridgeshire",Chatteris,Eastern England,52.454498,0.050011,gb
 loc-33a8c14bc3ef45bf,"Chelmsford, Essex",Chelmsford,Eastern England,51.735802,0.469708,gb
@@ -722,6 +724,7 @@ loc-e566e7c6e6e60eec,"Harlow, Essex",Harlow,Eastern England,51.776501,0.111317,g
 loc-9c29ac3f5cefd128,"Harpenden, Hertfordshire",Harpenden,Eastern England,51.819053,-0.352959,gb
 loc-2cf7ca9686c30493,"Hatfield, Hertfordshire",Hatfield,Eastern England,51.762699,-0.224709,gb
 loc-e670d92c5517277c,"Havering-Atte-Bower, Romford",Havering-Atte-Bower,Eastern England,51.618967,0.182076,gb
+loc-83c2d372621c3f0d,"Hellesdon, Norwich",Hellesdon,Eastern England,52.659529,1.250872,gb
 loc-d8c4caec9e9a04f4,"Hemel Hempstead, Hertfordshire",Hemel Hempstead,Eastern England,51.7537,-0.474902,gb
 loc-d0b5964d18b3c1ae,"Hertford, Hertfordshire",Hertford,Eastern England,51.796001,-0.078882,gb
 loc-cfeb06c404c95adb,"Histon, Cambridge",Histon,Eastern England,52.245209,0.105577,gb
@@ -742,6 +745,7 @@ loc-ec53acd9e4a85bbe,"Nazeing, Waltham Abbey",Nazeing,Eastern England,51.749527,
 loc-d3470e850b00cf1f,"Nine Ashes, Ingatestone",Nine Ashes,Eastern England,51.689162,0.30449,gb
 loc-4c8f1f57f8faa5fd,"Norwich, Norfolk",Norwich,Eastern England,52.628101,1.29935,gb
 loc-80db972548a62087,"Occold, Eye",Occold,Eastern England,52.281051,1.170434,gb
+loc-1bb792082fc0f835,"Old Catton, Norwich",Old Catton,Eastern England,52.672306,1.291679,gb
 loc-edab16cc9a00ec2b,"Orton Northgate, Peterborough",Orton Northgate,Eastern England,52.551399,-0.319288,gb
 loc-7d5446915c27ce09,"Pakefield, Lowestoft",Pakefield,Eastern England,52.475537,1.754604,gb
 loc-94cd19cfed282ba8,"Pampisford, Cambridge",Pampisford,Eastern England,52.108734,0.18937,gb
