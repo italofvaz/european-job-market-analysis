@@ -230,6 +230,7 @@ co-3b63c54bedaf5e5c,ewb Energie Wasser Bern,True,ch
 co-38ddb6139043dac9,finnova AG Bankware,True,ch
 co-45b4b6c016205c4b,iCapital,True,ch
 co-1be25c6b02903f26,ilem Group,True,ch
+co-70876d1c39c8cc2d,la Mobilière,True,ch
 co-e762951aa54b99f8,lastminute.com,True,ch
 co-ef8d1147299ad7c3,mesoneer AG,True,ch
 co-1fb6fdc0f7fffec9,mobilezone ag,True,ch
@@ -634,6 +635,7 @@ co-fa1e2d3555cf0078,ITT Cannon GmbH,True,de
 co-f956c2e0e8ed481d,ITT Inc.,True,de
 co-8cf9fd3289b78ce8,Ibis Deutschland,True,de
 co-8e5cdd3246bffb0f,Ibykus,True,de
+co-9ac9021699f58b65,Ideenkraftwerk GmbH,True,de
 co-6a73b8fd1aab5252,ImoGate,True,de
 co-6caf666fdaf0eb8c,Infinity Quest UK,True,de
 co-26139c8e304fc285,Infront,True,de
@@ -695,6 +697,7 @@ co-ab2a012d3d31df5c,LM IT,True,de
 co-ecd2f58e88f6c098,LM IT Services AG,True,de
 co-8ef523e328aec53e,LNG-Terminal Brunsbüttel,True,de
 co-b7a1f32dcdc86ad1,LOTTO Schleswig-Holstein & Co. KG,True,de
+co-cbcd91d86f7e9049,LOTTO Schleswig-Holstein GmbH & Co. KG,True,de
 co-7143a6037b6b145d,LSI - Germany GmbH,True,de
 co-51a06c2114bb89fb,LYNX Berlin,True,de
 co-0a48ddc9afa2c7f3,Landesbank Baden-Württemberg,True,de
@@ -717,9 +720,9 @@ co-9f4f9d694e919e62,Lightspeed Commerce,True,de
 co-87013b8ca9fddf41,Linde,True,de
 co-b54aa8569f646fda,LiveEO GmbH,True,de
 co-dea0191df34f854e,LogPay Financial Services GmbH,True,de
-co-cbcd91d86f7e9049,Lotto Schleswig-Holstein GmbH & Co. KG,True,de
 co-a4d683a9a241e301,Lovehoney Group,True,de
 co-836e8f88ec04e8b2,Lowell,True,de
+co-40bf3788566bafd6,Lowell Group,True,de
 co-452538e839b835c8,Lucanet Group,True,de
 co-4b48f7abb599de8e,Lufthansa Technik Logistik Services GmbH,True,de
 co-705a25911785b0f8,MANDARIN MEDIEN Gesellschaft für digitale Lösungen mbH,True,de
@@ -755,6 +758,7 @@ co-5b88a36597930665,Mauser Packaging Solutions,True,de
 co-01ea5abb61405dd3,Mecklenburgische Versicherungs-Gesellschaft a.G.,True,de
 co-b7315608148529b9,Melitta Group,True,de
 co-73737a6da2f49959,Melitta Gruppe,True,de
+co-8cb1e280085f85bb,Mendelson GmbH,True,de
 co-3d641c12af3d5c52,Mercedes-Benz AG,True,de
 co-d2b7f7551dc823fd,Mercor,True,de
 co-eb8cf74c0d546473,Mercuri Urval GmbH,True,de
@@ -789,6 +793,7 @@ co-5816f187e811adaf,Nexperia,True,de
 co-d339978f4696d2b5,Nexperia Germany GmbH,True,de
 co-9f30f27e74b0a834,Nextwind Management GmbH,True,de
 co-ac6ecad77711a51f,Not disclosed,False,de
+co-3f50d323f66c7375,Novem Car Interior Design GmbH,True,de
 co-330c85601eb0aa56,ODW-ELEKTRIK GmbH,True,de
 co-df9f167e5437ac48,OG Recruitment S.à r.l.,True,de
 co-7e55d25b8718c050,OSCAR GmbH,True,de
@@ -853,7 +858,6 @@ co-34e007bb91da54a2,REWE digital,True,de
 co-c4abc169e81732bf,ROCKEN,True,de
 co-7ea8d4a4bd79c2d9,ROHM Semiconductor,True,de
 co-927707331bf1f931,ROOT,True,de
-co-b064d9124c2cff0b,ROSSMANN,True,de
 co-4d241d6e89f26ace,ROSTOCK PORT GMBH,True,de
 co-765ad345ddc2ce17,ROTHENBERGER Werkzeuge GmbH,True,de
 co-3887a9d0a1fcc607,RWE,True,de
@@ -878,6 +882,7 @@ co-54bd23d3971c4e81,Riverty,True,de
 co-bec3dcdaa4ec2581,Rochus Mummert,True,de
 co-32bc8d4556f992be,Rochus Mummert digital GmbH,True,de
 co-72b224e4e7fa4e13,Rolls-Royce,True,de
+co-b064d9124c2cff0b,Rossmann,True,de
 co-532678357ffaa41f,Rothenberger Gruppe,True,de
 co-f394566a9446f073,Rudolph Workforce GmbH,True,de
 co-101164b68cc6b198,S Rating und Risikosysteme GmbH,True,de
@@ -923,6 +928,7 @@ co-b82e4fa3923da3fd,Schwarz Corporate Solutions,True,de
 co-396c394d669c4561,Schwarz Digits,True,de
 co-da988e8ffc33347b,Schwarz Gruppe,True,de
 co-adf8e42f8df0a5e3,Schweizer Electronic AG,True,de
+co-4a9555edc6ea8aa2,Schäflein Holding SE,True,de
 co-a2ccd6f8c23172b4,Schüller Möbelwerk GmbH,True,de
 co-0faa060f07fc245d,Seier Gruppe,True,de
 co-cd3db65a3c8641a2,Seier Holding GmbH & Co. KG,True,de
@@ -1219,6 +1225,7 @@ co-0435f2d044d503cd,Air Liquide,True,es
 co-346fb714bace8358,AirDNA,True,es
 co-4b250d5067b47291,Airalo,True,es
 co-78d86edabce55d10,Airbus,True,es
+co-c43cdae1aeb49874,Airbus Defence And Space,True,es
 co-0962aef410e379ff,Airhelp,True,es
 co-d0df88194fc13e9d,Airservices,True,es
 co-c3adf60bc006255d,Akka Technologies,True,es
@@ -1230,6 +1237,7 @@ co-293443d8c43aef88,Alexion,True,es
 co-78dd1b97b6f01761,"Alexion Pharmaceuticals, Inc.",True,es
 co-3435460502fb3541,All European Careers,True,es
 co-5186f2379e5773c5,"All European Careers, S.L.",True,es
+co-c1c3270705225309,Alldus,True,es
 co-ac1295be07c4c110,Allfunds,True,es
 co-38872b200a3c780f,Alliance Specialist Supplies,True,es
 co-f07165c8fb78b1a2,Allianz,True,es
@@ -1263,6 +1271,7 @@ co-87fa0d92f1a5bb89,"Arthur D. Little, Inc.",True,es
 co-e3f656f5f3a962f1,Arxada,True,es
 co-d4d398774542990a,Astara,True,es
 co-d6985085db7cbe80,"Astara Intelligence, S.L",True,es
+co-6ad7b6322501cb37,Astek Group,True,es
 co-daddaba527a5d8bc,Astrazeneca,True,es
 co-e993bd49100d7e90,Atradius,True,es
 co-2be8bbe324e7404e,Aubay Spain,True,es
@@ -1411,7 +1420,9 @@ co-b404c045cc6a0b6b,"Excelia, SL",True,es
 co-788e01df13a2d143,Exogroup,True,es
 co-0900b97474c26477,Exoticca,True,es
 co-0d4e68aaef927374,Expereo,True,es
+co-9a9bcf06e8362ff6,Experience IT Solutions,True,es
 co-180cd5760ffc3879,Experimentation Jobs,True,es
+co-53748c1fa986b46f,Experis,True,es
 co-706b4afca50b8c53,Experis España,True,es
 co-53ebf87f7ceb6053,Expleo,True,es
 co-c29d0f4fbfb0d720,Extia Group,True,es
@@ -1449,6 +1460,7 @@ co-f491e7aba90c64bc,Getnet Platforms,True,es
 co-fb50a4ccb724dce5,Glovo,True,es
 co-d5ceb0673b11aa9a,Glovo Group,True,es
 co-5c5769a7c87c0d14,Good Recruiter,True,es
+co-2b3c6ef2fa5beabd,Goodrecruiter,True,es
 co-47709d43a22095ce,Gracia101 Talent Solutions,True,es
 co-89b50c3ba225b8e0,GreenYellow,True,es
 co-cd7106e91d759ec7,Greystar Management Services,True,es
@@ -1571,6 +1583,7 @@ co-04d4c95107eedd25,Livewell,True,es
 co-c54403327ba674ff,LocalStack,True,es
 co-dcdb1ddaed2973e2,Lodgify,True,es
 co-748d6b314d1130aa,Lokalise,True,es
+co-d806dacc89d5b455,M> Consulting,True,es
 co-ea2b169006d59de7,MIGx AG,True,es
 co-a6725349860c5241,Mango,True,es
 co-7e120a510c33216e,"ManyChat, Inc.",True,es
@@ -1654,8 +1667,10 @@ co-53feee77dbcead43,PRGX Global,True,es
 co-1c842ee77c5dcaae,PROMOTORA MEDITERRANEA-2 S.A.,True,es
 co-51b200a46f6a5643,Panel Sistemas Informaticos,True,es
 co-2483b5d866480329,Papernest,True,es
+co-73ea90e5c5623c1f,Pasiona Consulting,True,es
 co-e863bb20f7453421,Pasiona Consulting Sl,True,es
 co-78b22d4f7e290829,Payoneer,True,es
+co-8fe0f72f27353988,Pennylane,True,es
 co-a6216750e737f205,Pepe Jeans Group.,True,es
 co-c1a9a48924cbd184,PepsiCo Inc.,True,es
 co-796bcf04b06ca264,Perk,True,es
@@ -1684,6 +1699,7 @@ co-79a883cb3101511a,Quest Global,True,es
 co-64255261c98ba6f0,Quoviz Consulting,True,es
 co-6551ac70b7dc5705,RDT,True,es
 co-54f047a51d88f0c9,RED Global,True,es
+co-1533259652079c30,RJC Group,True,es
 co-6c21ab0cd3f66798,RM TRADE SAU,True,es
 co-a9ff2d9e95667e30,Randstad Digital España,True,es
 co-0d2e944aee673ef1,Randstad España,True,es
@@ -1850,6 +1866,7 @@ co-a74a846b17295539,Vila Viniteca,True,es
 co-7e7fb6960dc6aafd,Viseo,True,es
 co-e7871faecedff5b8,Visium,True,es
 co-1c5b982e7f9914d3,Visium Sa,True,es
+co-46fc3d0af06e3351,"Vitrolife & Igenomix Brasil, part of Vitrolife Group",True,es
 co-a433806dca1a23c4,Vodafone,True,es
 co-96723d10d7f4377c,Voodoo,True,es
 co-b0a9c81cb9ee6225,Vortech PCI Group S.L.,True,es
@@ -1884,7 +1901,6 @@ co-2fd299ec91a2319f,bluecrux,True,es
 co-972f0615aa9223fd,dentsu,True,es
 co-89507ebd502d7393,domestiko.com,True,es
 co-5823896a4fe56e82,eDreams ODIGEO,True,es
-co-9a9bcf06e8362ff6,eXperience IT Solutions,True,es
 co-0e17d2c0472013c2,embecta,True,es
 co-c68cdbfd32aa5c15,emineo,True,es
 co-48149e7b96927bfa,emineo.ch,True,es
@@ -2004,6 +2020,7 @@ co-57f59e9a3547c666,Anne Corder Recruitment,True,gb
 co-273f41ba777c8c94,Anson McCade,True,gb
 co-d5c9a1c5716f4c7f,Apex Group,True,gb
 co-6066bedb3ccfa6a3,Apple Recruitment,True,gb
+co-6c4f50280cbdf584,Aqilea,True,gb
 co-8faf02f2fac009e1,Aqovia,True,gb
 co-822c6f621b38f61a,Aquent,True,gb
 co-69b18ac83cfbf6bf,Aquent UK,True,gb
@@ -2443,6 +2460,7 @@ co-916a849cdbdb2f3e,Eden Brown Synergy,True,gb
 co-13b9a4179426d319,Eden James Consulting Limited,True,gb
 co-3cb8427d0134e3d1,Edenred,True,gb
 co-e0b95a098baccb79,Edinburgh Napier University,True,gb
+co-a8f49cb29a63996f,Elanco,True,gb
 co-de9cb96d95db0c8e,Elevate Recruitment Limited,True,gb
 co-1178e356059175d0,Elevate Recruitment.,True,gb
 co-6a57ed7669057c3c,Elevation Recruitment Group,True,gb
@@ -2776,6 +2794,7 @@ co-5c4b73913d786731,IntaPeople,True,gb
 co-695357afdde5549e,Intec Select Ltd,True,gb
 co-57f21d1318890a4d,Integrity Recruitment Solutions Limited,True,gb
 co-f5dd3c6aa7def336,Integrity Recruitment Solutions Ltd,True,gb
+co-6b1d2ce4eebfd716,Interaction Recruitment,True,gb
 co-f41ab5b2f15f21a5,Intercontinental Exchange,True,gb
 co-6fbb50b442fa27a4,Intertech Recruitment Ltd,True,gb
 co-e16b2a23592471ab,Invesco,True,gb
@@ -2837,6 +2856,7 @@ co-3b35d66beb2dcf23,Keolis Amey Docklands,True,gb
 co-50545b2ee1b43692,Kerv,True,gb
 co-d0fd53a673cd3600,Keyloop,True,gb
 co-3492cc1456d94cc4,Keystream Group Limited,True,gb
+co-681c31d716d496c6,Ki,True,gb
 co-3c09a27809f70ccc,Kia UK,True,gb
 co-d4dd16ea182300f3,Kier Group,True,gb
 co-9b6bfbb58fef15a8,Kingdom People,True,gb
@@ -2855,8 +2875,10 @@ co-8524a58f1e8dd6af,L R S,True,gb
 co-b7c5bd00c336a95c,L&Q,True,gb
 co-a331f5e63944b8bf,LA International Computer Consultants Ltd,True,gb
 co-261e9b7db5503f02,LEEDS CITY COUNCIL,True,gb
+co-6feec1111a7232a5,LGC Assure,True,gb
 co-7635a63d5bf36a62,LGC Group,True,gb
 co-09e8526af64720f0,LGT Capital Partners,True,gb
+co-b812a708e08bbd33,LH Partners,True,gb
 co-845d5cb0ed57a493,LHC,True,gb
 co-107025856400873e,LJ Recruitment,True,gb
 co-82ad1bb00c995bbd,LPUK LeasePlan UK,True,gb
@@ -2882,6 +2904,7 @@ co-bec06ac24a53212f,Lenacre Group Ltd,True,gb
 co-73f306c9b0270898,Lendable,True,gb
 co-a243043d8d912e90,Leonardo,True,gb
 co-6a8d82a060d71d68,Leonardo SpA,True,gb
+co-54c01af105891ef1,Les Mieux,True,gb
 co-3bed084beec0a9c2,Levick Stanley,True,gb
 co-0831fd324eff264d,Lewisham Council,True,gb
 co-59a8413420c7e39c,LexisNexis Risk Solutions,True,gb
@@ -2897,6 +2920,7 @@ co-2e15b488f8d0d188,Line Up Aviation,True,gb
 co-38b7270c9312daa7,Link Financial Outsourcing Limited,True,gb
 co-2baae6b0de6f0399,Linklaters,True,gb
 co-4b7bc47cb6cc541d,Lioness Recruitment Ltd,True,gb
+co-e696d2b1b745cba7,Liquidline,True,gb
 co-1b400f7a5ed2c5fc,Live Nation,True,gb
 co-4ca2f0bd28a4308a,Live Nation Entertainment,True,gb
 co-98382ea904475293,LiveRamp,True,gb
@@ -3018,6 +3042,7 @@ co-bca049237599a298,Michael Page Finance,True,gb
 co-d09c07985b230f08,Michael Page HR,True,gb
 co-cfc21e203165bb86,Michael Page Technology,True,gb
 co-b1f589a3234b0ec6,Microbyte Solutions Ltd,True,gb
+co-1c189f34e790e32d,Midas Recruitment Ltd,True,gb
 co-9f9d89ccbc73dd9b,Midnite,True,gb
 co-82a4521c3934f461,Ministry of Justice,True,gb
 co-9bc9e23e541746fa,Minster Law,True,gb
@@ -3102,6 +3127,7 @@ co-f20c634735c6588d,Noir,True,gb
 co-86e1eb6c47bec26d,Nomad Foods Europe / Birds Eye,True,gb
 co-c385dc540da36841,Norfolk & Suffolk Foundation NHS Trust,True,gb
 co-745fb4e6c574ccb5,Norfolk County Council,True,gb
+co-ca839b99b7525727,Norfolk and Suffolk NHS Foundation Trust,True,gb
 co-6afe82fc71801334,Norgine,True,gb
 co-6d0050c1c4785b98,North Ayrshire Council,True,gb
 co-f9f4afceac44d68f,North Lanarkshire Council,True,gb
@@ -3316,6 +3342,7 @@ co-1522cdf1c197211d,Recruitment Hub,True,gb
 co-23c5c1050b31ca12,Recruitment Solutions,True,gb
 co-9ccdeac3d7d19a46,Red King Resourcing,True,gb
 co-8c4ab4b414d35504,RedCat Digital,True,gb
+co-1f16ef750cbc866b,RedTech Recruitment Ltd,True,gb
 co-1ec2c6200109736f,RedTech Recruitment Ltd.,True,gb
 co-c9efc641d6e894af,Redmayne Bentley,True,gb
 co-71736ce4a2f3e78b,ReeVR,True,gb
@@ -3670,7 +3697,6 @@ co-94147a03e6d6fdda,UK Health Security Agency,True,gb
 co-af3c189fde4fcea0,UK Remote,True,gb
 co-09a9ae6d559b6956,UNITED UTILITIES GROUP PLC,True,gb
 co-4ec59f7845a5309f,UNIVERSITY OF EAST LONDON,True,gb
-co-0b552d87d7f2f93b,UNIVERSITY OF THE ARTS LONDON,True,gb
 co-f9038ae70c6d3fc8,Unisys,True,gb
 co-8564151e6eced6c3,United Response,True,gb
 co-8bcddf2cc6682755,United Utilities,True,gb
@@ -3689,6 +3715,7 @@ co-c53f45de5e67260b,University of Portsmouth Information Services,True,gb
 co-8049082a654d5544,University of Salford,True,gb
 co-0aa1bf0b09d9309e,University of St Andrews,True,gb
 co-dead708485c19e30,University of York,True,gb
+co-0b552d87d7f2f93b,University of the Arts London,True,gb
 co-287056e60a99ae5f,"Urban Outfitters, Inc.",True,gb
 co-17cc27e0b5df66f2,Uxbridge College,True,gb
 co-1813dff346c5e297,V7 Recruitment,True,gb
@@ -3758,6 +3785,7 @@ co-7e4903c52097decf,West Midlands Combined Authority,True,gb
 co-61693b092309c926,Weybourne,True,gb
 co-e06867534818ddf5,Whitbread,True,gb
 co-301e0586263cd81a,White & Case,True,gb
+co-bbfc2d6ee6acd51d,Whitestone Resourcing Limited,True,gb
 co-9c35ef0e67685112,Wiley Global Technology,True,gb
 co-e8613a734f6e2673,Wilkinson and Associates,True,gb
 co-c903cc022f38daa9,William Alexander,True,gb

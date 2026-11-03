@@ -248,11 +248,13 @@ loc-f19cb59fb60eb251,"Regensburg (Kreis), Bayern",Regensburg (Kreis),Bayern,49.0
 loc-f08f9845f435341c,"Rennweg, Nürnberg",Rennweg,Bayern,49.46851,11.09442,de
 loc-38362cdd679eb2ef,"Rosenheim, Rosenheim (Kreis)",Rosenheim,Bayern,47.848603,12.107866,de
 loc-d7d5e188e9412080,"Rottach-Egern, Miesbach (Kreis)",Rottach-Egern,Bayern,47.68981,11.77064,de
+loc-b36e35374db86b4e,"Röthlein, Schweinfurt (Kreis)",Röthlein,Bayern,49.98426,10.21317,de
 loc-14ad28d54f0676c0,"Schlammersdorf, Neustadt an der Waldnaab (Kreis)",Schlammersdorf,Bayern,49.80203,11.73577,de
 loc-1771445a9843ecf3,"Schoppershof, Nürnberg",Schoppershof,Bayern,49.45855,11.10046,de
 loc-8e8298f02c9acbe4,"Sendling, München",Sendling,Bayern,48.11989,11.54065,de
 loc-1b07e6e3d6bbdeb4,"Unterdürrbach, Würzburg",Unterdürrbach,Bayern,49.82086,9.91596,de
 loc-8f52af87baeedda4,"Unterföhring, München (Kreis)",Unterföhring,Bayern,48.19226,11.64041,de
+loc-296deb94211f25cb,"Vorbach, Neustadt an der Waldnaab (Kreis)",Vorbach,Bayern,49.82126,11.74323,de
 loc-c3051730cb5ce7ba,"Wenzenbach, Regensburg (Kreis)",Wenzenbach,Bayern,49.05856,12.20687,de
 loc-2adc8daffe38ffad,"Würzburg, Würzburg (Kreis)",Würzburg,Bayern,49.789787,9.934747,de
 loc-affbeea7ad552453,"Zell am Main, Würzburg (Kreis)",Zell am Main,Bayern,49.81413,9.87785,de
@@ -438,6 +440,7 @@ loc-1eed4e6fd264d76f,"Herne, Nordrhein-Westfalen",Herne,Nordrhein-Westfalen,51.5
 loc-ef7c2c20db20b020,"Hubbelrath, Düsseldorf",Hubbelrath,Nordrhein-Westfalen,51.25781,6.90792,de
 loc-0cc6df882c2d2c3c,"Höhenberg, Köln",Höhenberg,Nordrhein-Westfalen,50.94119,7.02695,de
 loc-fa6c90e77f587e1f,"Hüingsen, Menden (Sauerland)",Hüingsen,Nordrhein-Westfalen,51.40618,7.82153,de
+loc-e63fa44035031b91,"Hürth, Rhein-Erft-Kreis",Hürth,Nordrhein-Westfalen,50.87096,6.86811,de
 loc-ce792662deaf57db,"Innenstadt, Bochum",Innenstadt,Nordrhein-Westfalen,51.48218,7.22121,de
 loc-fd58463ce9524250,"Innenstadt, Bielefeld",Innenstadt,Nordrhein-Westfalen,52.0225,8.53697,de
 loc-c24a738a097fc407,"Iserlohn, Märkischer Kreis",Iserlohn,Nordrhein-Westfalen,51.380321,7.672955,de
@@ -595,6 +598,7 @@ loc-2148fb04dc8ce7c0,"Alicante, Comunidad Valenciana",Alicante,Comunidad Valenci
 loc-40bcb89cc7fb0096,"Alicante/Alacant, Alicante",Alicante/Alacant,Comunidad Valenciana,38.353738,-0.490185,es
 loc-dd4b89fd63c4e379,"Comunidad Valenciana, España",Comunidad Valenciana,Comunidad Valenciana,39.484,-0.7533,es
 loc-a503bbd8dead65d7,"Oliva, Valencia",Oliva,Comunidad Valenciana,38.912189,-0.075681,es
+loc-e6187161390d7bfe,"Paterna, Valencia",Paterna,Comunidad Valenciana,39.502737,-0.442574,es
 loc-aba4d7165ad99fc0,"Valencia, Comunidad Valenciana",Valencia,Comunidad Valenciana,39.4699,-0.3763,es
 loc-de2d9c2b31a49d7c,Valencia,Valencia,Comunidad Valenciana,39.458652,-0.37423,es
 loc-e0f383e08f7cf73c,"Alcobendas, Madrid",Alcobendas,Comunidad de Madrid,40.541042,-3.632402,es
@@ -755,6 +759,7 @@ loc-2d78d5fc7c097c8c,"Pimlico, Hemel Hempstead",Pimlico,Eastern England,51.75559
 loc-6839363a71bc0d9e,"Porters Wood, St. Albans",Porters Wood,Eastern England,51.752186,-0.342542,gb
 loc-c662d2585e44b2c5,"Postwick, Norwich",Postwick,Eastern England,52.6199,1.39065,gb
 loc-897abc3161bc18a8,"Purdis Farm, Ipswich",Purdis Farm,Eastern England,52.025461,1.227122,gb
+loc-9192ad4a609e0c90,"Ramsey St. Marys, Ramsey",Ramsey St. Marys,Eastern England,52.478006,-0.161075,gb
 loc-6401a75e512d7d2a,"Ransomes Europark, Ipswich",Ransomes Europark,Eastern England,52.026455,1.213809,gb
 loc-5b8f1dfc5310ee7a,"Rayleigh, Essex",Rayleigh,Eastern England,51.585999,0.605291,gb
 loc-e984924d23250bcf,"Royston, Hertfordshire",Royston,Eastern England,52.048199,-0.024057,gb
@@ -784,7 +789,7 @@ loc-2205514f2b182d48,"Woodston, Peterborough",Woodston,Eastern England,52.570938
 loc-78e5af1d458b123e,"Ronaldsway Airport, Ballasalla",Ronaldsway Airport,Isle Of Man,54.086498,-4.63376,gb
 loc-ddad5f3bb6c8caea,"Aldgate, Central London",Aldgate,London,51.512897,-0.077403,gb
 loc-afe55dafdaa87a9e,"Aldwych, Central London",Aldwych,London,51.51462,-0.116532,gb
-loc-579da4c2acc2a165,"Angel, North London",Angel,London,51.520795,-0.098533,gb
+loc-579da4c2acc2a165,"Angel, North London",Angel,London,51.518591,-0.100139,gb
 loc-2f54b422c437d84f,"Archway, North London",Archway,London,51.573531,-0.140839,gb
 loc-f577a323ae876739,"Bankside, South East London",Bankside,London,51.506744,-0.094911,gb
 loc-bf7409043cc58cf6,"Barbican, Central London",Barbican,London,51.516721,-0.09277,gb
@@ -793,6 +798,7 @@ loc-02e399885fc88f3c,"Beddington, Croydon",Beddington,London,51.371444,-0.101222
 loc-5421b4c5037ec16f,"Bedfont, Feltham",Bedfont,London,51.448426,-0.412381,gb
 loc-bf068b15940f8421,"Belmont, Sutton",Belmont,London,51.361627,-0.194738,gb
 loc-a1bd6cd799989c26,"Bermondsey, South East London",Bermondsey,London,51.498534,-0.074593,gb
+loc-7cf05adc1e12ceab,"Bethnal Green, East London",Bethnal Green,London,51.532133,-0.054028,gb
 loc-92d9f7774241a35f,"Bishopsgate, Central London",Bishopsgate,London,51.521065,-0.080864,gb
 loc-93c38e09bab89456,"Blackfriars, Central London",Blackfriars,London,51.511587,-0.102995,gb
 loc-fd0342afe8040d4a,"Bloomsbury, Central London",Bloomsbury,London,51.517999,-0.123715,gb
@@ -853,7 +859,7 @@ loc-2e52c7f8c9afcb91,"Leamouth, East London",Leamouth,London,51.501571,0.005531,
 loc-5ab3922e0812c356,"Leyton, East London",Leyton,London,51.560212,-0.011886,gb
 loc-6832699ee5d1be26,"Liverpool Street, Central London",Liverpool Street,London,51.518126,-0.084851,gb
 loc-a297889e3d16bdb9,"London, UK",London,London,51.503378,-0.139134,gb
-loc-e974f06a5ee98bc7,"London Fields, East London",London Fields,London,51.545032,-0.056434,gb
+loc-e974f06a5ee98bc7,"London Fields, East London",London Fields,London,51.5355,-0.060243,gb
 loc-622a664352096c66,"Marylebone, North West London",Marylebone,London,51.521209,-0.15998,gb
 loc-d0e073cadbda0501,"Mayfair, West London",Mayfair,London,51.508705,-0.148869,gb
 loc-b29feeea997b3b4c,"Millbank, South West London",Millbank,London,51.494269,-0.12662,gb
@@ -1069,7 +1075,7 @@ loc-92b33478f1d95bcd,"Davidsons Mains, Edinburgh",Davidsons Mains,Scotland,55.97
 loc-1c58ba34e78cc614,"Dundee, Scotland",Dundee,Scotland,,,gb
 loc-f093c3c6579cf195,"Dunfermline, Fife",Dunfermline,Scotland,56.0714,-3.46169,gb
 loc-a01cc1c8e1579599,"Edinburgh, Scotland",Edinburgh,Scotland,55.943116,-3.327942,gb
-loc-5eaa569023aea12a,"Edinburgh City Centre, Edinburgh",Edinburgh City Centre,Scotland,55.960372,-3.201528,gb
+loc-5eaa569023aea12a,"Edinburgh City Centre, Edinburgh",Edinburgh City Centre,Scotland,55.947565,-3.211027,gb
 loc-046afe60213bd1af,"Edinburgh Technopole, Milton Bridge",Edinburgh Technopole,Scotland,55.858501,-3.20232,gb
 loc-b7511e191265412e,"Ferniegair, Hamilton",Ferniegair,Scotland,55.770749,-4.054825,gb
 loc-789c38c2c29c1a81,"Fife, Scotland",Fife,Scotland,56.219006,-3.129077,gb
@@ -1088,6 +1094,7 @@ loc-06d042651fa10eca,"New Stevenston, Motherwell",New Stevenston,Scotland,55.791
 loc-8846105994968f19,"Newbattle, Dalkeith",Newbattle,Scotland,55.892262,-3.057573,gb
 loc-1ed17df173ff9f09,"Paisley, Renfrewshire",Paisley,Scotland,55.845402,-4.4236,gb
 loc-e81a052f9f4afa77,"Perth, Perth & Kinross",Perth,Scotland,56.419977,-3.420174,gb
+loc-76169abe0588eea8,"Ratho Station, Newbridge",Ratho Station,Scotland,55.929953,-3.393897,gb
 loc-cf23d8db73e7d429,"Riccarton, Currie",Riccarton,Scotland,55.933921,-3.308888,gb
 loc-c7bb09638a00f8af,"Rutherglen, South Lanarkshire",Rutherglen,Scotland,55.828531,-4.214063,gb
 loc-e3a6fece13143fa1,"Scotland, UK",Scotland,Scotland,56.79918,-4.254873,gb
@@ -1102,6 +1109,7 @@ loc-5906d91512a9fc56,"Alton, Hampshire",Alton,South East England,51.150799,-0.97
 loc-6b941e69e3e4afc1,"Ash Vale, Aldershot",Ash Vale,South East England,51.274847,-0.723028,gb
 loc-617d2af6217f70f9,"Ashford, Kent",Ashford,South East England,51.148399,0.875563,gb
 loc-931da3a7d80e51ab,"Ashland, Milton Keynes",Ashland,South East England,52.010596,-0.720067,gb
+loc-fbf5fcd5a7591e75,"Awbridge, Romsey",Awbridge,South East England,50.995223,-1.505101,gb
 loc-1f6957e76ed4ba75,"Aylesford, Kent",Aylesford,South East England,51.303501,0.48292,gb
 loc-5d8a49b4e35dfa25,"Basingstoke, Hampshire",Basingstoke,South East England,51.262501,-1.08402,gb
 loc-05bde63a9c6aaed7,"Berkshire, South East England",Berkshire,South East England,51.452002,-0.937789,gb
@@ -1167,6 +1175,7 @@ loc-4827acc98868beed,"Hedge End, Southampton",Hedge End,South East England,50.91
 loc-76a040d50ca78baa,"Henley-On-Thames, Oxfordshire",Henley-On-Thames,South East England,51.537498,-0.904635,gb
 loc-ff80e3bcdbd80c89,"High Wycombe, Buckinghamshire",High Wycombe,South East England,51.628799,-0.749466,gb
 loc-8a1dca5537f4d01b,"Holyport, Maidenhead",Holyport,South East England,51.523603,-0.728269,gb
+loc-7158130cf727f25a,"Hook, Hampshire",Hook,South East England,51.283901,-0.959574,gb
 loc-2a504dc52a48c04d,"Hook Norton, Banbury",Hook Norton,South East England,51.995701,-1.48267,gb
 loc-ce25e69bb5dace01,"Horsell, Woking",Horsell,South East England,51.318091,-0.56208,gb
 loc-d63bc02ba57cf8a2,"Horsham, West Sussex",Horsham,South East England,51.063801,-0.327003,gb
@@ -1343,7 +1352,7 @@ loc-0560b01666d2ce07,"Weston, Bath",Weston,South West England,51.391669,-2.39120
 loc-a0cff922be0fc4d2,"Yeovil, Somerset",Yeovil,South West England,50.943802,-2.62975,gb
 loc-770f1385598adb80,"Baglan Industrial Park, Port Talbot",Baglan Industrial Park,Wales,51.613372,-3.816178,gb
 loc-6aee498eabfc143a,"Bassaleg, Newport",Bassaleg,Wales,51.578343,-3.046148,gb
-loc-ba54cafe9db557c7,"Blackweir, Cardiff",Blackweir,Wales,51.48297,-3.177566,gb
+loc-ba54cafe9db557c7,"Blackweir, Cardiff",Blackweir,Wales,51.483584,-3.177323,gb
 loc-d4823c65f7fb3440,"Bodelwyddan, Rhyl",Bodelwyddan,Wales,53.255919,-3.475601,gb
 loc-6b1fb1ab1790aea0,"Brackla, Bridgend",Brackla,Wales,51.509146,-3.540993,gb
 loc-a6fc0a9a728a0868,"Bridgend, Bridgend County",Bridgend,Wales,51.507301,-3.58104,gb
@@ -1390,6 +1399,7 @@ loc-ac1f3e982d832467,"Coton, Nuneaton",Coton,West Midlands,52.521784,-1.467336,g
 loc-83c398279e529615,"Coventry, West Midlands",Coventry,West Midlands,52.4058,-1.51266,gb
 loc-50b482f3d1176682,"Deritend, Birmingham",Deritend,West Midlands,52.479689,-1.899877,gb
 loc-e6ed4cad7f104018,"Dickens Heath, Shirley",Dickens Heath,West Midlands,52.4006,-1.825874,gb
+loc-47927d999e66d8f6,"Dosthill, Tamworth",Dosthill,West Midlands,52.605231,-1.675064,gb
 loc-e72962af618aefd8,"Droitwich, Worcestershire",Droitwich,West Midlands,52.268101,-2.15369,gb
 loc-e7d00269bc70b087,"Dudley, West Midlands",Dudley,West Midlands,52.508701,-2.08734,gb
 loc-a6fb5ec327967e67,"Elmdon, Birmingham",Elmdon,West Midlands,52.451861,-1.76405,gb
