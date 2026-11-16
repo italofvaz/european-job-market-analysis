@@ -13,6 +13,7 @@ co-a9d0e1c491fca847,Air Apps,True,ch
 co-a0beaa6142c5d3f6,Akros AG,True,ch
 co-7b4819c2f158b74e,Albedis - Genève,True,ch
 co-c6b227d025214fef,Aldi,True,ch
+co-1d62d93de99b8b8d,Allianz,True,ch
 co-25b011ca2ce06402,Alloboissons SA,True,ch
 co-2f7ebfdfbcbe2243,Assura,True,ch
 co-05a4d8d130896bd8,Athenco by TW,True,ch
@@ -1150,6 +1151,7 @@ co-d2b910189f3442fc,Ströer SE & Co. KGaA,True,de
 co-7bffdb8d457c1369,Studyflix GmbH,True,de
 co-a2ffba098b5d0467,Stuttgarter Versicherung,True,de
 co-9712364c8257f04e,Sulzer,True,de
+co-0aac631adbb4b996,SumUp,True,de
 co-412ed1820f0d234e,SupplyX c/o Otto Group Logistics GmbH,True,de
 co-8cf64a8488b41d8f,Swiss Life,True,de
 co-e3abae22cd98e0cb,Swiss Life Deutschland Holding GmbH,True,de
@@ -1432,7 +1434,6 @@ co-fa0b2b46c8b7ceb1,ACNUR Comité español,True,es
 co-f11ae55695b41147,ADEREN,True,es
 co-85fdb6548fea75e6,AEG Power Solutions Pte Ltd,True,es
 co-513a601dcfcae210,ALDDE ALD AutoLeasing D GmbH,True,es
-co-0880111d43e35647,ALDES ALD Automotive SA,True,es
 co-eb722809b9ea2e6d,ALTEN,True,es
 co-7ef163995d4f95b2,ALTEN Spain,True,es
 co-298e9c9c3ec45a2c,AMPERE SOFTWARE TECHNOLOGY,True,es
@@ -1443,7 +1444,6 @@ co-6f61379613ba6bd5,ATEXIS,True,es
 co-2fdc849f6d2edced,AVOS Tech | A Prosegur company,True,es
 co-5c38e7db8d0f9c9d,AWWG,True,es
 co-51ba758b16bfec14,AXA,True,es
-co-e99ddc7ed1ce25b6,AXA Partners,True,es
 co-b56401c5452bd77a,AXON-Networks,True,es
 co-739019c6fb9444c6,Abi Global Health,True,es
 co-2881470e28a97e04,Accenture,True,es
@@ -1479,6 +1479,7 @@ co-1902b5a515f247ab,Akkodis,True,es
 co-b34764fdeca050a7,Alantra Solar Energy Advisors,True,es
 co-3f6ffd77ad294061,Alarmas Verisure Argentina,True,es
 co-824926e7356d4c87,Alcon Mx,True,es
+co-0880111d43e35647,Aldes Ald Automotive Sa,True,es
 co-be32670174317ca7,Aleph,True,es
 co-293443d8c43aef88,Alexion,True,es
 co-78dd1b97b6f01761,"Alexion Pharmaceuticals, Inc.",True,es
@@ -1549,6 +1550,7 @@ co-80880dd3ceb04731,Avanade España,True,es
 co-b6b75482bb114b17,Avanade Inc.,True,es
 co-267b784c7867e366,Avis Budget Group,True,es
 co-48f1e25557f18b9c,Axa España,True,es
+co-e99ddc7ed1ce25b6,Axa Partners,True,es
 co-9ee361dafdf68457,Axians Nl,True,es
 co-e0f4f331d66ac853,Axpe Consulting,True,es
 co-0ca969d27c47cb23,Axpe Consulting Sl,True,es
@@ -1583,6 +1585,7 @@ co-c29ec8f9980739b1,Barcelona Supercomputing Center,True,es
 co-c005d14e4c979898,Barceló Explotaciones Hoteleras Canarias,True,es
 co-24518847ee794e59,Barceló Hotel Group,True,es
 co-41a1fc9a47fc47f4,Baxter Planning,True,es
+co-8434f3478fc29df3,Be | Shaping the Future Poland,True,es
 co-d8408ffe4c6ab77c,Bechtle,True,es
 co-9b88dda22a833658,Behum,True,es
 co-4e535dee1fc86ea4,Bending Spoons,True,es
@@ -1647,6 +1650,7 @@ co-fd01f4019ce12e8b,Cheil Spain,True,es
 co-8a75f905fcd5f092,Cigna,True,es
 co-c3f55f408b752c13,Cigna Group,True,es
 co-6bdb1a573bf84f8d,Ciklum,True,es
+co-f526a87e2dbf9f3d,Claire Joster | People first,True,es
 co-b677ab3980962093,Clinica Grado,True,es
 co-6889ea34e22ea463,Cloudspirit,True,es
 co-06b0e3c7a5ee8cb4,CoStar Group,True,es
@@ -1855,7 +1859,10 @@ co-e01f5006b076da86,Grupo Planeta,True,es
 co-59bbb74439e4a28a,Grupo Santander,True,es
 co-c82cfbe7ca43d37e,Grupo Vall Companys,True,es
 co-c365bcdc442b2ef3,Grupo Viarium,True,es
+co-ce14ac49d92a508a,Guardian Glass,True,es
+co-9b50f5133f1b6abf,Guardian Industries,True,es
 co-d0c21c712ae75433,Guess Europe Sagl,True,es
+co-78ddbcb4e5c15e85,"Guess?, LLC.",True,es
 co-98b6185129e4f4b5,Guesty,True,es
 co-0d63c345038083ca,Gunvor Group,True,es
 co-3c3df1ee36bb4508,HBX Group,True,es
@@ -1892,6 +1899,7 @@ co-0144378e89b23b2d,Hostinger,True,es
 co-1606c9a7b22f6ac2,"Housfy Real Estate, S.L.",True,es
 co-c9b7fd104ec098a0,Hp,True,es
 co-44facf1014c74395,Hp Inc,True,es
+co-3e84966dd64b0714,Hp Iq,True,es
 co-1389a0091454cb4e,Hubbell Inc.,True,es
 co-630271398daeacda,Huxley,True,es
 co-34eff464f1e8d0da,Huzzle,True,es
@@ -2086,6 +2094,7 @@ co-e63074a29bd4a1e0,Moniepoint,True,es
 co-3a731b31a3fed5cc,Morningstar,True,es
 co-63fbd920a9a155af,"Morningstar, Inc.",True,es
 co-e707c7d80f49d10a,Morson Talent,True,es
+co-c7756fdf6bdfa6fc,Movistar Prosegur Alarmas,True,es
 co-fccc222b8a38f71b,Mscope,True,es
 co-f3324cd34df05b47,Mts Globe,True,es
 co-46e674098b5f591a,Multiverse Computing,True,es
@@ -2126,6 +2135,7 @@ co-127159e1d7dea458,Nsifoods,True,es
 co-30642de5f3133ea1,Nunegal Consulting,True,es
 co-2c658e32139bf8c1,Nutreco,True,es
 co-d7bba943d8084b22,Nuyew Tech Academy,True,es
+co-a0c1b543631b7854,NxN Data Centers,True,es
 co-3db81b5a6ebe434d,OAC-JLL Valoraciones,True,es
 co-f039e0cc332f1dcb,OCA Global,True,es
 co-21b697d1fb052618,OCA Global Group,True,es
@@ -2145,6 +2155,7 @@ co-482fe89263b08a19,Orange,True,es
 co-1e8970f6c66770e2,Ormazabal,True,es
 co-ae850df307141835,Otto Group Solution Provider Spain S.l.,True,es
 co-3713984da7c16f55,Otto Group one.O,True,es
+co-90971f3fa618940f,Outvise,True,es
 co-9b172638622193f8,Overleaf Enterprise,True,es
 co-1c24433ec6e8e8dc,Oxford Global Resources,True,es
 co-094e2d0fafe58630,Oxford Instruments EMEAI,True,es
@@ -2213,6 +2224,7 @@ co-d9b86812645b28d2,Rawson BPO,True,es
 co-d93883d1aa4bb643,Reclut,True,es
 co-ed8dd2406d6d4890,Recodme,True,es
 co-c2a82aa46d453481,Red Commerce Schweiz GmbH,True,es
+co-0aea551d3e701f42,Redeia,True,es
 co-47a3ec2bdfda3a68,RemoFirst,True,es
 co-ed1e6eb32fda882c,"Remofirst, Inc.",True,es
 co-0d4cc622e51c18c4,RemoteJobsOne,True,es
@@ -2273,6 +2285,7 @@ co-bf4f0ab6993ead10,Schwarz Digits KG,True,es
 co-a9774b5b7c7e2fba,Scope Australia,True,es
 co-73960fc112cd1c89,Scopely,True,es
 co-9d79fdf928b656c3,Scopely España,True,es
+co-81b81ed18ac4dfec,Scrambly,True,es
 co-ea261958e824d6c6,Scrm,True,es
 co-204336457256bbe9,Scrm International Hub,True,es
 co-dd00715dc9afa398,Scrm – Lidl International Hub,True,es
@@ -2327,6 +2340,7 @@ co-40a466f0028d85d9,Solutions,True,es
 co-9dab9e2c8870044a,Solutions Driven,True,es
 co-7086185bb4f745a1,Sompo,True,es
 co-dea121f610e87a0c,Sonova,True,es
+co-3a4ca9f5ff9e2c66,Sonova AG,True,es
 co-5a0ca663c5e1c921,Sonova Group,True,es
 co-dc0ea5d6a8acd591,Sopra Financing Software,True,es
 co-af8cdece0f44c308,Sopra Steria,True,es
@@ -2351,6 +2365,7 @@ co-85518e1acdea2f38,Sword Iberia,True,es
 co-eab27f32f19a0060,Syntrace,True,es
 co-df942759dab1f6b8,TAPTAP Digital,True,es
 co-ff8b08145440dc50,TBO.COM,True,es
+co-dd393ff8eabe766a,TD,True,es
 co-45b24ab06866ff0c,TD SYNNEX Co.,True,es
 co-6769a6fd85316c08,TD SYNNEX Europe Services and Operations S.L.U.,True,es
 co-6a7481744c2af000,TD Synnex,True,es
@@ -2444,6 +2459,7 @@ co-0835eecf47c473b7,Veepee,True,es
 co-d3bd3997a71d091a,Veeva Systems,True,es
 co-3f76ab535601f25a,Veolia Environnement SA,True,es
 co-d4db93ba737534f5,Veolia España,True,es
+co-23cdf8cc54d0384a,Veolia | España,True,es
 co-4a0f13c15ba2b2e5,Veoliaenvironnementsa,True,es
 co-c347e8041562fc79,Verisure,True,es
 co-b07c8268ef0f7e46,Verisure España,True,es
@@ -2779,6 +2795,7 @@ co-ad194034f64fcd51,Bloomberg,True,gb
 co-6ebc0ee293de8206,Blue Cross,True,gb
 co-3fb4e2cdbe6dfa75,Blue Light Card,True,gb
 co-ff0ffa4d16224021,Boeing,True,gb
+co-04d747a5b4ecb46d,Bonhill Partners,True,gb
 co-f7bfe3065074bcbd,Booker Group,True,gb
 co-63df8696ede7a1c8,Booth Welsh Ltd,True,gb
 co-66b7126f938acd32,Borough of Lewisham,True,gb
@@ -3660,6 +3677,7 @@ co-7169c5adf491f9fc,Lowell Group,True,gb
 co-015e85747929e16c,Lucy Group,True,gb
 co-fadcde4f99cfdb66,Lumen Partners,True,gb
 co-4fbd53acd506e5cf,Lush,True,gb
+co-885ccf2f5da2f5ea,Lush Handmade Cosmetics,True,gb
 co-262c63244b73d13a,Luxoft,True,gb
 co-1bde5f1d6af4a203,Lynx Employment Services Ltd,True,gb
 co-6638cc00c9eb23cd,M Group,True,gb
@@ -3822,6 +3840,7 @@ co-a38cb2b15effc5a1,National Health Service,True,gb
 co-66f475dd2b094fbd,National Highways,True,gb
 co-bda88ebfc42cb07c,Nationwide,True,gb
 co-2406f263b8c37678,Natural Resources Wales,True,gb
+co-64008df256d777f6,Nature Scot,True,gb
 co-4f2df00a04586e36,Natwest CWS,True,gb
 co-4618922c99845f7f,Natwest Group,True,gb
 co-f8710e562c47f265,Navitas,True,gb

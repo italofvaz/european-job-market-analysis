@@ -109,7 +109,7 @@ loc-d46afe8ed980f914,"Wallisellen, Bülach",Wallisellen,Kanton Zürich,47.413463
 loc-160f4c45ee0f9b75,"Winterthur, Kanton Zürich",Winterthur,Kanton Zürich,47.59869,8.77916,ch
 loc-c93426854cf1be59,Winterthur,Winterthur,Kanton Zürich,47.501258,8.72733,ch
 loc-e8d9a634fda7b555,"Zollikon, Meilen",Zollikon,Kanton Zürich,47.358044,8.557083,ch
-loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.372219,8.541973,ch
+loc-38daf17ca9eeb33d,Zürich,Zürich,Kanton Zürich,47.374173,8.523767,ch
 loc-e81b5fe7ffa508f6,Schweiz,,,46.206338,6.146335,ch
 loc-8461d0fe7c546bcf,"Achalm, Reutlingen",Achalm,Baden-Württemberg,48.49388,9.24135,de
 loc-e24b48442e2958c4,"Altstadt, Heidelberg",Altstadt,Baden-Württemberg,49.3936,8.73075,de
@@ -325,6 +325,7 @@ loc-df5a3eaa1dd74b66,"Hamburg, Deutschland",Hamburg,Hamburg,53.557429,9.987297,d
 loc-1dbbf9c58d3075fc,"Hamburg-Altstadt, Hamburg",Hamburg-Altstadt,Hamburg,53.5504,9.99417,de
 loc-77b8bab6c84bc6ec,"Hammerbrook, Hamburg",Hammerbrook,Hamburg,53.54512,10.03038,de
 loc-d54e217d52723bd7,"Neustadt, Hamburg",Neustadt,Hamburg,53.55197,9.98553,de
+loc-892b7fb55138a8b1,"Allendorf, Gießen",Allendorf,Hessen,50.55194,8.62251,de
 loc-dba0a1763f5a7fef,"Altstadt, Frankfurt am Main",Altstadt,Hessen,50.11218,8.68432,de
 loc-6bc9b05d6122824a,"Am Sandkopf, Kassel (Kreis)",Am Sandkopf,Hessen,51.34653,9.50202,de
 loc-e2e4880b95433857,"Arheilgen, Darmstadt",Arheilgen,Hessen,49.87242,8.65086,de
@@ -618,6 +619,7 @@ loc-98a66a08d1e178a5,"Las Rozas de Valdearroyo, Cantabria",Las Rozas de Valdearr
 loc-2486008f68ab001d,"Santa Cruz de Bezana, Cantabria",Santa Cruz de Bezana,Cantabria,43.452793,-3.865101,es
 loc-afd117d7f7a63017,"Santander, Cantabria",Santander,Cantabria,43.465115,-3.808676,es
 loc-8e499f722bf2ce4a,"Valderredible, Cantabria",Valderredible,Cantabria,42.823611,-3.893611,es
+loc-341d0481bd5f59ac,"El Barco de Ávila, Ávila",El Barco de Ávila,Castilla y León,40.355763,-5.527053,es
 loc-bca4e2f1ed1944a1,"León, Castilla y León",León,Castilla y León,42.5987,-5.5671,es
 loc-e70bf5675c42cfbf,"Oña, Burgos",Oña,Castilla y León,42.735957,-3.413264,es
 loc-11d5ca0d281ba8f4,"Valladolid, Castilla y León",Valladolid,Castilla y León,41.6523,-4.7245,es
@@ -634,6 +636,7 @@ loc-83b150d43c14fb47,"Las Valeras, Cuenca",Las Valeras,Castilla-La Mancha,39.812
 loc-3da9ceb69b3f636c,"Portillo de Toledo, Toledo",Portillo de Toledo,Castilla-La Mancha,40.062888,-4.228913,es
 loc-a04208374e8aff9d,"Toledo, Castilla-La Mancha",Toledo,Castilla-La Mancha,39.8628,-4.0273,es
 loc-edf30a7a3e4fb2a3,Toledo,Toledo,Castilla-La Mancha,39.858391,-4.020092,es
+loc-a6aa70fbbca22312,"Vega del Codorno, Cuenca",Vega del Codorno,Castilla-La Mancha,40.432418,-1.928857,es
 loc-0b5cd32dce731858,"Badalona, Barcelona",Badalona,Cataluña,41.452356,2.249983,es
 loc-56e233a126865a5e,"Barcelona, Cataluña",Barcelona,Cataluña,41.3851,2.1734,es
 loc-d6d0e8b002f20352,Barcelona,Barcelona,Cataluña,41.380002,2.168131,es
@@ -811,6 +814,7 @@ loc-cf146eed0ba328eb,"Witham Town, Boston",Witham Town,East Midlands,52.97942,-0
 loc-e8dc2d75ed21021a,"Wollaston, Wellingborough",Wollaston,East Midlands,52.257009,-0.664315,gb
 loc-ab5c70cddbda794d,"Woodthorpe, Loughborough",Woodthorpe,East Midlands,52.767408,-1.216891,gb
 loc-a774cefd8a0d233f,"Woolley Bridge, Glossop",Woolley Bridge,East Midlands,53.460688,-1.986391,gb
+loc-749fc68e9cb0b478,"Ampthill, Bedford",Ampthill,Eastern England,52.027401,-0.49524,gb
 loc-75605b9f63323385,"Badgers Dene, Grays",Badgers Dene,Eastern England,51.475675,0.324784,gb
 loc-5361bf63322cc960,"Barking, Essex",Barking,Eastern England,51.536301,0.081478,gb
 loc-4226a1fdd444d7fa,"Barnet, Hertfordshire",Barnet,Eastern England,51.652901,-0.199606,gb
@@ -830,7 +834,7 @@ loc-a51c5369e74f78ea,"Chadwell Heath, Romford",Chadwell Heath,Eastern England,51
 loc-8a0616b3bee2f1bb,"Chatteris, Cambridgeshire",Chatteris,Eastern England,52.454498,0.050011,gb
 loc-33a8c14bc3ef45bf,"Chelmsford, Essex",Chelmsford,Eastern England,51.735802,0.469708,gb
 loc-e456893569e1ba2c,"Cherry Hinton, Cambridge",Cherry Hinton,Eastern England,52.185213,0.188175,gb
-loc-e445c998bb900de9,"Chesterton, Cambridge",Chesterton,Eastern England,52.206077,0.115611,gb
+loc-e445c998bb900de9,"Chesterton, Cambridge",Chesterton,Eastern England,52.206085,0.118685,gb
 loc-6348f7919a8d1c9b,"Chigwell, Essex",Chigwell,Eastern England,51.619598,0.075644,gb
 loc-f82ecc7a534ca0ea,"Church Langley, Harlow",Church Langley,Eastern England,51.75561,0.105783,gb
 loc-bb9175725804f608,"Clapham, Bedford",Clapham,Eastern England,52.151189,-0.474985,gb
@@ -961,13 +965,13 @@ loc-bb857bf796c9fd51,"Fenchurch St, Central London",Fenchurch St,London,51.51314
 loc-382784d103e60a14,"Finsbury, Central London",Finsbury,London,51.531512,-0.103407,gb
 loc-eba1f547ae037f18,"Finsbury Park, North London",Finsbury Park,London,51.565102,-0.097628,gb
 loc-9a57365a8f95e222,"Fitzrovia, West London",Fitzrovia,London,51.523991,-0.141402,gb
-loc-7683e7b678c3d672,"Fleet Street, Central London",Fleet Street,London,51.518416,-0.111043,gb
+loc-7683e7b678c3d672,"Fleet Street, Central London",Fleet Street,London,51.513606,-0.108928,gb
 loc-992c71cd1fd5eccc,"Forest Hill, South East London",Forest Hill,London,51.44055,-0.053938,gb
 loc-3acaa73977cc90e8,"Friern Barnet, North London",Friern Barnet,London,51.615299,-0.145697,gb
 loc-e929722ead205d87,"Furzedown, South West London",Furzedown,London,51.4103,-0.162653,gb
 loc-04a0bd77be35be82,"Gunnersbury, West London",Gunnersbury,London,51.494072,-0.27982,gb
 loc-60c525fb2a8bc0a7,"Hackney, East London",Hackney,London,51.5439,-0.066098,gb
-loc-32a548ec4a789e0d,"Hammersmith, West London",Hammersmith,London,51.492676,-0.2212,gb
+loc-32a548ec4a789e0d,"Hammersmith, West London",Hammersmith,London,51.488786,-0.222648,gb
 loc-40354d6eb0d3df99,"Hampton, South West London",Hampton,London,51.422001,-0.3667,gb
 loc-95eddd026ab33340,"Harlington, Hayes",Harlington,London,51.480473,-0.440374,gb
 loc-28b1ba7ac20c5f72,"Hayes, London",Hayes,London,51.512699,-0.4211,gb
@@ -1006,7 +1010,7 @@ loc-b29bb48510844d56,"Pentonville, North London",Pentonville,London,51.52517,-0.
 loc-01b4528ab1a58331,"Petts Wood, Orpington",Petts Wood,London,51.384131,0.077425,gb
 loc-e8a93105899e3fe5,"Piccadilly, West London",Piccadilly,London,51.511351,-0.137679,gb
 loc-496a9afd651a67f0,"Pimlico, South West London",Pimlico,London,51.489086,-0.139816,gb
-loc-5304cd265b2212d5,"Poplar, East London",Poplar,London,51.500732,-0.01655,gb
+loc-5304cd265b2212d5,"Poplar, East London",Poplar,London,51.504622,-0.016295,gb
 loc-b4dfea9f91dd0c8a,"Putney, South West London",Putney,London,51.462601,-0.216308,gb
 loc-621e4d82a7ca6d42,"Richmond, West London",Richmond,London,51.458503,-0.306722,gb
 loc-db2c745a11d396cf,"Shoreditch, East London",Shoreditch,London,51.527135,-0.08146,gb
@@ -1163,7 +1167,7 @@ loc-b29467b293419520,"Salford, Greater Manchester",Salford,North West England,53
 loc-bd9af691757db92b,"Shuttleworth, Ramsbottom",Shuttleworth,North West England,53.648397,-2.31701,gb
 loc-299b97d5598f40bf,"Southport, Merseyside",Southport,North West England,53.647301,-3.00733,gb
 loc-3e9c87b92fd07eba,"Sproston, Crewe",Sproston,North West England,53.185009,-2.425595,gb
-loc-7fc3b47ed01aaba8,"St. Annes, Lytham St. Annes",St. Annes,North West England,53.753967,-3.028334,gb
+loc-7fc3b47ed01aaba8,"St. Annes, Lytham St. Annes",St. Annes,North West England,53.750485,-3.002798,gb
 loc-12146b4a8c40ad1c,"St. Helens, Merseyside",St. Helens,North West England,53.453899,-2.73689,gb
 loc-67d843e9a278ed7a,"Staining, Lancashire",Staining,North West England,53.817571,-2.992904,gb
 loc-be9e9f9ce2be8d4c,"Stanley, Liverpool",Stanley,North West England,53.408258,-2.916292,gb
@@ -1200,7 +1204,7 @@ loc-fecf08295b1df258,"Magherafelt, Northern Ireland",Magherafelt,Northern Irelan
 loc-62cc0c8bb0fb2727,"Magheralin, Craigavon",Magheralin,Northern Ireland,54.4674,-6.26137,gb
 loc-c21e7cc97a28feeb,"Newtownabbey, County Antrim",Newtownabbey,Northern Ireland,54.727512,-5.997899,gb
 loc-028688f5a5d8b44f,"Newtownards, Ards",Newtownards,Northern Ireland,54.595001,-5.70311,gb
-loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.593421,-5.928082,gb
+loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.594085,-5.928575,gb
 loc-5261a14d773df4cb,"Randalstown, Antrim",Randalstown,Northern Ireland,54.748901,-6.3156,gb
 loc-cda98908c909fa14,"Saintfield, Ballynahinch",Saintfield,Northern Ireland,54.460899,-5.82512,gb
 loc-d47b1e2fad2636cf,"Stranmillis, Belfast",Stranmillis,Northern Ireland,54.570202,-5.93829,gb
@@ -1234,6 +1238,7 @@ loc-d719c10ab7f336dd,"Hermiston, Currie",Hermiston,Scotland,55.909408,-3.3207,gb
 loc-6a973d97146585b9,"Hillhead, Glasgow City Centre",Hillhead,Scotland,55.861395,-4.259705,gb
 loc-de599fed3a258716,"Holytown, Motherwell",Holytown,Scotland,55.834245,-3.980153,gb
 loc-89690db933adb06c,"Irvine, North Ayrshire",Irvine,Scotland,55.615601,-4.66488,gb
+loc-0e15768bde7cd310,"Leachkin, Inverness",Leachkin,Scotland,57.471199,-4.2751,gb
 loc-505c4f3f418d1d49,"Motherwell, North Lanarkshire",Motherwell,Scotland,55.789101,-3.99546,gb
 loc-06d042651fa10eca,"New Stevenston, Motherwell",New Stevenston,Scotland,55.791931,-3.987113,gb
 loc-8846105994968f19,"Newbattle, Dalkeith",Newbattle,Scotland,55.892262,-3.057573,gb
