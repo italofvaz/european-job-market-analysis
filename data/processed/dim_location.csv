@@ -21,10 +21,11 @@ loc-af9c99421356981c,"Bremgarten bei Bern, Bern-Mittelland",Bremgarten bei Bern,
 loc-998a0ea82d5459c7,"Burgdorf, Emmental",Burgdorf,Kanton Bern,47.057963,7.628682,ch
 loc-39485ea28c4af943,"Büren an der Aare, Seeland",Büren an der Aare,Kanton Bern,47.139864,7.372357,ch
 loc-2f073b4ad65a565d,"Interlaken, Interlaken-Oberhasli",Interlaken,Kanton Bern,46.685483,7.855901,ch
-loc-a1c16e17cec75246,"Ittigen, Bern-Mittelland",Ittigen,Kanton Bern,46.976801,7.463631,ch
+loc-a1c16e17cec75246,"Ittigen, Bern-Mittelland",Ittigen,Kanton Bern,46.973309,7.484133,ch
 loc-acd7f80c269ffafc,"Kanton Bern, Schweiz",Kanton Bern,Kanton Bern,,,ch
 loc-924f976a48cdb822,"Kehrsatz, Bern-Mittelland",Kehrsatz,Kanton Bern,46.896738,7.469239,ch
-loc-7d7cf3bf32901bf2,"Muri bei Bern, Bern-Mittelland",Muri bei Bern,Kanton Bern,46.930139,7.487483,ch
+loc-3f760159a0975257,"Köniz, Bern-Mittelland",Köniz,Kanton Bern,46.929531,7.416345,ch
+loc-7d7cf3bf32901bf2,"Muri bei Bern, Bern-Mittelland",Muri bei Bern,Kanton Bern,46.938336,7.476958,ch
 loc-091c933483d8929d,"Oberaargau, Kanton Bern",Oberaargau,Kanton Bern,47.36054,7.82921,ch
 loc-c69b1d16eed4fdcc,"Ostermundigen, Bern-Mittelland",Ostermundigen,Kanton Bern,46.956113,7.482843,ch
 loc-6f6a1a121a9c593e,"Bulle, Greyerz",Bulle,Kanton Freiburg,46.617991,7.057158,ch
@@ -49,7 +50,7 @@ loc-de668ba65980e429,"Rothenburg, Hochdorf",Rothenburg,Kanton Luzern,47.093605,8
 loc-b07cd02c8ef55a1a,"Sursee, Kanton Luzern",Sursee,Kanton Luzern,47.24386,8.08336,ch
 loc-41e993236e836746,"Kanton Neuenburg, Schweiz",Kanton Neuenburg,Kanton Neuenburg,,,ch
 loc-e2ca39ff2492d154,"La Sagne, Neuenburg",La Sagne,Kanton Neuenburg,47.049328,6.788867,ch
-loc-536934b08c0d2b91,Neuenburg,Neuenburg,Kanton Neuenburg,46.993036,6.928675,ch
+loc-536934b08c0d2b91,Neuenburg,Neuenburg,Kanton Neuenburg,46.994041,6.926855,ch
 loc-3641eb4d52246b97,"Obwalden, Kanton Obwalden",Obwalden,Kanton Obwalden,47.047638,8.27431,ch
 loc-80cc19bf4372287c,Schaffhausen,Schaffhausen,Kanton Schaffhausen,47.703581,8.635858,ch
 loc-65a563eeca501ef4,Einsiedeln,Einsiedeln,Kanton Schwyz,47.114379,8.776892,ch
@@ -374,6 +375,7 @@ loc-8d4f8e5802c668eb,"Mitte, Kassel",Mitte,Hessen,51.31685,9.48631,de
 loc-5da15628715a5cdb,"Nauborn, Wetzlar",Nauborn,Hessen,50.55098,8.50348,de
 loc-9be1c3033ba55fa7,"Niederrad, Frankfurt am Main",Niederrad,Hessen,50.0863,8.63833,de
 loc-6f71216842b7b16c,"Oberursel (Taunus), Hochtaunuskreis",Oberursel (Taunus),Hessen,50.20149,8.57491,de
+loc-f8ede178762385ad,"Offenbach (Kreis), Hessen",Offenbach (Kreis),Hessen,50.027058,8.850023,de
 loc-0d13d7378b462882,"Rheingau-Taunus-Kreis, Hessen",Rheingau-Taunus-Kreis,Hessen,50.148415,8.137615,de
 loc-fb0af3b53bf0b2f1,"Rüsselsheim, Groß-Gerau (Kreis)",Rüsselsheim,Hessen,49.99487,8.41086,de
 loc-75ce4a158ac3ad9d,"Sachsenhausen, Frankfurt am Main",Sachsenhausen,Hessen,50.10198,8.69569,de
@@ -714,7 +716,7 @@ loc-df52cca512a8ac4f,"Rivas-Vaciamadrid, Madrid",Rivas-Vaciamadrid,Comunidad de 
 loc-1dbba5079aa1fd4a,"San Sebastián de los Reyes, Madrid",San Sebastián de los Reyes,Comunidad de Madrid,40.547055,-3.626719,es
 loc-c1e4edffed042643,"Torrejón de Ardoz, Madrid",Torrejón de Ardoz,Comunidad de Madrid,40.459156,-3.47899,es
 loc-33ba66a194e54e26,"Torrelodones, Madrid",Torrelodones,Comunidad de Madrid,40.531685,-3.925464,es
-loc-c7bc91c9cae61ee7,"Tres Cantos, Madrid",Tres Cantos,Comunidad de Madrid,40.553848,-3.709473,es
+loc-c7bc91c9cae61ee7,"Tres Cantos, Madrid",Tres Cantos,Comunidad de Madrid,40.604905,-3.704206,es
 loc-d7f65b2606cc5ae7,"Valdemoro, Madrid",Valdemoro,Comunidad de Madrid,40.188795,-3.671621,es
 loc-1e6d95675128a85f,"Velilla de San Antonio, Madrid",Velilla de San Antonio,Comunidad de Madrid,40.341704,-3.503575,es
 loc-fa120395335fb272,"Villa del Prado, Madrid",Villa del Prado,Comunidad de Madrid,40.277438,-4.304831,es
@@ -745,6 +747,7 @@ loc-ec367e04ba185c8c,"Arantzazu, Vizcaya",Arantzazu,País Vasco,43.156885,-2.791
 loc-885ef874cc029b71,"Barakaldo, Vizcaya",Barakaldo,País Vasco,43.29548,-2.990093,es
 loc-da7e65f317fb70b8,"Bilbao, Vizcaya",Bilbao,País Vasco,43.263227,-2.927,es
 loc-e510a620822998a9,"Derio, Vizcaya",Derio,País Vasco,43.273144,-2.885893,es
+loc-11105e391b1a8701,"Getxo, Vizcaya",Getxo,País Vasco,43.347941,-3.008767,es
 loc-d6b404635f1ccea5,"Ibarra, Guipúzcoa",Ibarra,País Vasco,43.1302,-2.059409,es
 loc-f9a9935eb0b5405b,"País Vasco, España",País Vasco,País Vasco,42.9896,-2.6189,es
 loc-3fd647547f48e037,"Portugalete, Vizcaya",Portugalete,País Vasco,43.328313,-3.010835,es
@@ -802,6 +805,7 @@ loc-452725e3e7dacd41,"Lenton, Nottingham",Lenton,East Midlands,52.941278,-1.1745
 loc-6f27b4ea217b9c2e,"Lincoln, Lincolnshire",Lincoln,East Midlands,53.234901,-0.538436,gb
 loc-c0d27de5978b9a95,"Little Oakley, Corby",Little Oakley,East Midlands,52.495418,-0.682204,gb
 loc-84fa4f142c2401a6,"Littleover, Derby",Littleover,East Midlands,52.910347,-1.513825,gb
+loc-f9f5d9de6edd17af,"Loughborough, Leicestershire",Loughborough,East Midlands,52.770802,-1.20435,gb
 loc-b7d9703210389521,"Marehay, Ripley",Marehay,East Midlands,53.026571,-1.414354,gb
 loc-89132046a853583d,"New Ollerton, Newark",New Ollerton,East Midlands,53.214001,-1.00655,gb
 loc-c62ad5bb89a341b9,"Newark, Nottinghamshire",Newark,East Midlands,53.0765,-0.81,gb
@@ -865,6 +869,7 @@ loc-bbf24cf31499fea7,"Elstow, Bedford",Elstow,Eastern England,52.138071,-0.47333
 loc-a6a04e1eb23cb606,"Exning, Newmarket",Exning,Eastern England,52.25916,0.393553,gb
 loc-5a339faf96918ffe,"Fenstanton, Huntingdon",Fenstanton,Eastern England,52.322866,-0.06715,gb
 loc-2714f7ab5861c2af,"Great Wenham, Colchester",Great Wenham,Eastern England,52.005491,1.016327,gb
+loc-3151efb16e63870a,"Great Yarmouth, Norfolk",Great Yarmouth,Eastern England,52.6077,1.73299,gb
 loc-0ee882497be41c5d,"Hadleigh, Benfleet",Hadleigh,Eastern England,51.563265,0.586029,gb
 loc-e566e7c6e6e60eec,"Harlow, Essex",Harlow,Eastern England,51.776501,0.111317,gb
 loc-9c29ac3f5cefd128,"Harpenden, Hertfordshire",Harpenden,Eastern England,51.819053,-0.352959,gb
@@ -888,6 +893,7 @@ loc-46fcbe470061b42d,"Little Chesterford, Saffron Walden",Little Chesterford,Eas
 loc-b6b086f051a0e403,"London Luton Airport, Luton",London Luton Airport,Eastern England,51.877843,-0.376366,gb
 loc-427937ae5d970256,"Luton, Bedfordshire",Luton,Eastern England,51.8797,-0.417558,gb
 loc-05a7233b261e6da1,"Mountnessing, Brentwood",Mountnessing,Eastern England,51.644235,0.360188,gb
+loc-ebc136f6b7890704,"Nash Mills, Hemel Hempstead",Nash Mills,Eastern England,51.76249,-0.441007,gb
 loc-ec53acd9e4a85bbe,"Nazeing, Waltham Abbey",Nazeing,Eastern England,51.749527,0.069028,gb
 loc-d3470e850b00cf1f,"Nine Ashes, Ingatestone",Nine Ashes,Eastern England,51.689162,0.30449,gb
 loc-26c990acbae3e50d,"Norfolk, Eastern England",Norfolk,Eastern England,52.675334,1.049377,gb
@@ -1026,7 +1032,7 @@ loc-b29bb48510844d56,"Pentonville, North London",Pentonville,London,51.52517,-0.
 loc-01b4528ab1a58331,"Petts Wood, Orpington",Petts Wood,London,51.384131,0.077425,gb
 loc-e8a93105899e3fe5,"Piccadilly, West London",Piccadilly,London,51.511351,-0.137679,gb
 loc-496a9afd651a67f0,"Pimlico, South West London",Pimlico,London,51.489086,-0.139816,gb
-loc-5304cd265b2212d5,"Poplar, East London",Poplar,London,51.500732,-0.01655,gb
+loc-5304cd265b2212d5,"Poplar, East London",Poplar,London,51.504622,-0.016295,gb
 loc-b4dfea9f91dd0c8a,"Putney, South West London",Putney,London,51.462601,-0.216308,gb
 loc-621e4d82a7ca6d42,"Richmond, West London",Richmond,London,51.458503,-0.306722,gb
 loc-db2c745a11d396cf,"Shoreditch, East London",Shoreditch,London,51.527135,-0.08146,gb
@@ -1054,6 +1060,7 @@ loc-fc8da9597428149f,"Teddington, South West London",Teddington,London,51.426934
 loc-ada7de66e1b34917,"The City, Central London",The City,London,51.511751,-0.089831,gb
 loc-98ae08bbcf80723d,"Theatreland, Central London",Theatreland,London,51.512769,-0.129536,gb
 loc-17f87593da093542,"Tower Bridge, East London",Tower Bridge,London,51.504176,-0.079744,gb
+loc-80c1b3e5e076c009,"Tower Hill, Central London",Tower Hill,London,51.509939,-0.073608,gb
 loc-fe4235e43bdaf23a,"Tufnell Park, North London",Tufnell Park,London,51.550158,-0.134551,gb
 loc-805a0479a1055aed,"Turnpike Lane, North London",Turnpike Lane,London,51.581519,-0.105915,gb
 loc-9b677fe62d26e2d1,"Uxbridge, London",Uxbridge,London,51.546398,-0.476722,gb
@@ -1176,6 +1183,7 @@ loc-e4525cf014ae9eaf,"Oldham, Greater Manchester",Oldham,North West England,53.5
 loc-37e3962b5601a863,"Padiham, Burnley",Padiham,North West England,53.798801,-2.305057,gb
 loc-6ee3d95f3a1bcfca,"Page Moss, Liverpool",Page Moss,North West England,53.420639,-2.856312,gb
 loc-34144a214aeb26ef,"Pendlebury, Swinton",Pendlebury,North West England,53.511202,-2.333807,gb
+loc-a017f99c33f8378b,"Penwortham, Preston",Penwortham,North West England,53.758495,-2.701628,gb
 loc-8a90089c9bb08e72,"Preston, Lancashire",Preston,North West England,53.757702,-2.70344,gb
 loc-3ab054f56d177164,"Risley, Warrington",Risley,North West England,53.431999,-2.52683,gb
 loc-cd242806ae8fe2c9,"Rochdale, Greater Manchester",Rochdale,North West England,53.616402,-2.15871,gb
@@ -1222,7 +1230,7 @@ loc-fecf08295b1df258,"Magherafelt, Northern Ireland",Magherafelt,Northern Irelan
 loc-62cc0c8bb0fb2727,"Magheralin, Craigavon",Magheralin,Northern Ireland,54.4674,-6.26137,gb
 loc-c21e7cc97a28feeb,"Newtownabbey, County Antrim",Newtownabbey,Northern Ireland,54.727512,-5.997899,gb
 loc-028688f5a5d8b44f,"Newtownards, Ards",Newtownards,Northern Ireland,54.595001,-5.70311,gb
-loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.593421,-5.928082,gb
+loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.594085,-5.928575,gb
 loc-5261a14d773df4cb,"Randalstown, Antrim",Randalstown,Northern Ireland,54.748901,-6.3156,gb
 loc-cda98908c909fa14,"Saintfield, Ballynahinch",Saintfield,Northern Ireland,54.460899,-5.82512,gb
 loc-d47b1e2fad2636cf,"Stranmillis, Belfast",Stranmillis,Northern Ireland,54.570202,-5.93829,gb
@@ -1319,6 +1327,7 @@ loc-56d50431aeebb9e7,"Crawley, West Sussex",Crawley,South East England,51.1133,-
 loc-c761b6f5adbb1aa7,"Crownhill, Milton Keynes",Crownhill,South East England,52.032628,-0.802219,gb
 loc-0cbccef746887561,"Dartford, Kent",Dartford,South East England,51.443901,0.219727,gb
 loc-5e832a06bef75390,"Datchet, Slough",Datchet,South East England,51.484004,-0.569945,gb
+loc-57a190fec74a668f,"Denham, Buckinghamshire",Denham,South East England,51.5672,-0.502403,gb
 loc-36fa71fb6ad6cda2,"Denner Hill, Great Missenden",Denner Hill,South East England,51.695036,-0.75335,gb
 loc-f6144810be8925b5,"Didcot, Oxfordshire",Didcot,South East England,51.606201,-1.24021,gb
 loc-cc7969eff68a66fc,"Ditton, Aylesford",Ditton,South East England,51.304454,0.458753,gb
@@ -1581,6 +1590,7 @@ loc-58f705beadd99693,"Bubbenhall, Warwickshire",Bubbenhall,West Midlands,52.3728
 loc-a1492d2f4e95454e,"Burton Green, Kenilworth",Burton Green,West Midlands,52.387267,-1.576878,gb
 loc-2d1e73db3e6a3110,"Burton-On-Trent, Staffordshire",Burton-On-Trent,West Midlands,52.8069,-1.64303,gb
 loc-f8a0021bdc7f9469,"Castle Bromwich, Birmingham",Castle Bromwich,West Midlands,52.505501,-1.7832,gb
+loc-312c953273072d25,"Catherine-De-Barnes, Solihull",Catherine-De-Barnes,West Midlands,52.417126,-1.774366,gb
 loc-5a506482a5f19c44,"Central Park, Telford",Central Park,West Midlands,52.680874,-2.44409,gb
 loc-b2e35a4e08461461,"Chasetown, Burntwood",Chasetown,West Midlands,52.67653,-1.938475,gb
 loc-c7894908fbdb01ef,"Cheadle, Stoke-On-Trent",Cheadle,West Midlands,52.9884,-1.98739,gb
