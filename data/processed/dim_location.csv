@@ -25,7 +25,7 @@ loc-a1c16e17cec75246,"Ittigen, Bern-Mittelland",Ittigen,Kanton Bern,46.976801,7.
 loc-acd7f80c269ffafc,"Kanton Bern, Schweiz",Kanton Bern,Kanton Bern,,,ch
 loc-924f976a48cdb822,"Kehrsatz, Bern-Mittelland",Kehrsatz,Kanton Bern,46.896738,7.469239,ch
 loc-3f760159a0975257,"Köniz, Bern-Mittelland",Köniz,Kanton Bern,46.929531,7.416345,ch
-loc-7d7cf3bf32901bf2,"Muri bei Bern, Bern-Mittelland",Muri bei Bern,Kanton Bern,46.930139,7.487483,ch
+loc-7d7cf3bf32901bf2,"Muri bei Bern, Bern-Mittelland",Muri bei Bern,Kanton Bern,46.938336,7.476958,ch
 loc-091c933483d8929d,"Oberaargau, Kanton Bern",Oberaargau,Kanton Bern,47.36054,7.82921,ch
 loc-c69b1d16eed4fdcc,"Ostermundigen, Bern-Mittelland",Ostermundigen,Kanton Bern,46.956113,7.482843,ch
 loc-6f6a1a121a9c593e,"Bulle, Greyerz",Bulle,Kanton Freiburg,46.617991,7.057158,ch
@@ -629,6 +629,7 @@ loc-9fb90c437bc605f2,"Córdoba, Andalucía",Córdoba,Andalucía,37.8882,-4.7794,
 loc-1b654f662e2c4834,"El Ejido, Almería",El Ejido,Andalucía,36.774063,-2.815304,es
 loc-41fde1737f1f105d,Granada,Granada,Andalucía,37.181518,-3.60377,es
 loc-33bf0f7a34cb242a,"Huelva, Andalucía",Huelva,Andalucía,37.2614,-6.9447,es
+loc-e8d7c9533c9579d4,Huelva,Huelva,Andalucía,37.243659,-6.977356,es
 loc-a5e42f4c2648bf3f,"Jaén, Andalucía",Jaén,Andalucía,37.7796,-3.7849,es
 loc-16d8acd538864563,"Maracena, Granada",Maracena,Andalucía,37.201944,-3.627508,es
 loc-ed04da943b7ca63b,"Marbella, Málaga",Marbella,Andalucía,36.508976,-4.88562,es
@@ -660,6 +661,7 @@ loc-293fadfbfa954433,Guadalajara,Guadalajara,Castilla-La Mancha,40.632813,-3.166
 loc-43c0c9adde722cae,"Guadalajara, Castilla-La Mancha",Guadalajara,Castilla-La Mancha,40.6325,-3.1602,es
 loc-cbab1cb5c0f85bae,"Illescas, Toledo",Illescas,Castilla-La Mancha,40.126281,-3.84899,es
 loc-83b150d43c14fb47,"Las Valeras, Cuenca",Las Valeras,Castilla-La Mancha,39.812475,-2.147272,es
+loc-3c4e281a985650f3,"Motilla del Palancar, Cuenca",Motilla del Palancar,Castilla-La Mancha,39.559429,-1.908849,es
 loc-3da9ceb69b3f636c,"Portillo de Toledo, Toledo",Portillo de Toledo,Castilla-La Mancha,40.062888,-4.228913,es
 loc-a04208374e8aff9d,"Toledo, Castilla-La Mancha",Toledo,Castilla-La Mancha,39.8628,-4.0273,es
 loc-edf30a7a3e4fb2a3,Toledo,Toledo,Castilla-La Mancha,39.858391,-4.020092,es
@@ -680,7 +682,7 @@ loc-1b9326ae471dde65,"L'Hospitalet de Llobregat, Barcelona",L'Hospitalet de Llob
 loc-36cf05fc4090a919,"La Roca del Vallès, Barcelona",La Roca del Vallès,Cataluña,41.584124,2.323285,es
 loc-1cc8481d9ed4a10c,"Lleida, Cataluña",Lleida,Cataluña,,,es
 loc-6f40fa4ac9d37171,Lleida,Lleida,Cataluña,41.606568,0.638021,es
-loc-8ef2dfc52b147be9,"Manresa, Barcelona",Manresa,Cataluña,41.735708,1.823085,es
+loc-8ef2dfc52b147be9,"Manresa, Barcelona",Manresa,Cataluña,41.721996,1.82721,es
 loc-851a2b2742fb46e7,"Miralcamp, Lleida",Miralcamp,Cataluña,41.604194,0.878716,es
 loc-105af6afaaeac373,"Mollet del Vallès, Barcelona",Mollet del Vallès,Cataluña,41.539246,2.213491,es
 loc-05abf7211fae6677,"Mont-ral, Tarragona",Mont-ral,Cataluña,,,es
@@ -767,6 +769,7 @@ loc-da7e65f317fb70b8,"Bilbao, Vizcaya",Bilbao,País Vasco,43.263227,-2.927,es
 loc-e510a620822998a9,"Derio, Vizcaya",Derio,País Vasco,43.273144,-2.885893,es
 loc-11105e391b1a8701,"Getxo, Vizcaya",Getxo,País Vasco,43.347941,-3.008767,es
 loc-d6b404635f1ccea5,"Ibarra, Guipúzcoa",Ibarra,País Vasco,43.1302,-2.059409,es
+loc-73dfc4be6e8c26ea,"Laudio/Llodio, Álava",Laudio/Llodio,País Vasco,43.142519,-2.962565,es
 loc-f9a9935eb0b5405b,"País Vasco, España",País Vasco,País Vasco,42.9896,-2.6189,es
 loc-3fd647547f48e037,"Portugalete, Vizcaya",Portugalete,País Vasco,43.328313,-3.010835,es
 loc-d5a2e106d0d74cf6,"Tolosa, Guipúzcoa",Tolosa,País Vasco,43.138297,-2.071703,es
@@ -786,7 +789,7 @@ loc-57529b484d619c80,"Guernsey, Channel Isles",Guernsey,Channel Isles,49.4752,-2
 loc-3eed7575a34ffb04,"Alfreton, Derbyshire",Alfreton,East Midlands,53.0975,-1.38404,gb
 loc-9688299da6f6f842,"Annesley Woodhouse, Kirkby-In-Ashfield",Annesley Woodhouse,East Midlands,53.067965,-1.251956,gb
 loc-a4f4683a8b86fab9,"Beeston, Nottingham",Beeston,East Midlands,52.9254,-1.21297,gb
-loc-650a3ae08b958c9a,"Belgrave, Leicester",Belgrave,East Midlands,52.63137,-1.12634,gb
+loc-650a3ae08b958c9a,"Belgrave, Leicester",Belgrave,East Midlands,52.633577,-1.13299,gb
 loc-e40a191e004da60b,"Bestwood Village, Nottingham",Bestwood Village,East Midlands,53.02692,-1.186201,gb
 loc-5ad7c5c7ee99a1c9,"Bilsthorpe, Newark",Bilsthorpe,East Midlands,53.147794,-1.027397,gb
 loc-6e5f5c1bad987d56,"Birstall, Leicester",Birstall,East Midlands,52.674936,-1.105846,gb
@@ -1035,7 +1038,7 @@ loc-1293e849ce66ebde,"Knightsbridge, South West London",Knightsbridge,London,51.
 loc-7068b6b558197a22,"Lea Bridge, East London",Lea Bridge,London,51.569302,-0.027842,gb
 loc-2e52c7f8c9afcb91,"Leamouth, East London",Leamouth,London,51.501571,0.005531,gb
 loc-5ab3922e0812c356,"Leyton, East London",Leyton,London,51.560212,-0.011886,gb
-loc-6832699ee5d1be26,"Liverpool Street, Central London",Liverpool Street,London,51.515434,-0.082989,gb
+loc-6832699ee5d1be26,"Liverpool Street, Central London",Liverpool Street,London,51.514205,-0.084785,gb
 loc-a297889e3d16bdb9,"London, UK",London,London,51.503378,-0.139134,gb
 loc-e974f06a5ee98bc7,"London Fields, East London",London Fields,London,51.5355,-0.060243,gb
 loc-622a664352096c66,"Marylebone, North West London",Marylebone,London,51.521209,-0.15998,gb
@@ -1472,6 +1475,7 @@ loc-5808666e8744e907,"Whiteley, Fareham",Whiteley,South East England,50.876932,-
 loc-14cdf5af2538b1c5,"Willesborough, Ashford",Willesborough,South East England,51.147164,0.875883,gb
 loc-549e85b82183f6a5,"Winchester, Hampshire",Winchester,South East England,51.062901,-1.3165,gb
 loc-538edd1768d7fb37,"Windsor, Windsor & Maidenhead",Windsor,South East England,,,gb
+loc-affb0f6581677473,"Windsor Castle, Windsor",Windsor Castle,South East England,51.480187,-0.608414,gb
 loc-aaa24f3b2df4b795,"Winnersh, Wokingham",Winnersh,South East England,51.436812,-0.883662,gb
 loc-67519e51950e1df0,"Woking, Surrey",Woking,South East England,51.316799,-0.55908,gb
 loc-2f5dec50cd58c917,"Wolverton Mill, Milton Keynes",Wolverton Mill,South East England,52.068011,-0.842016,gb
@@ -1482,7 +1486,7 @@ loc-fc327361e3cd85da,"Wraysbury, Staines",Wraysbury,South East England,51.432883
 loc-64f8b166f1fb14da,"Wytham, Oxford",Wytham,South East England,51.78214,-1.325384,gb
 loc-aea6b503b9307404,"Arlingham, Gloucester",Arlingham,South West England,51.792799,-2.412156,gb
 loc-e45afffad5d87bd7,"Barcelona, Looe",Barcelona,South West England,50.354698,-4.50336,gb
-loc-863f81a819c745a7,"Barnwood, Gloucester",Barnwood,South West England,51.86739,-2.197179,gb
+loc-863f81a819c745a7,"Barnwood, Gloucester",Barnwood,South West England,51.863499,-2.2019,gb
 loc-74ff497e23a7e143,"Bath, Bath & N E Somerset",Bath,South West England,51.3811,-2.35862,gb
 loc-81b3f56cd0d866d5,"Birchwood, Chard",Birchwood,South West England,50.921101,-3.08184,gb
 loc-f0da456bec2caa40,"Bolham, Tiverton",Bolham,South West England,50.922329,-3.491804,gb
@@ -1551,7 +1555,7 @@ loc-8ff57ce3336221c0,"St. Augustines, Bristol",St. Augustines,South West England
 loc-fb872b5313e7ef7b,"Stanley, Chippenham",Stanley,South West England,51.448252,-2.060621,gb
 loc-222da67e43c86168,"Stapleton, Bristol",Stapleton,South West England,51.500211,-2.547491,gb
 loc-98077dcd1b6fa0f7,"Staverton Technology Park, Staverton",Staverton Technology Park,South West England,51.897497,-2.170934,gb
-loc-0c370f2bfde4edfd,"Stoke Gifford, Bristol",Stoke Gifford,South West England,51.508225,-2.548826,gb
+loc-0c370f2bfde4edfd,"Stoke Gifford, Bristol",Stoke Gifford,South West England,51.519199,-2.55023,gb
 loc-99659dd0014b686b,"Stonehouse, Gloucestershire",Stonehouse,South West England,51.745899,-2.28245,gb
 loc-dfe3ccfc62220669,"Stonehouse, Plymouth",Stonehouse,South West England,50.368123,-4.146512,gb
 loc-c2e52d035e049dd3,"Stoney Stratton, Shepton Mallet",Stoney Stratton,South West England,51.164963,-2.503787,gb
