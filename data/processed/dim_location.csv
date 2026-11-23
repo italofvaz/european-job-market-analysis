@@ -27,7 +27,7 @@ loc-924f976a48cdb822,"Kehrsatz, Bern-Mittelland",Kehrsatz,Kanton Bern,46.896738,
 loc-3f760159a0975257,"Köniz, Bern-Mittelland",Köniz,Kanton Bern,46.929531,7.416345,ch
 loc-7d7cf3bf32901bf2,"Muri bei Bern, Bern-Mittelland",Muri bei Bern,Kanton Bern,46.938336,7.476958,ch
 loc-091c933483d8929d,"Oberaargau, Kanton Bern",Oberaargau,Kanton Bern,47.36054,7.82921,ch
-loc-c69b1d16eed4fdcc,"Ostermundigen, Bern-Mittelland",Ostermundigen,Kanton Bern,46.956113,7.482843,ch
+loc-c69b1d16eed4fdcc,"Ostermundigen, Bern-Mittelland",Ostermundigen,Kanton Bern,46.945061,7.469654,ch
 loc-6f6a1a121a9c593e,"Bulle, Greyerz",Bulle,Kanton Freiburg,46.617991,7.057158,ch
 loc-9ac1f5681039293a,"Givisiez, Saane",Givisiez,Kanton Freiburg,46.811953,7.126335,ch
 loc-cf9f53f53d6687ad,"Villars-sur-Glâne, Saane",Villars-sur-Glâne,Kanton Freiburg,46.793891,7.126898,ch
@@ -65,6 +65,7 @@ loc-f54e39b19aad539b,Solothurn,Solothurn,Kanton Solothurn,47.209499,7.532975,ch
 loc-5df9465134275bd6,"Altstätten, Rheintal",Altstätten,Kanton St.Gallen,47.377894,9.539833,ch
 loc-9c602485c08c7db6,"Buchs, Werdenberg",Buchs,Kanton St.Gallen,47.162763,9.476409,ch
 loc-5dac5e1dad1d7ec4,"Sankt Gallen, St. Gallen",Sankt Gallen,Kanton St.Gallen,,,ch
+loc-88d50bb45f77c70a,"Sennwald, Werdenberg",Sennwald,Kanton St.Gallen,47.212245,9.493759,ch
 loc-bd48e671e7613e72,Bellinzona,Bellinzona,Kanton Tessin,46.19119,9.033526,ch
 loc-f7cfe1f749b412e4,"Bioggio, Lugano",Bioggio,Kanton Tessin,46.015093,8.907052,ch
 loc-4419144bfae2b032,"Chiasso, Mendrisio",Chiasso,Kanton Tessin,45.834287,9.029718,ch
@@ -230,6 +231,7 @@ loc-1899e34803471ec5,"Doos, Nürnberg",Doos,Bayern,49.46381,11.01935,de
 loc-dbdc5f1bfb5eb4c0,"Eibach, Nürnberg",Eibach,Bayern,49.40105,11.03969,de
 loc-0a00ece421815134,"Erlangen, Bayern",Erlangen,Bayern,49.577521,10.984506,de
 loc-9fa84078217692f2,"Feldmoching-Hasenbergl, München",Feldmoching-Hasenbergl,Bayern,48.21326,11.55643,de
+loc-65824838b6db0973,"Forchheim, Forchheim (Kreis)",Forchheim,Bayern,49.71987,11.0584,de
 loc-5e722ef30077ec3a,"Frauenland, Würzburg",Frauenland,Bayern,49.78442,9.93882,de
 loc-3acbb761c84e763b,"Fürth (Kreis), Bayern",Fürth (Kreis),Bayern,49.470563,10.8701,de
 loc-7ae6f34866f0b631,"Galgenhof, Nürnberg",Galgenhof,Bayern,49.44312,11.08526,de
@@ -371,6 +373,7 @@ loc-b585855a6b3f7ecc,"Harleshausen, Kassel",Harleshausen,Hessen,51.33319,9.44761
 loc-a7533688071859b2,"Hattersheim am Main, Main-Taunus-Kreis",Hattersheim am Main,Hessen,50.06929,8.48668,de
 loc-bfc1ce0b22a30daf,"Herborn, Lahn-Dill-Kreis",Herborn,Hessen,50.68471,8.30251,de
 loc-33522c3dad87c7ab,"Hof Mondschirm, Kassel (Kreis)",Hof Mondschirm,Hessen,51.36201,9.46462,de
+loc-c73cfed589f12e61,"Homberg (Efze), Schwalm-Eder-Kreis",Homberg (Efze),Hessen,51.03338,9.40541,de
 loc-547f2a64ce6abdfd,"Höchst, Frankfurt am Main",Höchst,Hessen,50.09957,8.54038,de
 loc-f91fba5ee3df938f,"Idstein, Rheingau-Taunus-Kreis",Idstein,Hessen,50.25855,8.35292,de
 loc-57cf14a88d9acbb4,"Kalbach, Frankfurt am Main",Kalbach,Hessen,50.18595,8.65012,de
@@ -460,6 +463,7 @@ loc-5f6c04c9332e2816,"Bedingrade, Essen",Bedingrade,Nordrhein-Westfalen,51.47071
 loc-f9244a1f106ffb83,"Benninghofen, Dortmund",Benninghofen,Nordrhein-Westfalen,51.47498,7.51013,de
 loc-21594cbe3b7a0ac4,"Bergheim, Duisburg",Bergheim,Nordrhein-Westfalen,51.41007,6.68511,de
 loc-cef581651fb7f7ee,"Bergheim, Troisdorf",Bergheim,Nordrhein-Westfalen,50.77497,7.09231,de
+loc-f58343e670c7b79e,"Bermensfeld, Oberhausen",Bermensfeld,Nordrhein-Westfalen,51.47602,6.88631,de
 loc-4fbcb3f2b0c88acc,"Bettrath, Mönchengladbach",Bettrath,Nordrhein-Westfalen,51.22197,6.4426,de
 loc-b7e3ad71f2f11593,"Beuel, Bonn",Beuel,Nordrhein-Westfalen,50.73571,7.12093,de
 loc-49b64bef6800df69,"Bickendorf, Köln",Bickendorf,Nordrhein-Westfalen,50.95778,6.90002,de
@@ -504,6 +508,7 @@ loc-e63fa44035031b91,"Hürth, Rhein-Erft-Kreis",Hürth,Nordrhein-Westfalen,50.87
 loc-ce792662deaf57db,"Innenstadt, Bochum",Innenstadt,Nordrhein-Westfalen,51.48218,7.22121,de
 loc-fd58463ce9524250,"Innenstadt, Bielefeld",Innenstadt,Nordrhein-Westfalen,52.0225,8.53697,de
 loc-c24a738a097fc407,"Iserlohn, Märkischer Kreis",Iserlohn,Nordrhein-Westfalen,51.380321,7.672955,de
+loc-f282f218f4286549,"Krefeld, Nordrhein-Westfalen",Krefeld,Nordrhein-Westfalen,51.342965,6.578442,de
 loc-762b3d6b9405de0b,"Köln, Nordrhein-Westfalen",Köln,Nordrhein-Westfalen,50.940164,6.969972,de
 loc-3610bd7c54e75922,"Küppersteg, Leverkusen",Küppersteg,Nordrhein-Westfalen,51.01614,7.00414,de
 loc-ce86edbee7122d78,"Langenfeld (Rheinland), Mettmann (Kreis)",Langenfeld (Rheinland),Nordrhein-Westfalen,51.10245,6.94712,de
@@ -522,6 +527,7 @@ loc-d3e6c967c2ced1a1,"Mülheim an der Ruhr, Nordrhein-Westfalen",Mülheim an der
 loc-936f3362bc10592e,"Münster, Nordrhein-Westfalen",Münster,Nordrhein-Westfalen,51.955292,7.621504,de
 loc-bcdd6a37878e288f,"Nordlünen, Lünen",Nordlünen,Nordrhein-Westfalen,51.62931,7.52301,de
 loc-24c8f08867b36192,"Nordrhein-Westfalen, Deutschland",Nordrhein-Westfalen,Nordrhein-Westfalen,51.406213,7.331769,de
+loc-563941dd484a5227,"Oberhausen, Nordrhein-Westfalen",Oberhausen,Nordrhein-Westfalen,51.497588,6.856883,de
 loc-45e12d28e71c15e9,"Ostbevern, Warendorf (Kreis)",Ostbevern,Nordrhein-Westfalen,52.03611,7.83944,de
 loc-d028622ac2c9042d,"Paderborn, Paderborn (Kreis)",Paderborn,Nordrhein-Westfalen,51.737096,8.753842,de
 loc-e84afc0a7888a82a,"Pempelfort, Düsseldorf",Pempelfort,Nordrhein-Westfalen,51.23696,6.78731,de
@@ -539,6 +545,7 @@ loc-26461ef5e7b7948b,"Unterbach, Düsseldorf",Unterbach,Nordrhein-Westfalen,51.2
 loc-2976fdd74f238918,"Verl, Gütersloh (Kreis)",Verl,Nordrhein-Westfalen,51.88209,8.5107,de
 loc-3fe3cfd081399570,"Walheim, Aachen",Walheim,Nordrhein-Westfalen,50.70724,6.18254,de
 loc-2d932d5096b450a9,"Weeze, Kleve (Kreis)",Weeze,Nordrhein-Westfalen,51.62819,6.20014,de
+loc-571fd2a0a6de37c4,"Wegberg, Heinsberg (Kreis)",Wegberg,Nordrhein-Westfalen,51.14304,6.27878,de
 loc-7069c32ecc9cb04d,"Wickede, Dortmund",Wickede,Nordrhein-Westfalen,51.53209,7.60902,de
 loc-5cb17580f030dbb1,"Wickede (Ruhr), Soest (Kreis)",Wickede (Ruhr),Nordrhein-Westfalen,51.49406,7.86906,de
 loc-4445a8abe3a5800f,"Wietesch/Schleupe, Rheine",Wietesch/Schleupe,Nordrhein-Westfalen,52.28585,7.42524,de
@@ -551,6 +558,7 @@ loc-733cdc79cdfd73dd,"Angelhof I und II, Speyer (Kreis)",Angelhof I und II,Rhein
 loc-a237b6bcc89047f2,"Bad Neuenahr-Ahrweiler, Ahrweiler (Kreis)",Bad Neuenahr-Ahrweiler,Rheinland-Pfalz,50.57527,7.08507,de
 loc-543e7ad9367221c0,"Bingen am Rhein, Mainz-Bingen (Kreis)",Bingen am Rhein,Rheinland-Pfalz,49.94739,7.89634,de
 loc-a3b21e167dda3729,"Breitenau, Kaiserslautern (Kreis)",Breitenau,Rheinland-Pfalz,49.38667,7.7003,de
+loc-f5c69bfc10d55820,"Filsch, Trier",Filsch,Rheinland-Pfalz,49.7365,6.70375,de
 loc-210fb50e5f240283,"Friesenheim/Nord, Ludwigshafen am Rhein",Friesenheim/Nord,Rheinland-Pfalz,49.50109,8.30861,de
 loc-44ee863d72217bd7,"Gonsenheim, Mainz",Gonsenheim,Rheinland-Pfalz,50.00262,8.19851,de
 loc-948f53862ed00804,"Haardt, Neustadt an der Weinstraße",Haardt,Rheinland-Pfalz,49.36603,8.13833,de
@@ -1217,6 +1225,7 @@ loc-cd242806ae8fe2c9,"Rochdale, Greater Manchester",Rochdale,North West England,
 loc-447744f1f6696c6f,"Rusholme, Manchester",Rusholme,North West England,53.459145,-2.220609,gb
 loc-b29467b293419520,"Salford, Greater Manchester",Salford,North West England,53.487701,-2.29042,gb
 loc-bd9af691757db92b,"Shuttleworth, Ramsbottom",Shuttleworth,North West England,53.648397,-2.31701,gb
+loc-599f970d278eaea3,"Skelmersdale, Lancashire",Skelmersdale,North West England,53.5495,-2.7712,gb
 loc-9974b5592b584479,"Smallbridge, Rochdale",Smallbridge,North West England,53.622818,-2.140915,gb
 loc-299b97d5598f40bf,"Southport, Merseyside",Southport,North West England,53.647301,-3.00733,gb
 loc-3e9c87b92fd07eba,"Sproston, Crewe",Sproston,North West England,53.185009,-2.425595,gb
@@ -1293,6 +1302,7 @@ loc-d719c10ab7f336dd,"Hermiston, Currie",Hermiston,Scotland,55.909408,-3.3207,gb
 loc-6a973d97146585b9,"Hillhead, Glasgow City Centre",Hillhead,Scotland,55.861395,-4.259705,gb
 loc-de599fed3a258716,"Holytown, Motherwell",Holytown,Scotland,55.834245,-3.980153,gb
 loc-89690db933adb06c,"Irvine, North Ayrshire",Irvine,Scotland,55.615601,-4.66488,gb
+loc-e6e6c1e2b31079e6,"Larbert, Falkirk County",Larbert,Scotland,56.024899,-3.82828,gb
 loc-0e15768bde7cd310,"Leachkin, Inverness",Leachkin,Scotland,57.471199,-4.2751,gb
 loc-505c4f3f418d1d49,"Motherwell, North Lanarkshire",Motherwell,Scotland,55.789101,-3.99546,gb
 loc-06d042651fa10eca,"New Stevenston, Motherwell",New Stevenston,Scotland,55.791931,-3.987113,gb
@@ -1726,6 +1736,7 @@ loc-df4628696d94695e,"Bradford, West Yorkshire",Bradford,Yorkshire And The Humbe
 loc-887570c79828d537,"Buttershaw, Bradford",Buttershaw,Yorkshire And The Humber,53.764717,-1.785962,gb
 loc-247c6d209a2711f6,"Carleton, Pontefract",Carleton,Yorkshire And The Humber,53.685767,-1.300525,gb
 loc-ba1ac42253e80be4,"Carleton, Skipton",Carleton,Yorkshire And The Humber,53.957718,-2.025887,gb
+loc-e5eb7e94c815e9ad,"Carr Gate, Wakefield",Carr Gate,Yorkshire And The Humber,53.709868,-1.521508,gb
 loc-f92996942452579a,"Churwell, Morley",Churwell,Yorkshire And The Humber,53.762228,-1.5776,gb
 loc-1b54f19f4a3d4f6d,"Colton, Leeds",Colton,Yorkshire And The Humber,53.798629,-1.427978,gb
 loc-c1c74a0a1dc14d75,"Cutler Heights, Bradford",Cutler Heights,Yorkshire And The Humber,53.78043,-1.715408,gb
@@ -1781,6 +1792,7 @@ loc-ed8bf03941e60fd4,"Shipley, West Yorkshire",Shipley,Yorkshire And The Humber,
 loc-f3b7844aed36d5c0,"South Yorkshire, Yorkshire And The Humber",South Yorkshire,Yorkshire And The Humber,53.480896,-1.276044,gb
 loc-697c6e0fda555d40,"Stutton, Tadcaster",Stutton,Yorkshire And The Humber,53.882434,-1.266114,gb
 loc-1411eea2e868934d,"Swillington Common, Leeds",Swillington Common,Yorkshire And The Humber,53.796825,-1.4265,gb
+loc-31d4174aebadd9b4,"Temple Hirst, Selby",Temple Hirst,Yorkshire And The Humber,53.717701,-1.08402,gb
 loc-7d0703a2438ffde1,"Thirsk, North Yorkshire",Thirsk,Yorkshire And The Humber,54.232498,-1.34285,gb
 loc-226c8df8305b6116,"Tingley, Wakefield",Tingley,Yorkshire And The Humber,53.723803,-1.567406,gb
 loc-1b4a75db7fa89016,"Tinsley, Sheffield",Tinsley,Yorkshire And The Humber,53.407127,-1.432805,gb
