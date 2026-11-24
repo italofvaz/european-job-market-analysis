@@ -12,7 +12,7 @@ loc-b8015eeff2e3d42f,"Allschwil, Arlesheim",Allschwil,Kanton Basel-Landschaft,47
 loc-a51226f56e9bec7b,Arlesheim,Arlesheim,Kanton Basel-Landschaft,47.49383,7.620251,ch
 loc-674e2a39daa0fd3b,"Lausen, Liestal",Lausen,Kanton Basel-Landschaft,47.47138,7.759397,ch
 loc-737665ee69c846eb,Liestal,Liestal,Kanton Basel-Landschaft,47.482792,7.735813,ch
-loc-6cf190936624fda5,"Basel, Basel-Stadt",Basel,Kanton Basel-Stadt,47.555755,7.588766,ch
+loc-6cf190936624fda5,"Basel, Basel-Stadt",Basel,Kanton Basel-Stadt,47.554815,7.586943,ch
 loc-f3a97d2a63609c14,"Beatenberg, Interlaken-Oberhasli",Beatenberg,Kanton Bern,46.687062,7.796072,ch
 loc-81bd2e1b32565683,"Bern, Bern-Mittelland",Bern,Kanton Bern,46.946903,7.423645,ch
 loc-436a2e03039a28ed,"Biel, Kanton Bern",Biel,Kanton Bern,,,ch
@@ -48,6 +48,7 @@ loc-c8ca7c21ece557e9,"Le Noirmont, Franches-Montagnes",Le Noirmont,Kanton Jura,4
 loc-a1fed004b505e331,"Dagmersellen, Willisau",Dagmersellen,Kanton Luzern,47.216902,7.984184,ch
 loc-8ab3342dc355b85b,"Emmen, Hochdorf",Emmen,Kanton Luzern,47.071441,8.285615,ch
 loc-c90667f75bb1e610,"Kriens, Luzern-Land",Kriens,Kanton Luzern,47.056566,8.303987,ch
+loc-f295babd7d9341dc,"Luzern, Luzern-Stadt",Luzern,Kanton Luzern,47.063709,8.2788,ch
 loc-de668ba65980e429,"Rothenburg, Hochdorf",Rothenburg,Kanton Luzern,47.093605,8.271569,ch
 loc-b07cd02c8ef55a1a,"Sursee, Kanton Luzern",Sursee,Kanton Luzern,47.24386,8.08336,ch
 loc-41e993236e836746,"Kanton Neuenburg, Schweiz",Kanton Neuenburg,Kanton Neuenburg,,,ch
@@ -359,6 +360,7 @@ loc-9a34cbec1f711b3f,"Darmstadt, Hessen",Darmstadt,Hessen,49.877672,8.656595,de
 loc-7378ec05bd3034ce,"Dillenburg, Lahn-Dill-Kreis",Dillenburg,Hessen,50.74053,8.28354,de
 loc-575662f68cbfba42,"Dornbusch, Frankfurt am Main",Dornbusch,Hessen,50.14805,8.66599,de
 loc-be1fd3ab34958789,"Eschborn, Main-Taunus-Kreis",Eschborn,Hessen,50.14334,8.56908,de
+loc-f71694b14a02929f,"Eschwege, Werra-Meißner-Kreis",Eschwege,Hessen,51.21202,10.03565,de
 loc-a16c7b33bcb98a13,"Fasanenhof, Kassel",Fasanenhof,Hessen,51.33068,9.5086,de
 loc-00fb772aeb8ee29e,"Fechenheim, Frankfurt am Main",Fechenheim,Hessen,50.12595,8.76072,de
 loc-570d6bf75e3d0f9a,"Flughafen, Frankfurt am Main",Flughafen,Hessen,50.05078,8.56413,de
@@ -772,6 +774,7 @@ loc-1c18b08e33c21a60,"Las Palmas de Gran Canaria, Las Palmas",Las Palmas de Gran
 loc-4ab184369690f100,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Islas Canarias,28.462854,-16.247206,es
 loc-8474a1b2061ba959,"Santa Cruz de Tenerife, Islas Canarias",Santa Cruz de Tenerife,Islas Canarias,28.4636,-16.2518,es
 loc-ec367e04ba185c8c,"Arantzazu, Vizcaya",Arantzazu,País Vasco,43.156885,-2.791277,es
+loc-6aeaa95d358ce07b,"Arrasate/Mondragón, Guipúzcoa",Arrasate/Mondragón,País Vasco,43.065678,-2.490078,es
 loc-885ef874cc029b71,"Barakaldo, Vizcaya",Barakaldo,País Vasco,43.29548,-2.990093,es
 loc-da7e65f317fb70b8,"Bilbao, Vizcaya",Bilbao,País Vasco,43.263227,-2.927,es
 loc-e510a620822998a9,"Derio, Vizcaya",Derio,País Vasco,43.273144,-2.885893,es
@@ -797,7 +800,7 @@ loc-57529b484d619c80,"Guernsey, Channel Isles",Guernsey,Channel Isles,49.4752,-2
 loc-3eed7575a34ffb04,"Alfreton, Derbyshire",Alfreton,East Midlands,53.0975,-1.38404,gb
 loc-9688299da6f6f842,"Annesley Woodhouse, Kirkby-In-Ashfield",Annesley Woodhouse,East Midlands,53.067965,-1.251956,gb
 loc-a4f4683a8b86fab9,"Beeston, Nottingham",Beeston,East Midlands,52.9254,-1.21297,gb
-loc-650a3ae08b958c9a,"Belgrave, Leicester",Belgrave,East Midlands,52.633577,-1.13299,gb
+loc-650a3ae08b958c9a,"Belgrave, Leicester",Belgrave,East Midlands,52.63137,-1.12634,gb
 loc-e40a191e004da60b,"Bestwood Village, Nottingham",Bestwood Village,East Midlands,53.02692,-1.186201,gb
 loc-5ad7c5c7ee99a1c9,"Bilsthorpe, Newark",Bilsthorpe,East Midlands,53.147794,-1.027397,gb
 loc-6e5f5c1bad987d56,"Birstall, Leicester",Birstall,East Midlands,52.674936,-1.105846,gb
@@ -832,6 +835,7 @@ loc-dd0d9d037459ca56,"Leicester, Leicestershire",Leicester,East Midlands,52.6348
 loc-d0c64f615204b053,"Leicestershire, East Midlands",Leicestershire,East Midlands,52.64088,-1.083426,gb
 loc-452725e3e7dacd41,"Lenton, Nottingham",Lenton,East Midlands,52.941278,-1.174576,gb
 loc-6f27b4ea217b9c2e,"Lincoln, Lincolnshire",Lincoln,East Midlands,53.234901,-0.538436,gb
+loc-2c3e49b9a0398383,"Lincolnshire, East Midlands",Lincolnshire,East Midlands,53.126289,-0.277862,gb
 loc-c0d27de5978b9a95,"Little Oakley, Corby",Little Oakley,East Midlands,52.495418,-0.682204,gb
 loc-84fa4f142c2401a6,"Littleover, Derby",Littleover,East Midlands,52.910347,-1.513825,gb
 loc-f9f5d9de6edd17af,"Loughborough, Leicestershire",Loughborough,East Midlands,52.770802,-1.20435,gb
@@ -945,6 +949,7 @@ loc-897abc3161bc18a8,"Purdis Farm, Ipswich",Purdis Farm,Eastern England,52.02546
 loc-9192ad4a609e0c90,"Ramsey St. Marys, Ramsey",Ramsey St. Marys,Eastern England,52.478006,-0.161075,gb
 loc-6401a75e512d7d2a,"Ransomes Europark, Ipswich",Ransomes Europark,Eastern England,52.026455,1.213809,gb
 loc-5b8f1dfc5310ee7a,"Rayleigh, Essex",Rayleigh,Eastern England,51.585999,0.605291,gb
+loc-e8dbc7566b74933f,"Romford, Essex",Romford,Eastern England,51.5742,0.183871,gb
 loc-e984924d23250bcf,"Royston, Hertfordshire",Royston,Eastern England,52.048199,-0.024057,gb
 loc-cac9d850992dd280,"Sapley, Huntingdon",Sapley,Eastern England,52.348046,-0.189412,gb
 loc-93ce36b41ed6c8e9,"Severalls Industrial Park, Colchester",Severalls Industrial Park,Eastern England,51.923696,0.921452,gb
@@ -1195,6 +1200,7 @@ loc-e2fd72c43b610809,"Knowsley, Prescot",Knowsley,North West England,53.457001,-
 loc-fa9b1cb19a01e584,"Knowsley Park, Prescot",Knowsley Park,North West England,53.422872,-2.826516,gb
 loc-2ec24fd079a82fcf,"Knutsford, Cheshire",Knutsford,North West England,53.301102,-2.37271,gb
 loc-83df9b9fbdefcc81,"Lancashire, North West England",Lancashire,North West England,53.864322,-2.613864,gb
+loc-9b567e67eb8caf11,"Leyland, Lancashire",Leyland,North West England,53.696701,-2.69008,gb
 loc-fa8aabb031590145,"Liverpool, Merseyside",Liverpool,North West England,53.410801,-2.97784,gb
 loc-26cafd19b95e9855,"Lostock Hall, Preston",Lostock Hall,North West England,53.720617,-2.671376,gb
 loc-6b82e0e641010f44,"Low Hill, Liverpool",Low Hill,North West England,53.409334,-2.989748,gb
@@ -1268,7 +1274,7 @@ loc-62cc0c8bb0fb2727,"Magheralin, Craigavon",Magheralin,Northern Ireland,54.4674
 loc-6ceef63967771cc5,"Newcastle, County Down",Newcastle,Northern Ireland,54.208401,-5.89172,gb
 loc-c21e7cc97a28feeb,"Newtownabbey, County Antrim",Newtownabbey,Northern Ireland,54.727512,-5.997899,gb
 loc-028688f5a5d8b44f,"Newtownards, Ards",Newtownards,Northern Ireland,54.595001,-5.70311,gb
-loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.594085,-5.928575,gb
+loc-4d23abb03ccb76ad,"Ormeau, Belfast",Ormeau,Northern Ireland,54.604307,-5.927901,gb
 loc-5261a14d773df4cb,"Randalstown, Antrim",Randalstown,Northern Ireland,54.748901,-6.3156,gb
 loc-cda98908c909fa14,"Saintfield, Ballynahinch",Saintfield,Northern Ireland,54.460899,-5.82512,gb
 loc-d47b1e2fad2636cf,"Stranmillis, Belfast",Stranmillis,Northern Ireland,54.570202,-5.93829,gb
@@ -1404,6 +1410,7 @@ loc-7158130cf727f25a,"Hook, Hampshire",Hook,South East England,51.283901,-0.9595
 loc-2a504dc52a48c04d,"Hook Norton, Banbury",Hook Norton,South East England,51.995701,-1.48267,gb
 loc-ce25e69bb5dace01,"Horsell, Woking",Horsell,South East England,51.318091,-0.56208,gb
 loc-d63bc02ba57cf8a2,"Horsham, West Sussex",Horsham,South East England,51.063801,-0.327003,gb
+loc-34c1da988b512aa4,"Hove, East Sussex",Hove,South East England,50.835169,-0.177126,gb
 loc-dd1b36ebc151ff7b,"Hursley, Winchester",Hursley,South East England,51.025299,-1.39064,gb
 loc-1b7af353e63991bd,"Kennington, Ashford",Kennington,South East England,51.149893,0.868045,gb
 loc-95bb1140b1345e46,"Kent, South East England",Kent,South East England,51.247582,0.759211,gb
@@ -1544,6 +1551,7 @@ loc-5277beba21e78b2c,"Little Stoke, Bristol",Little Stoke,South West England,51.
 loc-4d0e4375ab225417,"Malmesbury, Wiltshire",Malmesbury,South West England,51.584801,-2.0996,gb
 loc-8fdcb9f5715e1cb4,"Middlemoor, Exeter",Middlemoor,South West England,50.72569,-3.467439,gb
 loc-0337261f3459d274,"Newent, Gloucestershire",Newent,South West England,51.930599,-2.40586,gb
+loc-cfd964280b1d2395,"Northville, Bristol",Northville,South West England,51.502836,-2.559063,gb
 loc-032a0865d39e2c2b,"Oakdale, Poole",Oakdale,South West England,50.740247,-1.977514,gb
 loc-72d9bc2a9879845a,"Oxenhall, Newent",Oxenhall,South West England,51.941739,-2.415098,gb
 loc-37ac10ad631d6eb5,"Parkstone, Poole",Parkstone,South West England,50.72522,-1.944877,gb
