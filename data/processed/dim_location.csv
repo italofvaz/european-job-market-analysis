@@ -527,6 +527,7 @@ loc-918871c9fd457e7e,"Lörick, Düsseldorf",Lörick,Nordrhein-Westfalen,51.24579
 loc-cab9104584656d5b,"Lübbecke, Minden-Lübbecke (Kreis)",Lübbecke,Nordrhein-Westfalen,52.30001,8.61836,de
 loc-2dfd75c44f43cacc,"Lünen, Unna (Kreis)",Lünen,Nordrhein-Westfalen,51.61574,7.53346,de
 loc-9a21f5cb83ae94dd,"Lünen-Süd, Lünen",Lünen-Süd,Nordrhein-Westfalen,51.5906,7.52939,de
+loc-5ed89284261ce1ee,"Minden, Minden-Lübbecke (Kreis)",Minden,Nordrhein-Westfalen,52.297838,8.904587,de
 loc-12f67795cb02f296,"Mitte, Mülheim an der Ruhr",Mitte,Nordrhein-Westfalen,51.43967,6.87276,de
 loc-187d571b78e597a9,"Mitte, Dortmund",Mitte,Nordrhein-Westfalen,51.50795,7.45081,de
 loc-ee5d4f06723957cc,"Monheim am Rhein, Mettmann (Kreis)",Monheim am Rhein,Nordrhein-Westfalen,51.09192,6.88881,de
@@ -1017,6 +1018,7 @@ loc-50a56381b25806de,"Catford, South East London",Catford,London,51.445076,-0.02
 loc-d8e26ea776cd413b,"Central London, London",Central London,London,51.51985,-0.11126,gb
 loc-a9ab92e3b86c4ecc,"Charing Cross, Central London",Charing Cross,London,51.507189,-0.126998,gb
 loc-1a4edbc5ee7cceb0,"Chelsea, South West London",Chelsea,London,51.484261,-0.181459,gb
+loc-7df64fe09dcbee5c,"Chiswick, West London",Chiswick,London,51.491244,-0.263832,gb
 loc-ca6da43c43b6842a,"Clapham Junction, South West London",Clapham Junction,London,51.465,-0.170524,gb
 loc-448750601ae96b69,"Clerkenwell, Central London",Clerkenwell,London,51.526556,-0.100571,gb
 loc-3bbb60ca17efdc65,"Colindale, North West London",Colindale,London,51.594757,-0.254103,gb
@@ -1037,7 +1039,7 @@ loc-7329e906f3dfdd8c,"Farringdon, Central London",Farringdon,London,51.523772,-0
 loc-bb857bf796c9fd51,"Fenchurch St, Central London",Fenchurch St,London,51.513144,-0.08261,gb
 loc-382784d103e60a14,"Finsbury, Central London",Finsbury,London,51.531512,-0.103407,gb
 loc-eba1f547ae037f18,"Finsbury Park, North London",Finsbury Park,London,51.565102,-0.097628,gb
-loc-9a57365a8f95e222,"Fitzrovia, West London",Fitzrovia,London,51.523991,-0.141402,gb
+loc-9a57365a8f95e222,"Fitzrovia, West London",Fitzrovia,London,51.522838,-0.151539,gb
 loc-7683e7b678c3d672,"Fleet Street, Central London",Fleet Street,London,51.513606,-0.108928,gb
 loc-992c71cd1fd5eccc,"Forest Hill, South East London",Forest Hill,London,51.44055,-0.053938,gb
 loc-3acaa73977cc90e8,"Friern Barnet, North London",Friern Barnet,London,51.615299,-0.145697,gb
@@ -1178,6 +1180,7 @@ loc-a57988a78a155474,"Broadbottom, Hyde",Broadbottom,North West England,53.44352
 loc-e631ee1ab22af16b,"Brooklands, Sale",Brooklands,North West England,53.417742,-2.313746,gb
 loc-2581db8c7ad96259,"Burnley, Lancashire",Burnley,North West England,53.7869,-2.24532,gb
 loc-5ee9fb9c579b36df,"Bury, Greater Manchester",Bury,North West England,53.593498,-2.29854,gb
+loc-b08bba34dc9b7e80,"Chadderton, Oldham",Chadderton,North West England,53.533102,-2.158314,gb
 loc-6e0efd48eed25ff5,"Cheadle, Greater Manchester",Cheadle,North West England,53.395699,-2.2039,gb
 loc-d9a2a7b2a03d1284,"Cheshire, North West England",Cheshire,North West England,53.206334,-2.612653,gb
 loc-b4b9b47ad4e7bc08,"Chester, Cheshire",Chester,North West England,53.191502,-2.89501,gb
@@ -1371,6 +1374,7 @@ loc-b0e5b9bedaa967cd,"Buckinghamshire, South East England",Buckinghamshire,South
 loc-cfcf13a73182861d,"Burford, Oxfordshire",Burford,South East England,51.807701,-1.63666,gb
 loc-2a44e3b7f6eb51ac,"Burgess Hill, West Sussex",Burgess Hill,South East England,50.9575,-0.133939,gb
 loc-d80661b119878774,"Burgh Heath, Tadworth",Burgh Heath,South East England,51.315583,-0.231746,gb
+loc-63d365e09cd2a716,"Burnham, Slough",Burnham,South East England,51.535087,-0.658963,gb
 loc-bd1d6d647786479d,"Calmore, Southampton",Calmore,South East England,50.930659,-1.528807,gb
 loc-a71c4a0f9b03e287,"Camberley, Surrey",Camberley,South East England,51.340199,-0.744399,gb
 loc-ae060a9636593edc,"Canterbury, Kent",Canterbury,South East England,51.277302,1.08052,gb
@@ -1505,6 +1509,7 @@ loc-6f6b11dbcac92f49,"Waterlooville, Hampshire",Waterlooville,South East England
 loc-241ac0812d4360a7,"Weavering, Maidstone",Weavering,South East England,51.273398,0.548094,gb
 loc-b72e3964be2d7519,"Welling, Kent",Welling,South East England,51.462601,0.106986,gb
 loc-e8421b33df936a9e,"West Malling, Kent",West Malling,South East England,51.294601,0.40888,gb
+loc-373875fc9083e8a0,"West Sussex, South East England",West Sussex,South East England,50.934212,-0.514944,gb
 loc-ee02d092e760dfef,"Westerham, Kent",Westerham,South East England,51.266602,0.069362,gb
 loc-d2a150a59c3582be,"Westfield, Hastings",Westfield,South East England,50.856038,0.580107,gb
 loc-eae9a93f0da811e2,"Weybridge, Surrey",Weybridge,South East England,51.372002,-0.4527,gb
@@ -1623,6 +1628,7 @@ loc-d4823c65f7fb3440,"Bodelwyddan, Rhyl",Bodelwyddan,Wales,53.255919,-3.475601,g
 loc-6b1fb1ab1790aea0,"Brackla, Bridgend",Brackla,Wales,51.509146,-3.540993,gb
 loc-a6fc0a9a728a0868,"Bridgend, Bridgend County",Bridgend,Wales,51.507301,-3.58104,gb
 loc-d5858621a00c7b78,"Briton Ferry, Neath",Briton Ferry,Wales,51.618977,-3.822974,gb
+loc-2c85c5ab4c6cc8b9,"Caerphilly, Caerphilly County",Caerphilly,Wales,51.578602,-3.21806,gb
 loc-71830656f078ed82,"Cardiff, Cardiff County",Cardiff,Wales,51.4813,-3.1805,gb
 loc-b7fe6e1b29ec9c0f,"Cardiff County, Wales",Cardiff County,Wales,51.5078,-3.210445,gb
 loc-54d411e2a81b0fa4,"Carmarthenshire, Wales",Carmarthenshire,Wales,51.874401,-4.214381,gb
@@ -1758,6 +1764,7 @@ loc-e639b751c366ec6f,"Wolverhampton, West Midlands",Wolverhampton,West Midlands,
 loc-ce9160ba8a2b773c,"Woodloes Park, Warwick",Woodloes Park,West Midlands,52.286513,-1.581811,gb
 loc-336e83eed7f857bb,"Worcester, Worcestershire",Worcester,West Midlands,52.192001,-2.22353,gb
 loc-f6a916dfd13a2321,"Worcestershire, West Midlands",Worcestershire,West Midlands,52.22285,-2.183016,gb
+loc-f1f53161c9b2d8f0,"Allerthorpe, York",Allerthorpe,Yorkshire And The Humber,53.923684,-0.810804,gb
 loc-39cd907304da7c2d,"Altofts, Normanton",Altofts,Yorkshire And The Humber,53.70022,-1.415766,gb
 loc-6e927c424305c95f,"Armley, Leeds",Armley,Yorkshire And The Humber,53.788848,-1.600465,gb
 loc-aeaa4c410fa72411,"Barnsley, South Yorkshire",Barnsley,Yorkshire And The Humber,53.552898,-1.48127,gb
@@ -1813,8 +1820,10 @@ loc-3ac117203f3027fc,"Mount Pleasant, Batley",Mount Pleasant,Yorkshire And The H
 loc-c2802c02e398355f,"Normanton, West Yorkshire",Normanton,Yorkshire And The Humber,53.699799,-1.4155,gb
 loc-a8f7d33be3fef6f1,"Northallerton, North Yorkshire",Northallerton,Yorkshire And The Humber,54.341599,-1.43536,gb
 loc-1157a306b15340e6,"Norton, Sheffield",Norton,Yorkshire And The Humber,53.375878,-1.466785,gb
+loc-d8247f0fc2cc3485,"Potternewton, Leeds",Potternewton,Yorkshire And The Humber,53.807298,-1.519079,gb
 loc-923e6161c71b6668,"Redcar, North Yorkshire",Redcar,Yorkshire And The Humber,54.603001,-1.07763,gb
 loc-e91398b14f955eff,"Renishaw, Sheffield",Renishaw,Yorkshire And The Humber,53.296611,-1.325733,gb
+loc-aaf61e719e8b16e3,"Romanby, Northallerton",Romanby,Yorkshire And The Humber,54.333009,-1.439167,gb
 loc-39557bd51f754e62,"Rotherham, South Yorkshire",Rotherham,Yorkshire And The Humber,53.430199,-1.3569,gb
 loc-82cefb1cf6af9b09,"Sandtoft, Doncaster",Sandtoft,Yorkshire And The Humber,53.580406,-0.851058,gb
 loc-4b1b11f7a448dec3,"Scarborough, North Yorkshire",Scarborough,Yorkshire And The Humber,54.280102,-0.402401,gb
